@@ -1,0 +1,5 @@
+<celldesigner:protein id="pr1" name="s17" type="GENERIC"/>
+<celldesigner:protein id="pr2" name="s18" type="GENERIC"/>
+<celldesigner:gene id="gn1" name="s19" type="GENE"/>
+<celldesigner:gene id="gn2" name="s20" type="GENE"/>
+

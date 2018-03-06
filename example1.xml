@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8">
+
+<sbml>
+  <model>
+    <notes/>
+    <annotation>
+      <celldesigner:extension>
+        <celldesigner:modelVersion/>
+        <celldesigner:listOfSpeciesAliases/>
+      </celldesigner:extension>
+    </annotation>
+    <listOfUnitDefinitions>
+      <unitDefinition/>
+    </listOfUnitDefinitions>
+    <listOfCompartments>
+      <compartment/>
+    </listOfCompartments>
+    <listOfSpecies/>
+  </model>
+</sbml>
