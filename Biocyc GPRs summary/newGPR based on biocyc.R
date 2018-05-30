@@ -106,7 +106,7 @@ write.table(newGR_biocyc, "output/newGR_biocyc.txt", row.names = FALSE, sep = "\
 
 
 ## gene annotation from biocyc
-gene_ec_biocyc <- read.table("gene_ec_biocyc.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE) %>%
+gene_ec_biocyc <- read.table("input/gene_ec_biocyc.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE) %>%
   select(., Gene.Name, Reactions.of.gene) %>%
   filter(., str_detect(Reactions.of.gene, "\\."))
 gene_ec_biocyc$Reactions.of.gene <- str_replace_all(gene_ec_biocyc$Reactions.of.gene,"-RXN","")
@@ -118,18 +118,18 @@ gene_ec_biocyc0 <- splitAndCombine(gene_ec_biocyc$Reactions.of.gene, gene_ec_bio
 
 
 ## get annotation and subsystem for each gene
-gene_pathway_biocyc <- read.table("All_genes_pathway_biocyc.txt", header = TRUE, sep="\t", stringsAsFactors = FALSE)
+gene_pathway_biocyc <- read.table("input/All_genes_pathway_biocyc.txt", header = TRUE, sep="\t", stringsAsFactors = FALSE)
 gene_pathway_biocyc$gene_standard_name <- getMultipleReactionFormula(gene_standard_name$systematic_name,gene_standard_name$comman_name,gene_pathway_biocyc$Gene.Name)
 gene_pathway_biocyc$check <- gene_pathway_biocyc$gene_standard_name == gene_pathway_biocyc$Accession.1
-write.table(gene_pathway_biocyc, "gene_pathway and annotation in biocyc.txt", row.names = FALSE, sep="\t") ## >>> for manual check
+write.table(gene_pathway_biocyc, "output/gene_pathway and annotation in biocyc.txt", row.names = FALSE, sep="\t") ## >>> for manual check
 
 ##>>>>>after manual check
-gene_pathway_biocyc0 <- read_excel("gene_pathway and annotation in biocyc after manual check.xlsx", 
+gene_pathway_biocyc0 <- read_excel("input/gene_pathway and annotation in biocyc after manual check.xlsx", 
                       sheet = "Sheet1")
 
 gene_pathway_biocyc0$ec <- getMultipleReactionFormula(gene_ec_biocyc0$v1,gene_ec_biocyc0$v2,gene_pathway_biocyc0$Gene.Name)
 gene_pathway_biocyc0$reaction_biocyc <- getMultipleReactionFormula(GR_biocyc$reaction_biocyc,GR_biocyc$gene,gene_pathway_biocyc0$gene_standard_name)
-write.table(gene_pathway_biocyc0, "gene_pathway and annotation in biocyc0.txt", row.names = FALSE, sep="\t")
+write.table(gene_pathway_biocyc0, "output/gene_pathway and annotation in biocyc0.txt", row.names = FALSE, sep="\t")
 
 
 ##get reactions according to EC
