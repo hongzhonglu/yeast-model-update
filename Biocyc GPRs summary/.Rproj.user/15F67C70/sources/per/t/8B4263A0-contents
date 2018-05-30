@@ -1,13 +1,6 @@
 library(readxl)
 library(stringr)
 library(tidyverse)
-reaction <- read_excel("reaction.xlsx")
-reaction$X__1 <- str_replace_all(reaction$X__1, "↔", "<=>")
-reaction$X__1 <- str_replace_all(reaction$X__1, " → ", " => ")  ## some metabolites have "→"
-reaction$X__1 <- str_replace_all(reaction$X__1, "→", "->")  ## some metabolites have "→"
-reaction$X__1 <- str_replace_all(reaction$X__1, "α", "alpha")
-reaction$X__1 <- str_replace_all(reaction$X__1, "β", "beta")
-reaction$X__1 <- str_replace_all(reaction$X__1, "ω", "omega")
 
 #function 1
 getMultipleReactionFormula <- function(description, reaction_ko, ko) {###description can be any charater of metabolite
@@ -64,11 +57,21 @@ splitAndCombine <- function(gene, rxn) { ##one rxn has several genes, this funct
 }
 
 #data input
-## Obtain the sytematic name of gene related with the reactions
-gene_standard_name <- read_excel("gene_name.xlsx")
+    #Obtain the sytematic name of gene related with the reactions
+gene_standard_name <- read_excel("input/gene_name.xlsx")
 gene_standard_name <- select(gene_standard_name, `Accession-1`, `Common-Name`)
 colnames(gene_standard_name)<- c("systematic_name","comman_name")
-genelist_v7_7 <- read.csv("genelist in v7.7.csv", sep = ";", stringsAsFactors = FALSE)
+    #input the genelist in present model
+genelist_v7_7 <- read.csv("input/genelist in v7.7.csv", sep = ";", stringsAsFactors = FALSE)
+    #input the yeast metabolic model downloaded from biocyc
+reaction <- read_excel("input/reaction.xlsx")
+reaction$X__1 <- str_replace_all(reaction$X__1, "↔", "<=>")
+reaction$X__1 <- str_replace_all(reaction$X__1, " → ", " => ")  ## some metabolites have "→"
+reaction$X__1 <- str_replace_all(reaction$X__1, "→", "->")  ## some metabolites have "→"
+reaction$X__1 <- str_replace_all(reaction$X__1, "α", "alpha")
+reaction$X__1 <- str_replace_all(reaction$X__1, "β", "beta")
+reaction$X__1 <- str_replace_all(reaction$X__1, "ω", "omega")
+
 
 
 ## Establish relations between genes and reactions one by one
@@ -95,7 +98,10 @@ GR_biocyc <- splitAndCombine(GR0$sytematic_name, GR0$X__1)
 colnames(GR_biocyc) <- c("gene","reaction_biocyc")
 GR_biocyc$sign <- geneExist(genelist_v7_7$geneNames, GR_biocyc$gene)
 newGR_biocyc <- filter(GR_biocyc,sign =="NO")
-write.table(newGR_biocyc, "newGR_biocyc.txt", row.names = FALSE, sep = "\t")
+write.table(newGR_biocyc, "output/newGR_biocyc.txt", row.names = FALSE, sep = "\t")
+
+
+
 
 
 

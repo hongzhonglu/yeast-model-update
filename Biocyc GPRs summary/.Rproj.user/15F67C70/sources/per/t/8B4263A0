@@ -4,16 +4,16 @@
     "created" : 1514470151464.000,
     "dirty" : false,
     "encoding" : "UTF-8",
-    "folds" : "12|70|27|0|\n30|46|40|0|\n43|40|63|0|\n",
-    "hash" : "4261297716",
+    "folds" : "5|70|20|0|\n23|46|33|0|\n36|40|56|0|\n",
+    "hash" : "1915767768",
     "id" : "8B4263A0",
-    "lastKnownWriteTime" : 1527678381,
-    "last_content_update" : 1527678381625,
-    "path" : "~/Google Drive/R application and code/Database summary to find new GPRs/Biocyc GPRs summary/newGPR based on biocyc.R",
+    "lastKnownWriteTime" : 1527686657,
+    "last_content_update" : 1527686657067,
+    "path" : "~/Documents/GitHub/yeast-model-update/Biocyc GPRs summary/newGPR based on biocyc.R",
     "project_path" : "newGPR based on biocyc.R",
     "properties" : {
-        "cursorPosition" : "127,0",
-        "scrollLine" : "113"
+        "cursorPosition" : "76,0",
+        "scrollLine" : "74"
     },
     "relative_order" : 1,
     "source_on_save" : false,
