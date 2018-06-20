@@ -6,6 +6,7 @@ import os    ##for directory
 os.chdir('/Users/luho/PycharmProjects/python learning/venv/project1_modelling/model_correction/code')
 os.getcwd()
 
+
 """input the data"""
 yeastGEM = pd.read_excel('../data/yeastGEM_latest version.xls')
 compartment = pd.read_excel('../data/Compartment.xlsx')
@@ -48,7 +49,7 @@ def splitAndCombine(gene, rxn, sep0, moveDuplicate=False):
 
 yeastGEM_s = splitAndCombine(yeastGEM0['GPR'],yeastGEM0['Abbreviation'],sep0=";")
 yeastGEM_s.columns = ['Abbreviation','gene']
-
+yeastGEM_s.gene = yeastGEM_s.gene.str.strip()
 
 """mapping"""
 def singleMapping (description, item1, item2):
@@ -89,7 +90,6 @@ def multiMapping (description, item1, item2):
 yeastGEM_s['rxn'] = singleMapping(yeastGEM0.iloc[:,1].tolist(),yeastGEM0.iloc[:,0].tolist(),yeastGEM_s.iloc[:,0].tolist())
 
 
-
 """extract the compartment information from each reaction"""
 compartment['name'] = "[" + compartment['name'] + "]"
 cp10 = compartment['name'].tolist()
@@ -114,31 +114,43 @@ for j in range(len(rxn)):
     yeastGEM_s['compartment'][j] = getCompartment(rxn[j])
 
 
-"""input the compartment annotation"""
-
+"""input the compartment annotation from SGD"""
 compartment_SGD['go_type'] = compartment_SGD['go_type'].fillna('NA')
 compartment_SGD0 = compartment_SGD[compartment_SGD['go_type'].str.contains("component")]
 
 
-"""refine the compartment information from SGD"""
-ss = compartment_SGD0['systematic_name'].tolist()
-yeastGEM_s['gene'] = yeastGEM_s['gene'].str.strip()
-ss2 = yeastGEM_s['gene'].tolist()
-ss3 = [None]*len(compartment_SGD0)
-
-for i in range(len(compartment_SGD0['go_term'])):
-    if ss[i] in ss2:
-        ss3[i] = "Yes"
-    else:
-        ss3[i] = "No"
-
-compartment_SGD0['exist'] = ss3
-compartment_SGD1 = compartment_SGD0[compartment_SGD0['exist'].str.contains("Yes")]
-#compartment_SGD2 = compartment_SGD1[~compartment_SGD1['go_term'].str.contains("complex")]
-
-unique_GENE_SGD = compartment_SGD1['systematic_name'].unique()
-unique_cp_SGD = compartment_SGD1['go_term'].unique()
+"""refine the compartment annotation from SGD"""
+unique_cp_SGD = compartment_SGD0['go_term'].unique()
 unique_cp_SGD = unique_cp_SGD.tolist()
+unique_cp_SGD = pd.DataFrame(unique_cp_SGD)
+unique_cp_SGD.columns = ['compartment']
+unique_cp_SGD.columns = unique_cp_SGD.columns.str.strip()
+
+"""standardize location information from SGD"""
+def getSimilarTarget(rxn_yeast0,rxn_newGPR0,ss):
+    from fuzzywuzzy import fuzz
+    from fuzzywuzzy import process
+    rxn_yeast1 = np.array(rxn_yeast0)  # np.ndarray()
+    rxn_yeast2 = rxn_yeast1.tolist()
+    rxn_yeast3 = pd.Series((v[0] for v in rxn_yeast2))
+    rxn_newGPR1 = np.array(rxn_newGPR0)  # np.ndarray()
+    rxn_newGPR2 = rxn_newGPR1.tolist()
+    rxn_newGPR3 = pd.Series((v[0] for v in rxn_newGPR2))
+    similarTarget = [None] * ss
+    for i in range(ss):
+        similarTarget[i] = process.extract(rxn_newGPR3[i], rxn_yeast3, limit=2)
+
+    return similarTarget
+
+ss0 = len(unique_cp_SGD)
+similarTarget0 = getSimilarTarget(compartment[['description']],unique_cp_SGD[['compartment']],ss=ss0)
+unique_cp_SGD['similar_target'] = similarTarget0
+unique_cp_SGD.head()
+
+"""save the standard location information from uniprot for manual check"""
+writer = pd.ExcelWriter('../data/unique_compartment_SGD.xlsx')
+unique_cp_SGD.to_excel(writer,'Sheet1')
+writer.save()
 
 
 """replace the compartment information using standard name from model"""
@@ -147,21 +159,16 @@ sgdChange = pd.read_excel(xls, 'Sheet2')
 sgdChange['SGD'] = sgdChange['SGD'].str.strip()
 sgdChange['model_name'] = sgdChange['model_name'].str.strip()
 
-compartment_SGD1['compartment'] = singleMapping(sgdChange['model_name'].tolist(),sgdChange['SGD'].tolist(),compartment_SGD1['go_term'].tolist())
-
-
+compartment_SGD0['compartment'] = singleMapping(sgdChange['model_name'].tolist(),sgdChange['SGD'].tolist(),compartment_SGD0['go_term'].tolist())
 gene_compartmentSGD = pd.DataFrame({
-    'gene': compartment_SGD1['systematic_name'].unique()
+    'gene': compartment_SGD0['systematic_name'].str.strip().unique()
 })
 
-gene_compartmentSGD['compartment'] = multiMapping(compartment_SGD1['compartment'].tolist(),compartment_SGD1['systematic_name'].tolist(),gene_compartmentSGD['gene'].tolist())
-
+gene_compartmentSGD['compartment'] = multiMapping(compartment_SGD0['compartment'].tolist(),compartment_SGD0['systematic_name'].tolist(),gene_compartmentSGD['gene'].tolist())
+gene_compartmentSGD[gene_compartmentSGD.gene == "YDL174C"]
 
 """merge the SGD compartment with yeastGEM and data analysis"""
-yeastGEM_s['compartment_sgd'] = singleMapping(gene_compartmentSGD['compartment'].tolist(),gene_compartmentSGD['gene'].tolist(),yeastGEM_s['gene'].tolist())
-yeastGEM_s0 = yeastGEM_s[(yeastGEM_s['gene'] != 'NA')]
-
-
+yeastGEM_s['compartment_sgd'] = singleMapping(gene_compartmentSGD['compartment'].tolist(),gene_compartmentSGD['gene'].tolist(), yeastGEM_s['gene'].tolist())
 
 
 
@@ -192,6 +199,7 @@ unique_compartment_uniprot = unique_compartment_uniprot.unique()
 unique_compartment_uniprot = pd.DataFrame(unique_compartment_uniprot)
 unique_compartment_uniprot.columns = ['compartment']
 
+"""standardize location information from uniprot database"""
 def getSimilarTarget(rxn_yeast0,rxn_newGPR0,ss):
     from fuzzywuzzy import fuzz
     from fuzzywuzzy import process
@@ -212,9 +220,11 @@ similarTarget0 = getSimilarTarget(compartment[['description']],unique_compartmen
 unique_compartment_uniprot['similar_target'] = similarTarget0
 unique_compartment_uniprot.head()
 
+"""save the standard location information from uniprot for manual check"""
 writer = pd.ExcelWriter('../data/unique_compartment_uniprot.xlsx')
 unique_compartment_uniprot.to_excel(writer,'Sheet1')
 writer.save()
+
 
 """replace the compartment information using standard name from model for uniprot gene location annotation"""
 xls = pd.ExcelFile('../data/Compartment.xlsx')
@@ -226,7 +236,7 @@ compartment_uniprot['model_name'] = singleMapping(uniChange['model_name'].tolist
 
 
 gene_compartmentUNI = pd.DataFrame({
-    'gene': compartment_uniprot['gene'].unique()
+    'gene': compartment_uniprot['gene'].str.strip().unique()
 })
 
 gene_compartmentUNI['compartment'] = multiMapping(compartment_uniprot['model_name'].tolist(),compartment_uniprot['gene'].tolist(),gene_compartmentUNI['gene'].tolist())
@@ -238,6 +248,7 @@ yeastGEM_s['compartment_uni'] = singleMapping(gene_compartmentUNI['compartment']
 yeastGEM_s0 = yeastGEM_s[(yeastGEM_s['gene'] != 'NA')]
 
 
+
 """combine sgd and uniprot"""
 yeastGEM_s0.compartment_sgd = yeastGEM_s0.compartment_sgd.astype(str)
 yeastGEM_s0.compartment_uni = yeastGEM_s0.compartment_uni.astype(str)
@@ -246,6 +257,7 @@ yeastGEM_s0['combine'] = yeastGEM_s0['combine'].astype(str)
 yeastGEM_s0['combine_unique'] = [None]*len(yeastGEM_s0['combine'])
 
 
+"""remove the duplicated compartment information"""
 for index, row in yeastGEM_s0.iterrows():
     print(index)
     if ';' in yeastGEM_s0['combine'][index]:
@@ -257,6 +269,7 @@ for index, row in yeastGEM_s0.iterrows():
         yeastGEM_s0['combine_unique'][index] = ss
     else:
         yeastGEM_s0['combine_unique'][index] = yeastGEM_s0['combine'][index]
+
 
 
 """find the common compartment in the model and database annotation"""
