@@ -1,0 +1,737 @@
+qseqid	ID	pident	length	mismatch	gapopen	qstart	qend	sstart	send	evalues	bitscore	annotation
+19-EC1118_1O4_6491g	gnl|TC-DB|P39709|2.A.1.14.37	73.2	589	152	3	1	1761	1	585	7.40E-257	882.9	Probable transporter SEO1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEO1 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|P39924|2.A.1.1.110	72.5	461	127	0	91	1473	18	478	4.10E-195	677.6	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|P54854|2.A.1.1.107	70.4	467	138	0	73	1473	15	481	4.70E-191	664.1	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|P39004|2.A.1.1.31	56.2	491	209	3	1	1473	1	485	1.00E-156	550.1	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|P13181|2.A.1.1.6	58.6	442	182	1	148	1473	51	491	2.10E-154	542.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+24-EC1118_1O4_6557g	gnl|TC-DB|P32467|2.A.1.1.30	52	492	231	3	7	1473	2	491	3.10E-150	528.5	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+24-EC1118_1O4_6557g	gnl|TC-DB|P32465|2.A.1.1.108	51.3	485	234	2	22	1473	2	485	1.10E-147	520	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|P23585|2.A.1.1.111	52.7	469	219	3	73	1473	9	476	3.20E-147	518.5	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|P43581|2.A.1.1.5	52.7	471	220	3	61	1473	2	469	1.20E-146	516.5	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+24-EC1118_1O4_6557g	gnl|TC-DB|P54862|2.A.1.1.105	56.3	437	188	2	169	1473	48	483	2.10E-146	515.8	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+24-EC1118_1O4_6557g	gnl|TC-DB|Q2MDH1|2.A.1.1.67	49.4	466	230	4	85	1473	5	467	6.10E-138	487.6	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+25-EC1118_1O4_6568g	gnl|TC-DB|Q12359|2.A.96.1.5	58.2	177	72	2	4	531	99	274	1.40E-52	202.6	Ammonia transport outward protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATO3 PE=1 SV=1
+29-EC1118_1O4_6634g	gnl|TC-DB|Q8NJ22|2.A.1.1.33	67.6	561	171	4	13	1680	2	556	7.20E-209	723.4	Hexose transporter (Similarity) - Kluyveromyces lactis (Yeast).
+29-EC1118_1O4_6634g	gnl|TC-DB|A8DCT2|2.A.1.1.126	50.1	543	263	5	67	1683	5	543	1.90E-140	496.1	Putative sugar transporter OS=Gibberella moniliformis GN=FST1 PE=3 SV=1
+29-EC1118_1O4_6634g	gnl|TC-DB|Q0ULF7|2.A.1.1.70	48.7	557	265	7	13	1665	2	543	1.70E-138	489.6	Putative uncharacterized protein OS=Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) GN=SNOG_07407 PE=3 SV=1
+46-PUT_LAC_TRASP-R.14850-	gnl|TC-DB|P07921|2.A.1.1.9	46.7	486	259	0	618	2075	58	543	1.50E-128	457.2	Lactose permease - Kluyveromyces lactis (Yeast).
+47-RTM1-R.14851-	gnl|TC-DB|P40100|9.A.26.1.3	60.9	307	114	2	1	921	1	301	4.10E-97	351.3	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+59-augustus_masked-1113-BMC_1	gnl|TC-DB|P43548|2.A.3.10.14	89.4	160	17	0	79	558	1	160	2.10E-75	278.5	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
+69-augustus_masked-11590-BAL_7	gnl|TC-DB|P40100|9.A.26.1.3	86.8	303	40	0	1	909	1	303	3.80E-140	494.2	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+75-augustus_masked-11951-BDM_5	gnl|TC-DB|P25621|2.A.1.14.18	58.4	440	175	2	145	1440	25	464	3.30E-160	561.6	Pantothenate transporter FEN2 - Saccharomyces cerevisiae (Baker's yeast).
+81-augustus_masked-1220-ANM_2	gnl|TC-DB|P33335|2.A.1.3.54	63.4	238	87	0	34	747	11	248	2.80E-80	295	Protein SGE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SGE1 PE=1 SV=1
+83-augustus_masked-12212-ALI_5	gnl|TC-DB|P32804|2.A.5.1.1	62.8	379	135	4	1	1128	1	376	5.00E-134	474.2	ZRT1 PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+87-augustus_masked-125-YCE	gnl|TC-DB|Q12359|2.A.96.1.5	48.9	276	129	6	13	816	3	274	3.10E-64	241.9	Ammonia transport outward protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATO3 PE=1 SV=1
+95-augustus_masked-1364-CFF_4	gnl|TC-DB|P25560|9.B.82.1.1	96.3	188	7	0	1	564	1	188	1.80E-100	361.7	Protein RER1 - Saccharomyces cerevisiae (Baker's yeast).
+95-augustus_masked-1364-CFF_4	gnl|TC-DB|O15258|9.B.82.1.2	51	157	77	0	79	549	28	184	2.90E-45	178.3	Protein RER1 - Homo sapiens (Human).
+95-augustus_masked-1364-CFF_4	gnl|TC-DB|O48670|9.B.82.1.3	50.6	162	79	1	79	564	25	185	1.10E-41	166.4	Protein RER1A - Arabidopsis thaliana (Mouse-ear cress).
+98-augustus_masked-1375-CFF_4	gnl|TC-DB|P40445|2.A.1.14.38	97.2	542	15	0	1	1626	1	542	4.90E-308	1052.7	Uncharacterized transporter YIL166C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YIL166C PE=1 SV=1
+102-augustus_masked-1433-AAT_3	gnl|TC-DB|P32319|9.A.63.1.1	52.4	806	327	8	1	2352	1	771	9.20E-239	823.2	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+120-augustus_masked-1671-AIE_1	gnl|TC-DB|P40550|3.A.1.205.8	96.6	1412	47	1	1	4236	1	1411	0	2698.7	ATP-dependent permease PDR11 - Saccharomyces cerevisiae (Baker's yeast).
+120-augustus_masked-1671-AIE_1	gnl|TC-DB|Q08409|3.A.1.205.15	65.6	1403	458	8	1	4188	1	1385	0	1810.8	ATP-dependent permease AUS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=AUS1 PE=1 SV=1
+120-augustus_masked-1671-AIE_1	gnl|TC-DB|Q6FUR1|3.A.1.205.13	62.9	1435	467	11	1	4218	1	1398	0	1707.2	ABC transporter OS=Candida glabrata GN=CgAUS1 PE=4 SV=1
+134-augustus_masked-1700-AIE_1	gnl|TC-DB|Q06451|2.A.1.2.66	97.4	622	16	0	1	1866	1	622	0	1129.4	Polyamine transporter 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TPO3 PE=1 SV=1
+134-augustus_masked-1700-AIE_1	gnl|TC-DB|P53283|2.A.1.2.67	84.6	622	87	3	1	1866	1	613	1.70E-272	934.9	Polyamine transporter 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TPO2 PE=1 SV=1
+134-augustus_masked-1700-AIE_1	gnl|TC-DB|B6H9Q3|2.A.1.2.85	52.5	583	249	6	97	1839	7	563	2.70E-161	565.5	Pc16g11960 protein OS=Penicillium chrysogenum (strain ATCC 28089 / DSM 1075 / Wisconsin 54-1255) GN=Pc16g11960 PE=4 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P39004|2.A.1.1.31	97.9	97	2	0	1	291	139	235	1.40E-48	188.3	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P32467|2.A.1.1.30	95.9	97	4	0	1	291	145	241	1.20E-47	185.3	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P32465|2.A.1.1.108	90.7	97	9	0	1	291	139	235	2.50E-45	177.6	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P13181|2.A.1.1.6	86.6	97	13	0	1	291	145	241	3.60E-44	173.7	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P23585|2.A.1.1.111	81.4	97	18	0	1	291	130	226	1.70E-41	164.9	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P54862|2.A.1.1.105	80.4	97	19	0	1	291	135	231	2.90E-41	164.1	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P43581|2.A.1.1.5	76.3	97	23	0	1	291	123	219	3.80E-41	163.7	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+148-augustus_masked-1999-AID_2	gnl|TC-DB|Q2MDH1|2.A.1.1.67	63.9	97	35	0	1	291	118	214	6.40E-33	136.3	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P54854|2.A.1.1.107	58.9	95	39	0	7	291	137	231	6.60E-30	126.3	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+148-augustus_masked-1999-AID_2	gnl|TC-DB|P39924|2.A.1.1.110	57.9	95	40	0	7	291	134	228	1.90E-29	124.8	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+149-augustus_masked-2075-ARN_6	gnl|TC-DB|P40445|2.A.1.14.38	45.1	244	129	3	145	867	21	262	1.10E-51	200.3	Uncharacterized transporter YIL166C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YIL166C PE=1 SV=1
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|Q2MEV7|2.A.1.1.51	60.6	477	184	4	46	1467	21	496	4.20E-163	571.2	Glucose/xylose symporter 1 - Candida intermedia.
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|A3M0N3|2.A.1.1.68	57	523	218	6	7	1560	8	528	9.10E-158	553.5	Glucose transporter/sensor OS=Pichia stipitis GN=RGT2 PE=4 SV=1
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|B1PM37|2.A.1.1.64	50.2	500	240	5	49	1524	66	564	1.70E-135	479.6	Glucose sensor - Pichia angusta (Yeast) (Hansenula polymorpha).
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|Q12300|2.A.1.1.19	50.5	465	223	4	49	1422	95	559	2.10E-130	462.6	High-affinity glucose transporter RGT2 - Saccharomyces cerevisiae (Baker's yeast).
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|P10870|2.A.1.1.17	50.1	465	224	5	49	1422	93	556	4.10E-126	448.4	High-affinity glucose transporter SNF3 OS=Saccharomyces cerevisiae GN=SNF3 PE=1 SV=3
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|Q8J0V1|2.A.1.1.57	48.8	492	232	5	58	1476	18	508	1.00E-124	443.7	Monosaccharide transporter - Aspergillus niger.
+153-augustus_masked-2075-ARN_6	gnl|TC-DB|G4N740|2.A.1.1.117	46	496	257	2	19	1485	3	494	2.40E-118	422.5	Glucose transporter rco-3 OS=Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) GN=MGG_03620 PE=3 SV=1
+157-augustus_masked-2154-BRV_4	gnl|TC-DB|P38360|3.A.3.5.14	81.3	1071	193	5	625	3825	149	1216	0	1647.5	Probable copper-transporting ATPase - Saccharomyces cerevisiae (Baker's yeast).
+166-augustus_masked-2358-ARB_2	gnl|TC-DB|P53388|2.A.3.10.13	66.6	596	192	3	7	1776	14	608	2.70E-219	758.1	Dicarboxylic amino acid permease - Saccharomyces cerevisiae (Baker's yeast).
+173-augustus_masked-2546-BAD_8	gnl|TC-DB|P14359|9.B.12.3.1	45.6	125	56	1	1	375	13	125	2.20E-25	111.7	HYPOTHETICAL 15.2 KDA PROTEIN IN INO1-IDS2 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+177-augustus_masked-2802-CPI_4	gnl|TC-DB|Q08280|2.A.1.7.13	94.1	490	29	0	118	1587	8	497	7.10E-267	916	Bypass of stop codon protein 6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=BSC6 PE=1 SV=1
+190-augustus_masked-2843-CPI_4	gnl|TC-DB|P40100|9.A.26.1.3	68	284	91	0	85	936	17	300	4.90E-106	380.9	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+190-augustus_masked-2843-CPI_4	gnl|TC-DB|P53047|9.A.26.1.1	45.9	283	135	3	91	927	17	285	7.20E-57	217.6	RTA1 protein - Saccharomyces cerevisiae (Baker's yeast).
+193-augustus_masked-2860-CPI_4	gnl|TC-DB|P38359|2.A.53.1.1	94.9	859	44	0	16	2592	1	859	0	1639.8	SULFATE PERMEASE 1 (HIGH-AFFINITY SULFATE TRANSPORTER 1) - Saccharomyces cerevisiae (Baker's yeast).
+193-augustus_masked-2860-CPI_4	gnl|TC-DB|Q12325|2.A.53.1.13	63.3	893	275	10	37	2592	13	893	0	1078.9	Sulfate permease 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SUL2 PE=1 SV=1
+194-augustus_masked-2860-CPI_4	gnl|TC-DB|P38358|2.A.1.48.2	94.7	474	25	0	262	1683	1	474	6.80E-244	839.7	Vacuolar basic amino acid transporter 2 - Saccharomyces cerevisiae (Baker's yeast).
+205-augustus_masked-3001-BGP_1	gnl|TC-DB|Q08269|1.A.35.2.1	64	860	262	4	1	2439	1	859	2.40E-298	1021.1	Aluminum resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+212-augustus_masked-3105-AHL_3	gnl|TC-DB|P36033|5.B.1.5.3	93.4	711	47	0	1	2133	1	711	0	1337.4	Ferric/cupric reductase transmembrane component 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FRE2 PE=1 SV=1
+217-augustus_masked-339-ALB_3	gnl|TC-DB|P13587|3.A.3.9.1	94.7	815	43	0	1	2445	277	1091	0	1546.2	SODIUM TRANSPORT ATPASE 1 (EC 3.6.3.7) - Saccharomyces cerevisiae (Baker's yeast).
+217-augustus_masked-339-ALB_3	gnl|TC-DB|P78981|3.A.3.9.4	66.8	805	227	5	1	2412	272	1037	0	1057.4	Na+-ATPase - Zygosaccharomyces rouxii (Candida mogii).
+217-augustus_masked-339-ALB_3	gnl|TC-DB|O13398|3.A.3.9.3	57.3	824	285	15	1	2421	301	1074	4.90E-251	864	P-type ATPase 2 - Debaryomyces occidentalis (Yeast) (Schwanniomyces occidentalis).
+217-augustus_masked-339-ALB_3	gnl|TC-DB|B5B9V9|3.A.3.9.5	52.7	788	339	11	1	2346	300	1059	9.30E-218	753.4	Na+ or K+ P-type ATPase OS=Ustilago maydis GN=ena1 PE=3 SV=1
+217-augustus_masked-339-ALB_3	gnl|TC-DB|P22189|3.A.3.9.2	46.9	781	360	11	1	2337	276	1003	1.80E-181	632.9	CALCIUM-TRANSPORTING ATPASE 3 (EC 3.6.3.8) - Schizosaccharomyces pombe (Fission yeast).
+233-augustus_masked-4747-CNV_4	gnl|TC-DB|P38124|2.A.1.2.17	59.2	546	220	3	1	1632	1	545	8.80E-188	653.3	Fluconazole resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+241-augustus_masked-4866-BCP_8	gnl|TC-DB|P15685|2.A.1.1.10	73.9	614	156	4	1	1833	1	613	2.70E-270	927.5	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+241-augustus_masked-4866-BCP_8	gnl|TC-DB|P53048|2.A.1.1.11	54.2	587	256	5	1	1731	1	584	3.90E-184	641.3	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P54854|2.A.1.1.107	91.7	288	24	0	1	864	87	374	9.20E-152	532.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P39924|2.A.1.1.110	90.6	288	27	0	1	864	84	371	2.10E-151	531.6	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P13181|2.A.1.1.6	59.4	288	116	1	7	870	100	386	2.30E-94	342	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P39004|2.A.1.1.31	57.8	287	120	1	7	867	94	379	6.30E-92	334	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P54862|2.A.1.1.105	53.8	290	133	1	1	870	88	376	1.80E-91	332.4	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P32467|2.A.1.1.30	57	284	121	1	7	858	100	382	1.20E-90	329.7	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P32465|2.A.1.1.108	53.5	288	133	1	7	870	94	380	1.00E-89	326.6	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P43581|2.A.1.1.5	51.9	287	137	1	7	867	78	363	3.60E-87	318.2	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|P23585|2.A.1.1.111	52.8	288	135	1	7	870	85	371	3.00E-86	315.1	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+242-augustus_masked-4866-BCP_8	gnl|TC-DB|Q2MDH1|2.A.1.1.67	50.2	289	143	1	1	867	71	358	1.50E-85	312.8	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P32467|2.A.1.1.30	91.8	390	32	0	1	1170	145	534	1.10E-211	732.3	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P39004|2.A.1.1.31	93.1	390	27	0	1	1170	139	528	9.00E-211	729.2	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P13181|2.A.1.1.6	76.4	390	92	0	1	1170	145	534	1.10E-179	625.9	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P32465|2.A.1.1.108	76.7	390	91	0	1	1170	139	528	2.10E-175	611.7	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P54862|2.A.1.1.105	74.5	392	98	1	1	1170	135	526	5.70E-173	603.6	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P23585|2.A.1.1.111	71.3	390	112	0	1	1170	130	519	2.80E-164	574.7	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P43581|2.A.1.1.5	70	390	117	0	1	1170	123	512	1.40E-163	572.4	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+251-augustus_masked-515-ADN_4	gnl|TC-DB|Q2MDH1|2.A.1.1.67	63.4	393	141	1	1	1170	118	510	3.30E-144	508.1	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P39924|2.A.1.1.110	61.9	388	148	0	7	1170	134	521	2.10E-143	505.4	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+251-augustus_masked-515-ADN_4	gnl|TC-DB|P54854|2.A.1.1.107	61.6	388	149	0	7	1170	137	524	5.20E-142	500.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+254-augustus_masked-5425-CDT_2	gnl|TC-DB|P04817|2.A.3.10.4	96.9	590	18	0	1	1770	1	590	0	1139	Arginine permease - Saccharomyces cerevisiae (Baker's yeast).
+254-augustus_masked-5425-CDT_2	gnl|TC-DB|P38971|2.A.3.10.11	71.7	526	147	2	199	1770	48	573	4.10E-223	770.8	Basic amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+254-augustus_masked-5425-CDT_2	gnl|TC-DB|P32487|2.A.3.10.10	61.9	598	215	4	13	1770	15	611	2.70E-211	731.5	Lysine-specific permease - Saccharomyces cerevisiae (Baker's yeast).
+254-augustus_masked-5425-CDT_2	gnl|TC-DB|P43059|2.A.3.10.20	56.1	572	228	9	100	1770	8	571	5.80E-169	590.9	Lysine/arginine permease - Candida albicans (Yeast).
+265-augustus_masked-5486-AQA_4	gnl|TC-DB|Q59UQ7|2.A.28.3.7	57.1	319	128	5	4	945	94	408	4.10E-98	354.8	Putative uncharacterized protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) GN=CaO19.13108 PE=4 SV=1
+269-augustus_masked-5488-AQA_4	gnl|TC-DB|P49792|1.I.1.1.3	54.7	137	60	2	190	597	1171	1306	2.30E-32	135.6	E3 SUMO-protein ligase RanBP2 OS=Homo sapiens GN=RANBP2 PE=1 SV=2
+287-augustus_masked-6649-CPA_4	gnl|TC-DB|Q874B4|2.A.1.3.71	45.3	287	154	3	100	954	28	313	7.30E-65	244.2	Drug efflux permease KNQ1 OS=Kluyveromyces lactis PE=4 SV=1
+288-augustus_masked-6650-CPA_4	gnl|TC-DB|P43549|1.A.8.9.7	83.4	645	105	1	1	1935	1	643	NA	1072	HYPOTHETICAL 70.5 KDA PROTEIN IN AGP3-DAK3 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+290-augustus_masked-6668-CPA_4	gnl|TC-DB|Q12016|9.B.199.1.7	97.3	184	5	0	1	552	1	184	3.60E-101	364	Vacuolar protein sorting-associated protein 68 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VPS68 PE=1 SV=1
+290-augustus_masked-6668-CPA_4	gnl|TC-DB|A1CM58|9.B.199.1.4	51.2	164	67	3	64	552	22	173	2.60E-43	171.8	UPF0220 domain protein OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) GN=ACLA_095780 PE=4 SV=1
+290-augustus_masked-6668-CPA_4	gnl|TC-DB|O43073|9.B.199.1.5	45.8	177	83	4	22	552	7	170	1.10E-36	149.8	UPF0220 protein C8D2.02c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=pi063 PE=3 SV=1
+301-augustus_masked-7012-CFC_2	gnl|TC-DB|P22224|1.F.2.1.1	61.7	916	315	11	1	2661	1	909	NA	1066.6	Exocyst complex component SEC15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC15 PE=1 SV=2
+314-augustus_masked-758-BKQ_2	gnl|TC-DB|P38124|2.A.1.2.17	62	563	188	3	1	1662	1	546	1.60E-200	695.7	Fluconazole resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+318-augustus_masked-7605-CPQ_4	gnl|TC-DB|P32487|2.A.3.10.10	94	612	35	2	1	1833	1	611	0	1133.6	Lysine-specific permease - Saccharomyces cerevisiae (Baker's yeast).
+318-augustus_masked-7605-CPQ_4	gnl|TC-DB|P04817|2.A.3.10.4	68.7	527	162	2	256	1833	66	590	1.70E-211	732.3	Arginine permease - Saccharomyces cerevisiae (Baker's yeast).
+318-augustus_masked-7605-CPQ_4	gnl|TC-DB|P38971|2.A.3.10.11	61.7	561	207	4	154	1821	12	569	3.20E-202	701.4	Basic amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+318-augustus_masked-7605-CPQ_4	gnl|TC-DB|P43059|2.A.3.10.20	49.9	555	259	8	214	1833	21	571	1.00E-152	537	Lysine/arginine permease - Candida albicans (Yeast).
+334-augustus_masked-7615-CPQ_4	gnl|TC-DB|P39718|3.A.20.1.5	81.1	180	33	1	1	537	1	180	6.90E-81	296.6	Peroxisome assembly protein 22 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEX22 PE=1 SV=1
+341-augustus_masked-7617-CPQ_4	gnl|TC-DB|KZV12328|3.A.1.31.3	99.3	608	4	0	1	1824	1	608	0	1206.4	RLI1 [Saccharomyces cerevisiae]
+348-augustus_masked-779-BSG_4	gnl|TC-DB|Q12359|2.A.96.1.5	58.9	192	77	2	244	816	84	274	5.40E-61	231.1	Ammonia transport outward protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATO3 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P13181|2.A.1.1.6	97	574	17	0	1	1722	1	574	0	1123.6	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P39004|2.A.1.1.31	72.1	562	155	1	31	1716	7	566	1.70E-245	845.1	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P32467|2.A.1.1.30	72.6	555	149	2	58	1716	19	572	8.20E-245	842.8	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P32465|2.A.1.1.108	70.7	512	150	0	181	1716	55	566	3.50E-227	784.3	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P54862|2.A.1.1.105	65.4	557	188	3	49	1710	8	562	4.90E-213	737.3	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P23585|2.A.1.1.111	69.4	494	151	0	175	1656	44	537	5.80E-206	713.8	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P43581|2.A.1.1.5	65.1	533	181	3	61	1656	2	530	1.90E-201	698.7	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P39924|2.A.1.1.110	61.9	514	193	2	172	1710	44	555	1.90E-188	655.6	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|P54854|2.A.1.1.107	59.3	540	215	2	43	1659	8	543	4.30E-185	644.4	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+359-augustus_masked-8489-AQD_4	gnl|TC-DB|Q2MDH1|2.A.1.1.67	57.5	527	218	2	73	1644	1	524	4.90E-181	630.9	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P13181|2.A.1.1.6	93	443	31	0	1	1329	131	573	1.60E-248	854.7	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P39004|2.A.1.1.31	76.5	442	104	0	1	1326	125	566	1.20E-206	715.7	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P32467|2.A.1.1.30	75.8	442	107	0	1	1326	131	572	1.10E-204	709.1	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P32465|2.A.1.1.108	70.8	442	129	0	1	1326	125	566	3.90E-194	674.1	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P54862|2.A.1.1.105	68.3	442	138	1	1	1320	121	562	8.50E-181	629.8	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P23585|2.A.1.1.111	69.9	425	128	0	1	1275	116	540	1.40E-175	612.5	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P43581|2.A.1.1.5	66.6	422	141	0	1	1266	109	530	2.30E-170	595.1	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P39924|2.A.1.1.110	64.8	440	153	1	1	1320	118	555	4.50E-166	580.9	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|P54854|2.A.1.1.107	63.8	442	158	1	1	1326	121	560	5.00E-165	577.4	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+360-augustus_masked-858-BGT_2	gnl|TC-DB|Q2MDH1|2.A.1.1.67	58	436	173	2	1	1299	104	532	2.70E-150	528.5	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+367-augustus_masked-8846-CQS_4	gnl|TC-DB|P32568|3.A.1.205.2	63.4	284	102	2	1	852	85	366	8.60E-102	366.7	SNQ2 protein - Saccharomyces cerevisiae (Baker's yeast).
+367-augustus_masked-8846-CQS_4	gnl|TC-DB|Q08409|3.A.1.205.15	45.1	193	93	5	277	852	49	229	2.00E-34	142.9	ATP-dependent permease AUS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=AUS1 PE=1 SV=1
+368-augustus_masked-8846-CQS_4	gnl|TC-DB|P32568|3.A.1.205.2	66.7	162	54	0	1	486	404	565	1.60E-60	228.8	SNQ2 protein - Saccharomyces cerevisiae (Baker's yeast).
+371-augustus_masked-8850-CQS_4	gnl|TC-DB|P43548|2.A.3.10.14	71.4	266	76	0	1	798	293	558	9.50E-111	396.4	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
+381-augustus_masked-9671-CGD_5	gnl|TC-DB|P32319|9.A.63.1.1	49.3	458	211	4	1	1311	1	458	4.80E-120	427.9	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+390-augustus_masked-9892-CPR_4	gnl|TC-DB|P38929|3.A.3.2.2	92.1	1174	92	1	1	3522	1	1173	0	2078.5	CALCIUM-TRANSPORTING ATPASE 2 (EC 3.6.3.8) (VACUOLAR CA2+-ATPASE) - Saccharomyces cerevisiae (Baker's yeast).
+396-augustus_masked-9894-CPR_4	gnl|TC-DB|Q12235|2.A.1.14.20	97.2	531	15	0	1	1593	1	531	1.40E-291	998	Uncharacterized transporter YLL055W - Saccharomyces cerevisiae (Baker's yeast).
+397-augustus_masked-9894-CPR_4	gnl|TC-DB|P0CD89|1.A.8.6.2	93.8	289	18	0	1	867	1	289	3.30E-157	550.8	Aquaporin-2 OS=Saccharomyces cerevisiae GN=AQY2 PE=2 SV=1
+397-augustus_masked-9894-CPR_4	gnl|TC-DB|B3IUC4|1.A.8.6.1	83.8	229	37	0	178	864	1	229	2.50E-109	391.7	Aquaporin Aqy1 OS=Saccharomyces cerevisiae PE=3 SV=1
+397-augustus_masked-9894-CPR_4	gnl|TC-DB|F2QVG4|1.A.8.6.3	54.2	275	118	2	1	825	4	270	2.40E-75	278.9	Aquaporin PIP2-7 7 OS=Komagataella pastoris (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) GN=AQY1 PE=1 SV=1
+410-augustus_masked-9906-CPR_4	gnl|TC-DB|P39111|3.A.2.2.3	98.3	118	2	0	1	354	1	118	1.40E-61	231.9	VACUOLAR ATP SYNTHASE SUBUNIT F (EC 3.6.1.34) (V-ATPASE F SUBUNIT) (VACUOLAR PROTON PUMP F SUBUNIT) (V-ATPASE 14 KDA SUBUNIT) - Saccharomyces cerevisiae (Baker's yeast).
+410-augustus_masked-9906-CPR_4	gnl|TC-DB|Q23680|3.A.2.2.7	52.2	115	52	3	4	348	4	115	5.50E-26	113.6	Probable V-type proton ATPase subunit F OS=Caenorhabditis elegans GN=vha-9 PE=3 SV=1
+410-augustus_masked-9906-CPR_4	gnl|TC-DB|Q9ZQX4|3.A.2.2.5	52.2	115	52	2	4	348	9	120	9.30E-26	112.8	V-type proton ATPase subunit F OS=Arabidopsis thaliana GN=VHA-F PE=2 SV=1
+410-augustus_masked-9906-CPR_4	gnl|TC-DB|Q16864|3.A.2.2.4	52.6	116	52	3	1	348	1	113	3.50E-25	110.9	Vacuolar ATP synthase subunit F - Homo sapiens (Human).
+410-augustus_masked-9906-CPR_4	gnl|TC-DB|Q9D1K2|3.A.2.2.6	51.7	116	53	3	1	348	1	113	7.90E-25	109.8	V-type proton ATPase subunit F OS=Mus musculus GN=Atp6v1f PE=1 SV=2
+417-augustus_masked-9909-CPR_4	gnl|TC-DB|C8Z8U3|3.A.16.1.2	88.4	361	42	0	1	1083	1	361	6.20E-174	606.7	Ufd1p OS=Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse) GN=EC1118_1G1_3543g PE=4 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|P32465|2.A.1.1.108	68.7	569	68	3	1	1377	1	569	7.30E-220	759.6	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|P32467|2.A.1.1.30	57.2	565	131	2	4	1377	15	575	3.70E-179	624.4	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+454-maker-1706-AIE_1	gnl|TC-DB|P39004|2.A.1.1.31	57.3	562	127	3	22	1371	7	567	1.50E-175	612.5	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|P13181|2.A.1.1.6	50.5	551	165	2	37	1368	23	572	2.60E-156	548.5	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+454-maker-1706-AIE_1	gnl|TC-DB|P54862|2.A.1.1.105	51.2	559	159	3	37	1371	7	565	7.50E-156	547	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|P43581|2.A.1.1.5	68.5	352	111	0	253	1308	179	530	3.50E-145	511.5	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+454-maker-1706-AIE_1	gnl|TC-DB|P23585|2.A.1.1.111	65.8	374	119	1	214	1308	164	537	7.30E-143	503.8	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|P39924|2.A.1.1.110	56.5	398	163	2	214	1380	166	562	1.80E-133	472.6	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|P54854|2.A.1.1.107	58	376	149	1	214	1314	169	544	1.30E-131	466.5	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|Q2MDH1|2.A.1.1.67	46.9	531	163	4	34	1296	3	524	1.70E-131	466.1	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+454-maker-1706-AIE_1	gnl|TC-DB|Q8J0U9|2.A.1.1.58	48.3	375	182	3	199	1296	155	526	1.90E-98	356.3	Monosaccharide transporter - Aspergillus niger.
+454-maker-1706-AIE_1	gnl|TC-DB|Q400D8|2.A.1.1.36	45.9	375	191	3	199	1296	153	524	1.20E-92	337	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+467-maker-2381-BTV_5	gnl|TC-DB|Q07904|2.A.1.14.36	45.4	141	75	1	94	516	383	521	1.30E-31	132.9	Thiamine pathway transporter THI73 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=THI73 PE=1 SV=1
+475-maker-2817-CPI_4	gnl|TC-DB|P32319|9.A.63.1.1	51.2	754	320	9	1	2154	1	742	9.60E-214	740	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+512-maker-5547-BBE_6	gnl|TC-DB|P32319|9.A.63.1.1	47	434	206	5	16	1248	60	492	1.10E-105	380.2	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+516-maker-6413-CDN_4	gnl|TC-DB|P32319|9.A.63.1.1	64.9	111	32	2	10	324	745	854	8.00E-35	142.9	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+518-maker-6650-CPA_4	gnl|TC-DB|P32467|2.A.1.1.30	70.1	67	20	0	10	210	174	240	2.60E-23	104	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+518-maker-6650-CPA_4	gnl|TC-DB|P13181|2.A.1.1.6	68.7	67	21	0	10	210	174	240	2.20E-22	100.9	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+563-snap_masked-11216-CPN_4	gnl|TC-DB|P32800|3.A.20.1.5	84.9	271	41	0	1	813	1	271	1.20E-140	495.7	Peroxisomal biogenesis factor 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEX2 PE=1 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P54862|2.A.1.1.105	95.3	425	20	0	1	1275	1	425	7.70E-232	799.3	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P39004|2.A.1.1.31	69.7	422	126	1	10	1275	8	427	9.00E-172	599.7	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P32467|2.A.1.1.30	68.5	425	131	2	4	1275	11	433	7.10E-169	590.1	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P13181|2.A.1.1.6	65.2	414	142	1	34	1275	22	433	1.40E-153	539.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P23585|2.A.1.1.111	64.1	409	144	2	49	1275	13	418	1.30E-151	532.7	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P43581|2.A.1.1.5	62.6	420	146	2	16	1275	3	411	1.80E-151	532.3	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P32465|2.A.1.1.108	63.7	410	145	2	46	1275	22	427	6.70E-151	530.4	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|Q2MDH1|2.A.1.1.67	60.7	379	148	1	142	1275	31	409	7.90E-136	480.3	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P39924|2.A.1.1.110	50.8	429	198	5	1	1275	1	420	5.50E-121	431	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+574-snap_masked-12218-ALI_5	gnl|TC-DB|P54854|2.A.1.1.107	50.1	425	206	4	10	1275	2	423	4.40E-118	421.4	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+580-snap_masked-1649-AIE_1	gnl|TC-DB|P17064|2.A.39.2.1	75.2	250	62	0	7	756	65	314	5.70E-105	377.1	PURINE-CYTOSINE PERMEASE (PCP) (CYTOSINE/PURINE TRANSPORT PROTEIN) - Saccharomyces cerevisiae (Baker's yeast).
+580-snap_masked-1649-AIE_1	gnl|TC-DB|Q708J7|2.A.39.2.3	52.6	249	115	1	4	750	48	293	2.50E-68	255.4	Putative purine-cytosine permease - Candida albicans (Yeast).
+581-snap_masked-1653-AIE_1	gnl|TC-DB|P39004|2.A.1.1.31	95.2	83	4	0	1	249	1	83	1.10E-38	155.2	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+581-snap_masked-1653-AIE_1	gnl|TC-DB|P32467|2.A.1.1.30	61.8	89	28	2	1	249	1	89	2.60E-22	100.9	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+591-snap_masked-217-BFM_3	gnl|TC-DB|P15685|2.A.1.1.10	83.8	241	38	1	1	723	329	568	1.00E-119	426	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+591-snap_masked-217-BFM_3	gnl|TC-DB|P53048|2.A.1.1.11	55.6	241	106	1	1	723	335	574	6.80E-76	280.4	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+595-snap_masked-2218-BDE_8	gnl|TC-DB|P07921|2.A.1.1.9	45.5	134	70	2	130	528	57	188	7.40E-27	117.1	Lactose permease - Kluyveromyces lactis (Yeast).
+623-snap_masked-3817-CBB_4	gnl|TC-DB|P36033|5.B.1.5.3	91	346	31	0	1	1038	366	711	1.50E-185	645.2	Ferric/cupric reductase transmembrane component 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FRE2 PE=1 SV=1
+630-snap_masked-4255-BCN_8	gnl|TC-DB|P32568|3.A.1.205.2	67	294	97	0	1	882	1191	1484	5.10E-116	414.1	SNQ2 protein - Saccharomyces cerevisiae (Baker's yeast).
+630-snap_masked-4255-BCN_8	gnl|TC-DB|P40550|3.A.1.205.8	45.3	307	167	1	4	924	1094	1399	1.70E-71	266.2	ATP-dependent permease PDR11 - Saccharomyces cerevisiae (Baker's yeast).
+630-snap_masked-4255-BCN_8	gnl|TC-DB|Q08409|3.A.1.205.15	47.6	288	150	1	1	864	1083	1369	2.90E-71	265.4	ATP-dependent permease AUS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=AUS1 PE=1 SV=1
+630-snap_masked-4255-BCN_8	gnl|TC-DB|Q6FUR1|3.A.1.205.13	45.6	287	155	1	4	864	1087	1372	1.20E-69	260	ABC transporter OS=Candida glabrata GN=CgAUS1 PE=4 SV=1
+633-snap_masked-4265-BCN_8	gnl|TC-DB|P15685|2.A.1.1.10	90	120	12	0	1	360	1	120	3.70E-54	207.2	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+649-snap_masked-5079-CKG_4	gnl|TC-DB|P00401|3.D.4.8.1	98.6	72	1	0	1	216	32	103	2.00E-34	141	Cytochrome c oxidase subunit 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=COX1 PE=1 SV=2
+656-snap_masked-5627-CKN_4	gnl|TC-DB|P32319|9.A.63.1.1	51.1	188	91	1	49	609	183	370	9.30E-50	193.4	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+664-snap_masked-6650-CPA_4	gnl|TC-DB|P43548|2.A.3.10.14	83.5	121	20	0	16	378	438	558	3.90E-54	207.2	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
+665-snap_masked-6650-CPA_4	gnl|TC-DB|P43548|2.A.3.10.14	77.5	151	30	1	1	453	102	248	2.00E-63	238.4	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P32465|2.A.1.1.108	68.3	82	26	0	1	246	465	546	1.60E-28	122.1	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P39004|2.A.1.1.31	69.5	82	25	0	1	246	465	546	1.10E-27	119.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P13181|2.A.1.1.6	68.3	82	26	0	1	246	471	552	3.10E-27	117.9	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P54862|2.A.1.1.105	65.9	82	28	0	1	246	463	544	3.10E-27	117.9	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P32467|2.A.1.1.30	64.6	82	29	0	1	246	471	552	5.20E-27	117.1	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+666-snap_masked-6650-CPA_4	gnl|TC-DB|Q2MDH1|2.A.1.1.67	70.5	78	23	0	1	234	447	524	3.70E-25	110.9	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P43581|2.A.1.1.5	61.9	84	32	0	1	252	449	532	4.10E-24	107.5	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P23585|2.A.1.1.111	62.7	83	31	0	1	249	456	538	5.40E-24	107.1	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P39924|2.A.1.1.110	58.5	82	34	0	1	246	458	539	1.70E-22	102.1	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+666-snap_masked-6650-CPA_4	gnl|TC-DB|P54854|2.A.1.1.107	58.5	82	34	0	1	246	461	542	3.00E-22	101.3	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+685-snap_masked-8851-CQS_4	gnl|TC-DB|P40100|9.A.26.1.3	69.6	303	92	0	1	909	1	303	8.80E-113	403.3	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+708-augustus_masked-CFC_2-43056	gnl|TC-DB|P40107|2.A.7.13.1	82.6	334	51	3	1	984	1	333	1.30E-146	515.8	Vanadate resistance protein GOG5/VRG4/VAN2 - Saccharomyces cerevisiae (Baker's yeast).
+708-augustus_masked-CFC_2-43056	gnl|TC-DB|Q5A477|2.A.7.13.2	65	323	103	2	37	993	50	366	2.20E-109	392.1	2.A.7.13.2 GDP-mannose transporter
+708-augustus_masked-CFC_2-43056	gnl|TC-DB|P0CS02|2.A.7.13.6	51.7	327	141	3	61	990	63	389	7.70E-86	313.9	GDP-mannose transporter 1 OS=Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) GN=GMT1 PE=2 SV=1
+708-augustus_masked-CFC_2-43056	gnl|TC-DB|P0CS04|2.A.7.13.7	50.3	336	146	4	46	990	77	412	8.60E-85	310.5	GDP-mannose transporter 2 OS=Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) GN=GMT2 PE=2 SV=1
+720-augustus_masked-CFC_2-43056	gnl|TC-DB|A3M0N3|2.A.1.1.68	57.5	525	212	7	7	1560	8	528	2.20E-159	558.9	Glucose transporter/sensor OS=Pichia stipitis GN=RGT2 PE=4 SV=1
+720-augustus_masked-CFC_2-43056	gnl|TC-DB|Q2MEV7|2.A.1.1.51	57.9	513	205	6	34	1560	17	522	7.00E-158	553.9	Glucose/xylose symporter 1 - Candida intermedia.
+720-augustus_masked-CFC_2-43056	gnl|TC-DB|B1PM37|2.A.1.1.64	52.2	490	223	6	25	1464	56	544	6.80E-137	484.2	Glucose sensor - Pichia angusta (Yeast) (Hansenula polymorpha).
+720-augustus_masked-CFC_2-43056	gnl|TC-DB|Q12300|2.A.1.1.19	50.5	471	226	4	49	1440	95	565	1.50E-131	466.5	High-affinity glucose transporter RGT2 - Saccharomyces cerevisiae (Baker's yeast).
+720-augustus_masked-CFC_2-43056	gnl|TC-DB|Q8J0V1|2.A.1.1.57	49.9	505	233	5	55	1512	17	520	1.60E-130	463	Monosaccharide transporter - Aspergillus niger.
+720-augustus_masked-CFC_2-43056	gnl|TC-DB|P10870|2.A.1.1.17	50	472	228	5	28	1422	86	556	3.40E-128	455.3	High-affinity glucose transporter SNF3 OS=Saccharomyces cerevisiae GN=SNF3 PE=1 SV=3
+725-augustus_masked-CPQ_4-15294	gnl|TC-DB|P48349|8.A.98.1.8	70.2	238	67	2	13	717	7	243	2.50E-87	318.5	14-3-3-like protein GF14 lambda OS=Arabidopsis thaliana GN=GRF6 PE=1 SV=1
+725-augustus_masked-CPQ_4-15294	gnl|TC-DB|P63104|8.A.98.1.2	68.1	232	71	1	13	708	3	231	7.80E-81	297	14-3-3 protein zeta/delta OS=Homo sapiens GN=YWHAZ PE=1 SV=1
+725-augustus_masked-CPQ_4-15294	gnl|TC-DB|P29310|8.A.98.1.1	65.9	232	76	1	13	708	6	234	6.60E-80	293.9	14-3-3 protein zeta OS=Drosophila melanogaster GN=14-3-3zeta PE=1 SV=1
+725-augustus_masked-CPQ_4-15294	gnl|TC-DB|C0H4V6|8.A.98.1.3	61.2	242	88	2	1	711	7	247	8.90E-77	283.5	14-3-3 protein OS=Plasmodium falciparum (isolate 3D7) GN=PF3D7_0818200 PE=3 SV=1
+729-augustus_masked-ACD_7-5647	gnl|TC-DB|J5PL79|1.A.17.5.8	83.9	936	145	2	64	2853	22	957	0	1545.8	RSN1-like protein OS=Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) GN=YMR266W PE=4 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P39004|2.A.1.1.31	97.3	334	9	0	1	1002	237	570	1.70E-189	658.3	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P32467|2.A.1.1.30	83.5	334	55	0	1	1002	243	576	6.40E-165	576.6	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P13181|2.A.1.1.6	74.2	330	85	0	1	990	243	572	1.40E-148	522.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P32465|2.A.1.1.108	74.9	334	84	0	1	1002	237	570	1.40E-148	522.3	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P54862|2.A.1.1.105	72.5	335	90	1	1	999	233	567	1.30E-144	509.2	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P43581|2.A.1.1.5	69.7	310	94	0	1	930	221	530	1.40E-127	452.6	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P23585|2.A.1.1.111	69.4	310	95	0	1	930	228	537	1.30E-125	446	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P39924|2.A.1.1.110	67.5	311	101	0	1	933	230	540	2.30E-122	435.3	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|P54854|2.A.1.1.107	67.4	313	102	0	1	939	233	545	2.30E-122	435.3	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|Q2MDH1|2.A.1.1.67	61.6	331	120	2	1	972	216	546	3.90E-114	407.9	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|Q8J0U9|2.A.1.1.58	47.2	307	159	2	1	921	224	527	2.30E-74	275.8	Monosaccharide transporter - Aspergillus niger.
+734-augustus_masked-AIE_1-5050	gnl|TC-DB|Q400D8|2.A.1.1.36	47.2	307	157	3	1	918	222	524	4.90E-72	268.1	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+740-augustus_masked-AIE_1-5050	gnl|TC-DB|P52918|9.A.50.1.1	98.8	1224	15	0	1	3672	1	1224	0	2422.5	Protein MSN5 OS=Saccharomyces cerevisiae GN=MSN5 PE=1 SV=1
+741-augustus_masked-CCH_4-6757	gnl|TC-DB|P43548|2.A.3.10.14	82.8	518	89	0	7	1560	20	537	2.50E-256	880.9	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
+742-augustus_masked-YBR-7232	gnl|TC-DB|P39709|2.A.1.14.37	94.9	593	30	0	1	1779	1	593	0	1149.4	Probable transporter SEO1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEO1 PE=1 SV=1
+744-augustus_masked-CPR_4-17586	gnl|TC-DB|P32844|1.F.2.1.1	97.5	644	16	0	1	1932	162	805	0	1249.2	Exocyst complex component SEC6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC6 PE=1 SV=2
+749-augustus_masked-YDM-5142	gnl|TC-DB|P32319|9.A.63.1.1	80.8	621	115	1	1	1851	917	1537	9.50E-306	1045.4	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+750-augustus_masked-YDM-5142	gnl|TC-DB|P25346|2.A.1.9.7	98.8	339	4	0	1	1017	1	339	1.40E-191	665.2	Probable metabolite transport protein GIT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GIT1 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P32467|2.A.1.1.30	96.7	576	19	0	1	1728	1	576	0	1124.4	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P39004|2.A.1.1.31	83.7	576	88	2	1	1728	1	570	4.10E-284	973.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P32465|2.A.1.1.108	74.2	574	131	3	43	1728	2	570	1.40E-252	868.6	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P13181|2.A.1.1.6	73.2	555	146	2	55	1716	20	572	2.60E-246	847.8	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P54862|2.A.1.1.105	70.4	565	164	2	31	1719	2	565	4.40E-238	820.5	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P23585|2.A.1.1.111	69.5	535	159	2	58	1656	5	537	1.80E-215	745.3	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P43581|2.A.1.1.5	67.6	531	165	2	76	1656	3	530	2.00E-214	741.9	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|Q2MDH1|2.A.1.1.67	62.3	496	184	1	172	1650	31	526	1.00E-186	649.8	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P39924|2.A.1.1.110	57.5	539	226	2	52	1659	2	540	9.60E-185	643.3	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|P54854|2.A.1.1.107	56.4	541	233	2	40	1659	5	543	1.90E-180	629	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+755-augustus_masked-AHM_1-7103	gnl|TC-DB|Q8J0U9|2.A.1.1.58	46	474	253	2	226	1647	57	527	1.10E-124	443.7	Monosaccharide transporter - Aspergillus niger.
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P32465|2.A.1.1.108	73.2	574	137	2	55	1773	13	570	4.10E-247	850.5	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P39004|2.A.1.1.31	76.2	516	123	0	220	1767	53	568	1.20E-238	822.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P32467|2.A.1.1.30	70.3	563	164	2	91	1773	15	576	3.00E-234	807.7	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P13181|2.A.1.1.6	69.9	522	157	0	196	1761	51	572	6.50E-221	763.5	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P54862|2.A.1.1.105	65	571	189	3	61	1767	5	566	4.40E-217	750.7	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P43581|2.A.1.1.5	67.3	510	165	1	181	1704	22	531	2.90E-208	721.5	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P23585|2.A.1.1.111	69	497	154	0	220	1710	44	540	2.70E-206	714.9	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|Q2MDH1|2.A.1.1.67	61.7	514	190	2	175	1695	13	526	5.10E-189	657.5	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P39924|2.A.1.1.110	55.2	504	224	2	250	1755	55	558	5.60E-172	600.9	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|P54854|2.A.1.1.107	56.1	487	213	1	250	1707	58	544	3.40E-169	591.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|Q8J0U9|2.A.1.1.58	46.8	474	249	2	271	1692	57	527	1.90E-127	453	Monosaccharide transporter - Aspergillus niger.
+756-augustus_masked-AHM_1-7103	gnl|TC-DB|Q400D8|2.A.1.1.36	46	474	251	3	271	1689	55	524	1.60E-121	433.3	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+762-augustus_masked-CPN_4-15699	gnl|TC-DB|P39007|9.B.142.3.14	98.6	718	10	0	109	2262	1	718	0	1424.1	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=STT3 PE=1 SV=2
+762-augustus_masked-CPN_4-15699	gnl|TC-DB|G9P430|9.B.142.3.5	60.6	725	265	5	145	2262	19	741	1.00E-258	889.4	Glycosyltransferase family 66 protein OS=Hypocrea atroviridis (strain ATCC 20476 / IMI 206040) GN=TRIATDRAFT_148028 PE=4 SV=1
+762-augustus_masked-CPN_4-15699	gnl|TC-DB|B3S136|9.B.142.3.3	53.4	691	302	8	145	2175	7	691	1.60E-211	732.6	Putative uncharacterized protein OS=Trichoplax adhaerens GN=TRIADDRAFT_36216 PE=4 SV=1
+762-augustus_masked-CPN_4-15699	gnl|TC-DB|B4DJ24|9.B.142.3.4	53.7	616	261	9	379	2175	1	609	5.50E-180	627.9	cDNA FLJ58575, highly similar to Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A (EC 2.4.1.119) OS=Homo sapiens PE=2 SV=1
+765-augustus_masked-CDT_2-5331	gnl|TC-DB|E7NFP9|8.A.68.1.1	74	666	164	2	19	1989	7	672	1.90E-293	1004.6	Tmn2p OS=Saccharomyces cerevisiae (strain FostersO) GN=FOSTERSO_0673 PE=4 SV=1
+783-augustus_masked-BBM_6-7237	gnl|TC-DB|P36033|5.B.1.5.3	55.1	721	302	4	16	2157	6	711	7.20E-230	793.5	Ferric/cupric reductase transmembrane component 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FRE2 PE=1 SV=1
+784-augustus_masked-CPM_4-14712	gnl|TC-DB|P38767|2.A.66.1.5	95.4	544	25	0	1	1632	1	544	1.80E-293	1004.6	HYPOTHETICAL 64.2 KDA PROTEIN IN SLT2-PUT2 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+787-augustus_masked-YCM-7981	gnl|TC-DB|P38301|2.A.106.2.3	72.2	259	72	0	7	783	21	279	2.50E-95	345.1	GCR1-dependent translation factor 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GDT1 PE=1 SV=1
+787-augustus_masked-YCM-7981	gnl|TC-DB|B2WDS4|2.A.106.2.5	45.1	264	119	2	61	774	249	512	1.60E-49	193	Transmembrane protein PFT27 OS=Pyrenophora tritici-repentis (strain Pt-1C-BFP) GN=PTRG_08297 PE=4 SV=1
+792-augustus_masked-AVB_8-8054	gnl|TC-DB|P39925|3.A.29.1.1	94.8	733	36	1	1	2193	29	761	0	1303.9	Mitochondrial respiratory chain complexes assembly protein AFG3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=AFG3 PE=1 SV=1
+792-augustus_masked-AVB_8-8054	gnl|TC-DB|P40341|3.A.29.1.1	59.4	638	236	6	262	2148	177	800	1.90E-209	725.7	Mitochondrial respiratory chain complexes assembly protein YTA12 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YTA12 PE=1 SV=2
+792-augustus_masked-AVB_8-8054	gnl|TC-DB|Q9N3T5|3.A.29.1.2	54	609	253	13	340	2124	144	739	1.50E-163	573.2	AFG3-like protein spg-7 OS=Caenorhabditis elegans OX=6239 GN=spg-7 PE=3 SV=2
+794-augustus_masked-CPA_4-16604	gnl|TC-DB|P12685|2.A.38.2.1	91.1	764	61	2	1	2271	472	1235	0	1214.9	POTASSIUM TRANSPORT PROTEIN, HIGH-AFFINITY - Saccharomyces cerevisiae (Baker's yeast).
+794-augustus_masked-CPA_4-16604	gnl|TC-DB|P28584|2.A.38.2.3	61	533	175	5	592	2184	372	873	3.20E-172	602.1	Potassium transport protein, low-affinity - Saccharomyces cerevisiae (Baker's yeast).
+794-augustus_masked-CPA_4-16604	gnl|TC-DB|Q6BYD8|2.A.38.2.4	52.7	509	189	6	766	2268	570	1034	1.60E-139	493.4	DhTRK1 protein - Debaryomyces hansenii (Yeast) (Torulaspora hansenii).
+794-augustus_masked-CPA_4-16604	gnl|TC-DB|O74723|2.A.38.2.2	50.2	434	168	2	790	2091	383	768	6.00E-118	421.8	TRK-1 PROTEIN - Neurospora crassa.
+823-augustus_masked-CPR_4-17880	gnl|TC-DB|O15131|1.I.1.1.3	58.2	514	201	7	46	1569	9	514	6.80E-31	132.1	Importin subunit alpha-6 OS=Homo sapiens GN=KPNA5 PE=1 SV=2
+823-augustus_masked-CPR_4-17880	gnl|TC-DB|O60684|1.I.1.1.3	57.9	511	204	6	46	1569	12	514	2.00E-27	120.6	Importin subunit alpha-7 OS=Homo sapiens GN=KPNA6 PE=1 SV=1
+823-augustus_masked-CPR_4-17880	gnl|TC-DB|O00629|1.I.1.1.3	47	168	79	4	49	552	11	168	6.60E-26	115.5	Importin subunit alpha-3 OS=Homo sapiens GN=KPNA4 PE=1 SV=1
+823-augustus_masked-CPR_4-17880	gnl|TC-DB|O00505|1.I.1.1.3	45.5	167	81	4	46	546	10	166	9.50E-25	111.7	Importin subunit alpha-4 OS=Homo sapiens GN=KPNA3 PE=1 SV=2
+823-augustus_masked-CPR_4-17880	gnl|TC-DB|P52294|1.I.1.1.3	49.5	103	50	1	1261	1569	416	516	1.20E-22	104.8	Importin subunit alpha-5 OS=Homo sapiens GN=KPNA1 PE=1 SV=3
+825-augustus_masked-YCL-7822	gnl|TC-DB|Q12462|3.A.20.1.5	95.8	236	10	0	1	708	1	236	4.00E-129	457.2	Peroxisomal membrane protein PMP27 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEX11 PE=1 SV=2
+825-augustus_masked-YCL-7822	gnl|TC-DB|Q12462|1.A.101.1.1	95.8	236	10	0	1	708	1	236	4.00E-129	457.2	Peroxisomal membrane protein PMP27 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEX11 PE=1 SV=2
+832-augustus_masked-BBM_6-7257	gnl|TC-DB|Q08269|1.A.35.2.1	90.5	179	17	0	7	543	681	859	1.20E-88	322.4	Aluminum resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+832-augustus_masked-BBM_6-7257	gnl|TC-DB|O13657|1.A.35.2.3	56.6	113	48	1	10	345	684	796	2.30E-31	132.1	Putative metal ion transporter C27B12.12c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=pi066 PE=1 SV=1
+832-augustus_masked-BBM_6-7257	gnl|TC-DB|P35724|1.A.35.2.2	51.4	109	52	1	4	327	848	956	4.40E-27	117.9	MANGANESE RESISTANCE PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+844-augustus_masked-BBM_6-7255	gnl|TC-DB|P19658|1.F.2.1.1	97.1	623	18	0	1	1869	1	623	0	1176	Exocyst complex component EXO70 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=EXO70 PE=1 SV=1
+869-augustus_masked-CPN_4-15612	gnl|TC-DB|P53203|3.A.20.1.5	92	461	37	0	1	1383	1	461	5.20E-242	833.2	Peroxisomal membrane protein PEX31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEX31 PE=1 SV=1
+869-augustus_masked-CPN_4-15612	gnl|TC-DB|Q06169|3.A.20.1.5	48.3	406	204	3	73	1272	29	434	9.00E-109	390.6	Peroxisomal membrane protein PEX30 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEX30 PE=1 SV=1
+877-augustus_masked-YCC-11519	gnl|TC-DB|Q06598|2.A.59.1.1	95.4	388	18	0	1	1164	17	404	4.20E-208	720.3	ARSENICAL-RESISTANCE PROTEIN ACR3 - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|P19145|2.A.3.10.2	96.7	602	20	0	1	1806	1	602	0	1162.5	General amino-acid permease GAP1 - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q59YT0|2.A.3.10.24	59.9	551	212	5	163	1806	44	588	1.10E-186	649.8	Potential general amino acid permease OS=Candida albicans GN=GAP2 PE=4 SV=1
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|P06775|2.A.3.10.1	54.9	521	232	3	250	1806	84	603	6.80E-165	577.4	Histidine permease - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q5AG77|2.A.3.10.23	51.4	570	262	4	124	1806	19	582	3.10E-162	568.5	Gap1 protein OS=Candida albicans GN=GAP1 PE=4 SV=1
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q59NZ6|2.A.3.10.26	50.6	553	260	8	154	1806	35	576	1.00E-152	537	Potential general amino acid permease OS=Candida albicans GN=GAP6 PE=4 SV=1
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q59WB3|2.A.3.10.25	48.1	576	279	7	109	1803	40	606	5.00E-152	534.6	Potential general amino acid permease OS=Candida albicans GN=GAP4 PE=4 SV=1
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|P25376|2.A.3.10.7	47.8	519	268	3	256	1806	116	633	8.90E-149	523.9	Asparagine/glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q2VQZ4|2.A.3.10.22	53.3	484	218	3	256	1704	33	509	2.50E-143	505.8	Putative amino acid permease OS=Glomus mosseae PE=2 SV=1
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|P48813|2.A.3.10.5	48.1	513	262	3	277	1806	152	663	4.70E-142	501.5	High-affinity glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|P38967|2.A.3.10.8	50.3	527	240	8	256	1806	78	592	4.40E-140	495	Tryptophan permease (Tryptophan amino acid transporter) - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q08986|2.A.3.10.15	46.6	581	289	11	100	1806	16	587	9.80E-140	493.8	CHROMOSOME XVI READING FRAME ORF YPL274W - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|Q9URZ4|2.A.3.10.21	49.4	528	240	11	250	1806	71	580	6.60E-136	481.1	Uncharacterized amino-acid permease C869.11 - Schizosaccharomyces pombe (Fission yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|P38085|2.A.3.10.9	45.5	523	267	6	151	1707	62	570	6.00E-129	458	Valine/tyrosine/tryptophan amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+892-augustus_masked-AIE_1-5069	gnl|TC-DB|O60170|2.A.3.10.28	46.4	485	250	4	256	1704	58	534	4.60E-121	431.8	Probable amino-acid permease meu22 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=meu22 PE=2 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P39924|2.A.1.1.110	93.9	476	29	0	1	1428	89	564	1.20E-260	895.2	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P54854|2.A.1.1.107	91	476	43	0	1	1428	92	567	1.60E-254	874.8	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P13181|2.A.1.1.6	64.8	463	161	1	19	1401	108	570	8.20E-174	606.7	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P39004|2.A.1.1.31	63.2	459	167	1	19	1389	102	560	6.50E-171	597	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P32467|2.A.1.1.30	62.3	446	168	0	19	1356	108	553	5.20E-168	587.4	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P32465|2.A.1.1.108	59.6	446	180	0	19	1356	102	547	1.20E-164	576.2	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P54862|2.A.1.1.105	60	447	177	1	19	1353	98	544	4.00E-160	561.2	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P43581|2.A.1.1.5	59	441	181	0	31	1353	90	530	1.40E-157	552.7	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|P23585|2.A.1.1.111	59.5	449	181	1	7	1353	90	537	7.70E-156	547	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+902-augustus_masked-BIL_3-4712	gnl|TC-DB|Q2MDH1|2.A.1.1.67	53.8	450	204	2	7	1347	78	526	2.10E-145	512.3	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+907-augustus_masked-BAI_7-6404	gnl|TC-DB|P32319|9.A.63.1.1	48.5	621	297	7	1	1794	1	621	2.40E-170	595.5	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+916-augustus_masked-AMM_4-6587	gnl|TC-DB|P38124|2.A.1.2.17	53.9	545	237	3	10	1605	2	545	7.40E-163	570.5	Fluconazole resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P39004|2.A.1.1.31	93.8	192	12	0	1	576	1	192	3.10E-95	344.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P32467|2.A.1.1.30	79.8	198	34	2	1	576	1	198	5.60E-81	297	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P13181|2.A.1.1.6	68.3	189	57	2	19	576	10	198	1.60E-64	242.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P54862|2.A.1.1.105	66.5	182	61	0	31	576	7	188	2.80E-64	241.5	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P32465|2.A.1.1.108	71.6	176	44	2	55	576	21	192	3.70E-64	241.1	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P23585|2.A.1.1.111	65.9	173	56	2	61	576	13	183	1.90E-57	218.8	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P43581|2.A.1.1.5	63.6	176	58	2	61	576	3	176	1.90E-57	218.8	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|Q2MDH1|2.A.1.1.67	52	171	74	2	70	576	7	171	4.50E-46	181	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|P39924|2.A.1.1.110	49.1	159	75	2	118	576	27	185	1.80E-39	159.1	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+926-augustus_masked-AHM_1-7114	gnl|TC-DB|Q8J0U9|2.A.1.1.58	46	124	67	0	199	570	54	177	1.80E-26	115.9	Monosaccharide transporter - Aspergillus niger.
+937-augustus_masked-AHM_1-7082	gnl|TC-DB|P43549|1.A.8.9.7	91	646	58	0	1	1938	1	646	0	1178.7	HYPOTHETICAL 70.5 KDA PROTEIN IN AGP3-DAK3 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+939-augustus_masked-AQD_4-6616	gnl|TC-DB|Q12252|1.A.17.5.6	94	992	56	1	22	2997	4	991	0	1824.3	Phosphate metabolism protein 7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PHM7 PE=1 SV=1
+944-augustus_masked-BDG_5-19334	gnl|TC-DB|P40897|2.A.67.1.3	76.8	760	162	2	139	2376	40	799	0	1223.8	HYPOTHETICAL 91.6 KDA PROTEIN IN HXT8-CRT1 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+944-augustus_masked-BDG_5-19334	gnl|TC-DB|O14031|2.A.67.1.5	54.4	723	308	10	247	2373	137	851	1.30E-227	786.2	Uncharacterized oligopeptide transporter C29B12.10c OS=Schizosaccharomyces pombe GN=SPAC29B12.10c PE=1 SV=1
+946-augustus_masked-BDG_5-19334	gnl|TC-DB|P43549|1.A.8.9.7	58.4	647	218	14	13	1845	2	633	2.50E-197	685.3	HYPOTHETICAL 70.5 KDA PROTEIN IN AGP3-DAK3 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+966-augustus_masked-CPS_4-19273	gnl|TC-DB|P14359|9.B.12.3.1	54	113	52	0	1	339	13	125	7.10E-31	129.8	HYPOTHETICAL 15.2 KDA PROTEIN IN INO1-IDS2 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+967-augustus_masked-BBM_6-7211	gnl|TC-DB|P39515|3.A.8.1.1	98.7	156	2	0	1	468	3	158	7.10E-90	326.2	Mitochondrial import inner membrane translocase subunit TIM17 (Mitochondrial protein import protein 2) (Mitochondrial inner membrane protein MIM17) - Saccharomyces cerevisiae (Baker's yeast).
+970-augustus_masked-BDP_5-11433	gnl|TC-DB|P40988|9.A.9.1.1	95.5	221	10	0	1	663	332	552	2.40E-123	438	LOW-AFFINITY FE(II) TRANSPORT PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+972-augustus_masked-BBM_6-6977	gnl|TC-DB|P47159|2.A.1.63.4	96	448	17	1	1	1344	1	447	4.80E-240	826.6	Uncharacterized membrane protein YJR124C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YJR124C PE=1 SV=1
+974-augustus_masked-YBR-7258	gnl|TC-DB|P33332|1.F.2.1.1	91	1336	114	1	1	3990	1	1336	0	2082.8	Exocyst complex component SEC3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEC3 PE=1 SV=1
+976-augustus_masked-ABL_5-5194	gnl|TC-DB|P32804|2.A.5.1.1	89.1	248	25	1	1	738	1	248	1.50E-126	448.7	ZRT1 PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|P19145|2.A.3.10.2	71.3	581	167	0	67	1809	22	602	3.10E-250	860.9	General amino-acid permease GAP1 - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q59YT0|2.A.3.10.24	57.3	574	232	5	97	1809	25	588	2.50E-183	638.6	Potential general amino acid permease OS=Candida albicans GN=GAP2 PE=4 SV=1
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q5AG77|2.A.3.10.23	52.6	563	252	5	148	1809	26	582	6.10E-166	580.9	Gap1 protein OS=Candida albicans GN=GAP1 PE=4 SV=1
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|P06775|2.A.3.10.1	52.4	519	244	3	259	1809	86	603	9.50E-159	557	Histidine permease - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q59WB3|2.A.3.10.25	47.3	573	289	7	100	1806	43	606	2.20E-147	519.2	Potential general amino acid permease OS=Candida albicans GN=GAP4 PE=4 SV=1
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|P25376|2.A.3.10.7	46.9	544	283	5	190	1809	92	633	1.00E-144	510.4	Asparagine/glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|P38967|2.A.3.10.8	50.8	530	237	9	253	1809	76	592	5.20E-141	498	Tryptophan permease (Tryptophan amino acid transporter) - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q59NZ6|2.A.3.10.26	45.7	576	294	12	91	1809	17	576	1.50E-140	496.5	Potential general amino acid permease OS=Candida albicans GN=GAP6 PE=4 SV=1
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q08986|2.A.3.10.15	45.1	583	296	10	91	1809	19	587	4.10E-138	488.4	CHROMOSOME XVI READING FRAME ORF YPL274W - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q2VQZ4|2.A.3.10.22	48.6	484	241	3	259	1707	33	509	2.10E-134	476.1	Putative amino acid permease OS=Glomus mosseae PE=2 SV=1
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|P48813|2.A.3.10.5	46.6	513	270	3	280	1809	152	663	1.50E-132	469.9	High-affinity glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|Q9URZ4|2.A.3.10.21	49.3	493	225	9	259	1707	73	550	4.90E-131	464.9	Uncharacterized amino-acid permease C869.11 - Schizosaccharomyces pombe (Fission yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|P38085|2.A.3.10.9	46.1	523	264	6	154	1710	62	570	8.60E-128	454.1	Valine/tyrosine/tryptophan amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+981-augustus_masked-BCD_8-12448	gnl|TC-DB|O60170|2.A.3.10.28	45.2	485	256	4	259	1707	58	534	1.00E-120	430.6	Probable amino-acid permease meu22 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=meu22 PE=2 SV=1
+983-augustus_masked-BCD_8-12448	gnl|TC-DB|P32804|2.A.5.1.1	87.8	376	42	1	1	1116	1	376	9.60E-194	672.5	ZRT1 PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|P00830|3.A.2.1.3	100	222	0	0	1	666	38	259	4.00E-123	437.2	ATP SYNTHASE BETA CHAIN, MITOCHONDRIAL PRECURSOR (EC 3.6.1.34) - Saccharomyces cerevisiae (Baker's yeast).
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|I7LZV1|3.A.2.1.4	75.6	217	51	2	19	666	30	245	1.60E-87	318.9	ATP synthase subunit beta OS=Tetrahymena thermophila (strain SB210) GN=TTHERM_00585260 PE=3 SV=1
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|A0ZW41|3.A.2.1.11	71.2	219	59	2	19	666	38	255	1.20E-82	302.8	ATP synthase subunit beta OS=Polytomella sp. Pringsheim 198.80 GN=atp2 PE=2 SV=1
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|A1B8P0|3.A.2.1.7	70.6	218	61	2	19	666	6	222	1.20E-82	302.8	ATP synthase subunit beta OS=Paracoccus denitrificans (strain Pd 1222) GN=atpD PE=3 SV=1
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|BAK19948|3.A.2.1.10	63.2	223	75	3	19	666	11	233	1.50E-72	269.2	ApH+ATPase beta subunit [Aphanothece halophytica]
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|P50002|3.A.2.1.5	63.6	217	73	2	19	666	6	217	4.20E-72	267.7	ATP synthase subunit beta, sodium ion specific OS=Acetobacterium woodii (strain ATCC 29683 / DSM 1030 / JCM 2381 / KCTC 1655) GN=atpD PE=1 SV=3
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|P29707|3.A.2.1.2	62.7	217	74	3	19	666	5	215	5.50E-72	267.3	ATP synthase beta chain, sodium ion specific (EC 3.6.3.15) - Propionigenium modestum.
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|P0ABB4|3.A.2.1.1	59	217	84	1	16	666	3	214	4.10E-67	251.1	ATP synthase subunit beta - Escherichia coli.
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|F8L1Z1|3.A.2.1.6	55.5	220	90	3	16	666	3	217	1.10E-64	243	ATP synthase subunit beta OS=Parachlamydia acanthamoebae (strain UV7) GN=atpD-B PE=3 SV=1
+984-augustus_masked-CPA_4-16622	gnl|TC-DB|BAK19931|3.A.2.1.9	50.9	216	99	3	19	666	15	223	2.10E-55	212.2	ApNa+ATPase beta subunit [Aphanothece halophytica]
+987-augustus_masked-YBT-11417	gnl|TC-DB|P33302|3.A.1.205.1	93.2	454	31	0	1	1362	513	966	1.80E-242	834.7	Suppressor of toxicity of sporidesmin - Saccharomyces cerevisiae (Baker's yeast).
+987-augustus_masked-YBT-11417	gnl|TC-DB|P51533|3.A.1.205.12	58.2	488	170	4	1	1362	533	1020	9.30E-151	530	ATP-dependent permease PDR10 OS=Saccharomyces cerevisiae GN=PDR10 PE=2 SV=1
+987-augustus_masked-YBT-11417	gnl|TC-DB|P43071|3.A.1.205.4	51.2	453	218	2	7	1362	507	957	1.40E-130	463	Multidrug resistance protein CDR1 - Candida albicans (Yeast).
+987-augustus_masked-YBT-11417	gnl|TC-DB|P78595|3.A.1.205.5	50.3	453	222	2	7	1362	505	955	1.80E-125	446	Multidrug resistance protein CDR2 - Candida albicans (Yeast).
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P54862|2.A.1.1.105	97	565	17	0	1	1695	1	565	0	1094.7	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P39004|2.A.1.1.31	71.5	562	158	1	10	1695	8	567	7.80E-240	826.2	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P32467|2.A.1.1.30	70.3	565	165	2	4	1695	11	573	1.50E-235	812	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P32465|2.A.1.1.108	65.5	562	187	3	10	1695	13	567	4.20E-217	750.7	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P13181|2.A.1.1.6	65.2	551	190	1	34	1686	22	570	4.80E-213	737.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P43581|2.A.1.1.5	65.2	540	177	2	16	1635	3	531	2.20E-205	711.8	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P23585|2.A.1.1.111	65.3	531	181	2	49	1641	13	540	3.10E-204	708	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|Q2MDH1|2.A.1.1.67	62.4	495	185	1	142	1623	31	525	1.10E-185	646.4	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P39924|2.A.1.1.110	52.6	568	256	5	1	1692	1	559	4.10E-172	601.3	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+989-augustus_masked-BQN_4-5641	gnl|TC-DB|P54854|2.A.1.1.107	53.3	546	249	4	10	1638	2	544	1.20E-168	589.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+992-augustus_masked-ABM_5-4637	gnl|TC-DB|P53173|8.A.61.1.1	99.3	138	1	0	1	414	1	138	1.40E-73	271.9	ER-derived vesicles protein ERV14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ERV14 PE=1 SV=3
+1004-augustus_masked-YCM-7680	gnl|TC-DB|P40100|9.A.26.1.3	56	282	108	2	130	975	37	302	6.40E-83	304.3	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+1004-augustus_masked-YCM-7680	gnl|TC-DB|P53047|9.A.26.1.1	46.7	214	114	0	310	951	69	282	2.70E-49	192.6	RTA1 protein - Saccharomyces cerevisiae (Baker's yeast).
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P32465|2.A.1.1.108	96.1	180	7	0	1	540	391	570	9.30E-102	365.9	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P32467|2.A.1.1.30	78.3	180	39	0	1	540	397	576	3.50E-85	310.8	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P39004|2.A.1.1.31	77.2	180	41	0	1	540	391	570	2.20E-82	301.6	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P13181|2.A.1.1.6	70.7	174	51	0	7	528	399	572	3.90E-76	280.8	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P54862|2.A.1.1.105	69.8	179	52	1	1	531	387	565	2.60E-72	268.1	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P39924|2.A.1.1.110	65.6	157	54	0	1	471	384	540	8.00E-61	229.9	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P43581|2.A.1.1.5	64.7	156	55	0	1	468	375	530	1.00E-60	229.6	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P54854|2.A.1.1.107	65.8	158	54	0	1	474	387	544	1.00E-60	229.6	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|P23585|2.A.1.1.111	65.6	154	53	0	7	468	384	537	3.70E-58	221.1	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|Q2MDH1|2.A.1.1.67	56.6	175	69	2	7	510	372	546	5.20E-52	200.7	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|Q8J0U9|2.A.1.1.58	52.6	152	70	1	1	456	377	526	6.50E-39	157.1	Monosaccharide transporter - Aspergillus niger.
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|O74849|2.A.1.1.22	49.7	149	71	2	7	450	336	481	4.20E-38	154.5	High-affinity fructose transporter ght6 (Hexose transporter 6) - Schizosaccharomyces pombe (Fission yeast).
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|Q400D8|2.A.1.1.36	51.3	152	72	1	1	456	375	524	1.80E-36	149.1	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|Q9P3U6|2.A.1.1.112	48.3	145	73	1	7	441	334	476	4.00E-36	147.9	High-affinity glucose transporter ght1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=ght1 PE=1 SV=1
+1012-augustus_masked-CEG_4-7368	gnl|TC-DB|O74969|2.A.1.1.21	46.6	148	77	1	7	450	338	483	8.90E-36	146.7	High-affinity glucose transporter ght2 (Hexose transporter 2) - Schizosaccharomyces pombe (Fission yeast).
+1014-augustus_masked-AID_2-6438	gnl|TC-DB|P39980|2.A.1.16.1	95.5	628	28	0	1	1884	1	628	0	1184.9	Hypothetical 70.6 kDa protein in HXT8-CAN1 intergenic region - Saccharomyces cerevisiae (Baker's yeast).
+1014-augustus_masked-AID_2-6438	gnl|TC-DB|P38731|2.A.1.16.4	48.7	561	273	6	160	1824	58	609	1.70E-150	529.6	Hypothetical 70.9 kDa protein in CBP2 5'region - Saccharomyces cerevisiae (Baker's yeast).
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P39924|2.A.1.1.110	97.2	457	13	0	1	1371	108	564	1.00E-258	888.6	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P54854|2.A.1.1.107	93.4	454	30	0	1	1362	111	564	5.40E-247	849.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P39004|2.A.1.1.31	63.6	445	160	1	4	1332	116	560	7.20E-167	583.6	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P13181|2.A.1.1.6	64.1	449	159	1	4	1344	122	570	9.40E-167	583.2	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P32465|2.A.1.1.108	60.9	432	169	0	4	1299	116	547	2.40E-162	568.5	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P32467|2.A.1.1.30	61.8	432	165	0	4	1299	122	553	9.10E-162	566.6	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P43581|2.A.1.1.5	59.6	431	174	0	4	1296	100	530	1.10E-154	543.1	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P54862|2.A.1.1.105	58.8	434	177	1	1	1296	111	544	5.90E-153	537.3	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|P23585|2.A.1.1.111	59.6	431	174	0	4	1296	107	537	1.20E-150	529.6	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1016-augustus_masked-AID_2-6438	gnl|TC-DB|Q2MDH1|2.A.1.1.67	53.3	433	199	1	1	1290	94	526	9.80E-140	493.4	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1017-augustus_masked-AID_2-6438	gnl|TC-DB|P39924|2.A.1.1.110	86.2	94	10	1	1	282	1	91	2.20E-44	174.5	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1017-augustus_masked-AID_2-6438	gnl|TC-DB|P54854|2.A.1.1.107	70.2	94	28	0	1	282	1	94	4.10E-35	143.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1018-augustus_masked-AID_2-6438	gnl|TC-DB|P39981|2.A.18.6.20	93.4	483	29	1	1	1449	1	480	7.10E-258	885.9	Vacuolar amino acid transporter 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=AVT2 PE=2 SV=1
+1028-augustus_masked-CPQ_4-15294	gnl|TC-DB|Q12675|3.A.3.8.5	94.4	1613	89	1	1	4839	1	1612	0	3034.2	Probable phospholipid-transporting ATPase DNF2 (EC 3.6.3.1) - Saccharomyces cerevisiae (Baker's yeast)
+1028-augustus_masked-CPQ_4-15294	gnl|TC-DB|P32660|3.A.3.8.4	68.1	1607	452	17	43	4818	4	1565	0	2176.4	Probable phospholipid-transporting ATPase DNF1 (EC 3.6.3.1) - Saccharomyces cerevisiae (Baker's yeast)
+1030-augustus_masked-CPQ_4-15294	gnl|TC-DB|P35179|3.A.5.8.1	96.2	80	3	0	1	240	1	80	1.40E-36	148.3	Protein transport protein SEC61 gamma subunit - Saccharomyces cerevisiae (Baker's yeast).
+1034-augustus_masked-CPM_4-14876	gnl|TC-DB|P38717|9.B.198.1.2	92.4	1230	93	1	1	3690	1	1229	0	2182.9	Membrane-anchored lipid-binding protein SIP3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SIP3 PE=1 SV=1
+1036-augustus_masked-CNP_1-20000	gnl|TC-DB|P40897|2.A.67.1.3	98.2	457	8	0	1	1371	343	799	3.70E-272	933.3	HYPOTHETICAL 91.6 KDA PROTEIN IN HXT8-CRT1 INTERGENIC REGION - Saccharomyces cerevisiae (Baker's yeast).
+1036-augustus_masked-CNP_1-20000	gnl|TC-DB|O14031|2.A.67.1.5	52.3	453	211	4	19	1368	401	851	2.80E-139	491.9	Uncharacterized oligopeptide transporter C29B12.10c OS=Schizosaccharomyces pombe GN=SPAC29B12.10c PE=1 SV=1
+1057-augustus_masked-BRK_4-4772	gnl|TC-DB|P25694|3.A.16.1.2	51	149	70	1	541	987	213	358	6.50E-37	151.4	Cell division control protein 48 - Saccharomyces cerevisiae (Baker's yeast).
+1057-augustus_masked-BRK_4-4772	gnl|TC-DB|C6KT34|3.A.16.1.3	49	149	73	1	541	987	206	351	2.50E-36	149.4	Cell division cycle protein 48 homologue, putative OS=Plasmodium falciparum (isolate 3D7) GN=PFF0940c PE=3 SV=1
+1057-augustus_masked-BRK_4-4772	gnl|TC-DB|P40341|3.A.29.1.1	46.7	150	78	2	541	987	347	495	2.00E-30	129.8	Mitochondrial respiratory chain complexes assembly protein YTA12 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YTA12 PE=1 SV=2
+1057-augustus_masked-BRK_4-4772	gnl|TC-DB|Q9N3T5|3.A.29.1.2	45.7	151	79	3	541	987	292	441	4.50E-30	128.6	AFG3-like protein spg-7 OS=Caenorhabditis elegans OX=6239 GN=spg-7 PE=3 SV=2
+1057-augustus_masked-BRK_4-4772	gnl|TC-DB|Q13608|3.A.20.1.1	45.2	155	82	3	523	987	698	849	2.90E-29	125.9	Peroxisome assembly factor 2 OS=Homo sapiens GN=PEX6 PE=1 SV=2
+1061-augustus_masked-BCB_3-14860	gnl|TC-DB|P13181|2.A.1.1.6	48.7	191	30	2	1	369	362	552	2.70E-41	164.9	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1062-augustus_masked-CMG_6-37743	gnl|TC-DB|P40100|9.A.26.1.3	53.6	291	134	1	28	897	11	301	4.20E-81	298.1	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+1064-augustus_masked-CMG_6-37743	gnl|TC-DB|P53048|2.A.1.1.11	80.6	614	85	2	1	1740	1	614	1.70E-282	968	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+1064-augustus_masked-CMG_6-37743	gnl|TC-DB|P15685|2.A.1.1.10	49.6	615	257	7	1	1710	1	607	8.50E-165	577	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+1076-augustus_masked-AHL_3-7997	gnl|TC-DB|P38077|3.A.2.1.3	97.5	280	7	0	1	840	32	311	2.70E-148	521.2	ATP synthase gamma chain, mitochondrial precursor (EC 3.6.1.34) - Saccharomyces cerevisiae (Baker's yeast).
+1077-augustus_masked-AHL_3-7997	gnl|TC-DB|P38224|1.A.81.1.1	97	298	9	0	1	894	1	298	2.20E-156	548.1	Factor-induced gene 1 protein - Saccharomyces cerevisiae (Baker's yeast).
+1078-augustus_masked-AHL_3-7997	gnl|TC-DB|P38225|4.C.1.1.2	96.3	669	25	0	1	2007	1	669	0	1328.5	PROBABLE LONG-CHAIN FATTY ACID TRANSPORT PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+1080-augustus_masked-AHL_3-7997	gnl|TC-DB|P38227|2.A.1.2.43	93.9	689	42	0	1	2067	1	689	0	1255.7	Uncharacterized transporter YBR043C OS=Saccharomyces cerevisiae GN=YBR043C PE=1 SV=1
+1084-augustus_masked-BEE_6-12017	gnl|TC-DB|P32568|3.A.1.205.2	69.8	325	91	3	1	972	633	951	2.00E-134	475.3	SNQ2 protein - Saccharomyces cerevisiae (Baker's yeast).
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P54854|2.A.1.1.107	91.2	567	50	0	1	1701	1	567	1.70E-303	1037.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P39924|2.A.1.1.110	90.1	567	53	1	1	1701	1	564	2.20E-303	1037.3	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P39004|2.A.1.1.31	63.2	497	182	1	139	1629	52	547	4.20E-185	644.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P13181|2.A.1.1.6	59.4	535	212	2	37	1629	20	553	2.80E-184	641.7	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P32467|2.A.1.1.30	58.1	515	215	1	85	1629	40	553	2.90E-178	621.7	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P32465|2.A.1.1.108	56.8	514	219	2	88	1629	37	547	9.50E-177	616.7	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P54862|2.A.1.1.105	53.7	542	242	4	7	1626	10	544	7.80E-171	597	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P43581|2.A.1.1.5	55.5	497	220	1	136	1626	35	530	2.50E-169	592	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|P23585|2.A.1.1.111	53.8	526	242	1	49	1626	13	537	1.80E-167	585.9	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1091-augustus_masked-AIE_1-5054	gnl|TC-DB|Q2MDH1|2.A.1.1.67	51	529	247	5	46	1620	6	526	1.10E-159	560.1	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1099-augustus_masked-CQS_4-6414	gnl|TC-DB|Q12412|2.A.92.1.8	92.9	522	37	0	1	1566	1	522	7.40E-285	975.7	Protein PNS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PNS1 PE=1 SV=1
+1101-augustus_masked-CQS_4-6414	gnl|TC-DB|Q12125|3.A.21.1.1	94.2	312	18	0	1	936	1	312	4.70E-170	593.6	Golgi to ER traffic protein 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GET4 PE=1 SV=1
+1102-augustus_masked-ANR_2-7082	gnl|TC-DB|P32319|9.A.63.1.1	73.9	280	73	0	1	840	1228	1507	2.00E-126	448.7	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1110-augustus_masked-YAE-4724	gnl|TC-DB|P43548|2.A.3.10.14	94.1	558	33	0	1	1674	1	558	3.10E-305	1043.5	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
+1130-augustus_masked-AQA_4-7340	gnl|TC-DB|Q12436|2.A.5.1.14	89.7	281	29	0	1	843	142	422	5.40E-141	496.9	Zinc-regulated transporter 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ZRT2 PE=1 SV=1
+1130-augustus_masked-AQA_4-7340	gnl|TC-DB|P32804|2.A.5.1.1	50.6	158	76	1	370	843	221	376	1.90E-40	162.9	ZRT1 PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+1130-augustus_masked-AQA_4-7340	gnl|TC-DB|AMD82963.1|2.A.5.1.16	50.3	157	76	2	373	843	198	352	7.80E-39	157.5	zinc transporter protein ZIP1 [Russula atropurpurea]
+1130-augustus_masked-AQA_4-7340	gnl|TC-DB|O94639|2.A.5.1.8	48.4	161	75	2	370	843	253	408	2.30E-38	156	Zinc-regulated transporter 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=zrt1 PE=1 SV=1
+1134-augustus_masked-CGE_5-5798	gnl|TC-DB|P40474|2.A.1.2.31	66.1	528	168	2	43	1626	18	534	7.20E-193	670.2	Uncharacterized transporter YIL121W - Saccharomyces cerevisiae (Baker's yeast).
+1137-augustus_masked-CQS_4-6376	gnl|TC-DB|P32319|9.A.63.1.1	80.4	230	45	0	1	690	707	936	2.90E-111	397.9	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1145-augustus_masked-ASV_1-19156	gnl|TC-DB|P33335|2.A.1.3.54	95.6	229	10	0	1	687	315	543	4.30E-120	427.2	Protein SGE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SGE1 PE=1 SV=1
+1156-augustus_masked-CGD_5-5436	gnl|TC-DB|P38124|2.A.1.2.17	92.9	548	39	0	1	1644	1	548	7.20E-299	1022.3	Fluconazole resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+1160-augustus_masked-ABP_6-5400	gnl|TC-DB|P25343|8.A.34.2.1	100	265	0	0	1	795	1	265	5.70E-148	520	Reduced viability upon starvation protein 161 - Saccharomyces cerevisiae (Baker's yeast).
+1161-augustus_masked-ABP_6-5400	gnl|TC-DB|P25613|2.A.96.1.4	100	283	0	0	1	849	1	283	2.10E-161	564.7	Uncharacterized protein YCR010C OS=Saccharomyces cerevisiae GN=YCR010C PE=1 SV=1
+1161-augustus_masked-ABP_6-5400	gnl|TC-DB|P32907|2.A.96.1.7	77.7	283	62	1	1	849	1	282	3.20E-125	444.5	Ammonia transport outward protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATO2 PE=1 SV=1
+1161-augustus_masked-ABP_6-5400	gnl|TC-DB|P41943|2.A.96.1.2	51.4	257	121	2	79	840	14	269	1.90E-69	259.2	GLYXOXYLATE PATHWAY REGULATOR - Yarrowia lipolytica (Candida lipolytica).
+1161-augustus_masked-ABP_6-5400	gnl|TC-DB|Q5B2K4|2.A.96.1.3	50	230	102	5	190	840	58	287	2.00E-50	196.1	Putative uncharacterized protein (Acetate permease) OS=Emericella nidulans GN=acpA PE=4 SV=1
+1161-augustus_masked-ABP_6-5400	gnl|TC-DB|O14201|2.A.96.1.6	47.6	206	102	2	199	801	70	274	1.90E-45	179.5	Meiotically up-regulated gene 86 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=mug86 PE=1 SV=1
+1173-augustus_masked-CPR_4-17889	gnl|TC-DB|P50276|2.A.3.8.4	97.4	574	15	0	1	1722	1	574	0	1117.8	High affinity methionine permease - Saccharomyces cerevisiae (Baker's yeast).
+1181-augustus_masked-AMM_4-6867	gnl|TC-DB|P40100|9.A.26.1.3	69.7	304	88	2	94	999	1	302	2.00E-113	405.6	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+1182-augustus_masked-ALI_5-15258	gnl|TC-DB|P53048|2.A.1.1.11	83.1	614	103	1	1	1839	1	614	2.80E-299	1023.8	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+1182-augustus_masked-ALI_5-15258	gnl|TC-DB|P15685|2.A.1.1.10	55	611	255	8	1	1797	1	603	1.50E-188	656	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P39004|2.A.1.1.31	66.2	547	149	4	58	1593	17	562	5.50E-211	730.3	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P13181|2.A.1.1.6	65.8	550	157	3	31	1590	19	567	1.60E-210	728.8	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P32467|2.A.1.1.30	64.8	545	159	3	43	1590	27	567	5.30E-206	713.8	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P32465|2.A.1.1.108	60.1	552	187	4	31	1590	11	561	6.80E-193	670.2	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P54862|2.A.1.1.105	60.9	535	174	4	82	1593	30	560	2.40E-190	661.8	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P23585|2.A.1.1.111	61.1	529	173	3	46	1545	13	537	5.40E-182	634	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P43581|2.A.1.1.5	58.6	544	182	3	1	1545	1	530	7.30E-179	623.6	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P39924|2.A.1.1.110	52.6	546	229	2	28	1575	4	549	2.60E-168	588.6	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|P54854|2.A.1.1.107	53.8	530	216	1	43	1545	13	542	3.50E-165	578.2	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1183-augustus_masked-ALI_5-15258	gnl|TC-DB|Q2MDH1|2.A.1.1.67	56.9	496	181	3	142	1533	30	524	6.80E-161	563.9	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1185-augustus_masked-CNI_4-19788	gnl|TC-DB|P40445|2.A.1.14.38	84.9	542	82	0	1	1626	1	542	1.20E-272	935.3	Uncharacterized transporter YIL166C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YIL166C PE=1 SV=1
+1198-augustus_masked-BTG_3-6441	gnl|TC-DB|P38125|2.A.1.2.40	87.1	572	74	0	1	1716	1	572	1.10E-276	948.7	Uncharacterized transporter YBR180W OS=Saccharomyces cerevisiae GN=YBR180W PE=1 SV=1
+1199-augustus_masked-BTG_3-6441	gnl|TC-DB|P41930|2.A.16.3.1	88.9	458	51	0	1	1374	1	458	8.30E-240	825.9	Sulfite sensitivity protein SSU1 - Saccharomyces cerevisiae (Baker's yeast).
+1209-augustus_masked-YCB-7953	gnl|TC-DB|P54862|2.A.1.1.105	95.1	82	4	0	1	246	1	82	2.40E-36	147.5	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1212-augustus_masked-BCG_8-12612	gnl|TC-DB|P15685|2.A.1.1.10	95.9	220	9	0	1	660	395	614	3.20E-120	427.6	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+1212-augustus_masked-BCG_8-12612	gnl|TC-DB|P53048|2.A.1.1.11	58.5	188	78	0	1	564	401	588	1.70E-60	229.2	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+1216-augustus_masked-BRK_4-4809	gnl|TC-DB|P15365|2.A.1.14.4	96.9	543	17	0	1	1629	1	543	9.00E-302	1031.9	Allantoate permease - Saccharomyces cerevisiae (Baker's yeast).
+1220-augustus_masked-YBR-7284	gnl|TC-DB|P53192|3.A.21.1.1	89.8	235	24	0	1	705	1	235	9.50E-123	436	Golgi to ER traffic protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GET1 PE=1 SV=1
+1221-augustus_masked-AQA_4-6966	gnl|TC-DB|P04035|2.A.6.6.5	52.1	499	225	6	16	1482	377	871	2.00E-133	472.6	3-HYDROXY-3-METHYLGLUTARYL-COENZYME A REDUCTASE (EC 1.1.1.34) (HMG-COA REDUCTASE) - Homo sapiens (Human).
+1221-augustus_masked-AQA_4-6966	gnl|TC-DB|K1QI94|2.A.6.6.10	52.9	435	193	7	196	1482	454	882	5.60E-120	427.9	3-hydroxy-3-methylglutaryl-coenzyme A reductase OS=Crassostrea gigas PE=3 SV=1
+1229-augustus_masked-CPM_4-14363	gnl|TC-DB|P35206|2.A.7.27.1	92.4	410	31	0	1	1230	1	410	2.50E-211	731.1	Mannosyl phosphorylinositol ceramide synthase regulatory protein CSG2 precursor - Saccharomyces cerevisiae (Baker's yeast).
+1230-augustus_masked-ANA_5-7847	gnl|TC-DB|P40100|9.A.26.1.3	59	305	121	1	13	927	3	303	8.50E-95	343.6	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P48813|2.A.3.10.5	84.7	583	89	0	1	1749	1	583	3.70E-280	960.3	High-affinity glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P25376|2.A.3.10.7	65.6	556	181	3	91	1752	8	555	1.90E-204	708.8	Asparagine/glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P38084|2.A.3.10.6	57.6	474	195	2	328	1749	62	529	8.80E-157	550.4	LEU/VAL/ILE amino-acid permease (Branched-chain amino-acid permease 2) - Saccharomyces cerevisiae (Baker's yeast).
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P41815|2.A.3.10.27	52.7	512	229	1	253	1749	13	524	2.90E-152	535.4	Valine amino-acid permease OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=BAP3 PE=1 SV=2
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P38085|2.A.3.10.9	59.2	444	174	3	412	1740	83	520	4.40E-148	521.5	Valine/tyrosine/tryptophan amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P19145|2.A.3.10.2	49.6	468	227	3	364	1743	56	522	1.20E-126	450.3	General amino-acid permease GAP1 - Saccharomyces cerevisiae (Baker's yeast).
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|Q5AG77|2.A.3.10.23	46.6	440	228	3	430	1746	70	503	1.70E-112	403.3	Gap1 protein OS=Candida albicans GN=GAP1 PE=4 SV=1
+1235-augustus_masked-CDE_2-5632	gnl|TC-DB|P38967|2.A.3.10.8	46.4	455	233	6	382	1746	62	505	5.60E-111	398.3	Tryptophan permease (Tryptophan amino acid transporter) - Saccharomyces cerevisiae (Baker's yeast).
+1240-augustus_masked-ALI_5-15225	gnl|TC-DB|P32939|9.A.63.1.1	88.9	208	23	0	1	624	1	208	1.20E-105	379	GTP-binding protein YPT7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YPT7 PE=1 SV=1
+1246-augustus_masked-CGD_5-5416	gnl|TC-DB|Q12207|9.A.27.1.1	99.4	173	1	0	1	519	1	173	1.40E-91	332	Non-classical export protein 2 - Saccharomyces cerevisiae (Baker's yeast).
+1246-augustus_masked-CGD_5-5416	gnl|TC-DB|P53279|9.A.27.1.2	61.5	174	66	1	1	519	1	174	3.30E-56	214.5	Uncharacterized membrane protein YGR131W OS=Saccharomyces cerevisiae GN=YGR131W PE=1 SV=1
+1250-augustus_masked-BDM_5-23139	gnl|TC-DB|P33335|2.A.1.3.54	54.7	170	75	1	1	510	375	542	2.90E-52	201.4	Protein SGE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SGE1 PE=1 SV=1
+1273-augustus_masked-CPG_1-7611	gnl|TC-DB|C8Z4J7|3.A.5.8.1	97	203	6	0	1	609	1	203	9.80E-100	359.4	Yet3p OS=Saccharomyces cerevisiae (strain Lalvin EC1118 / Prise de mousse) GN=EC1118_1D0_1563g PE=4 SV=1
+1277-augustus_masked-CPR_4-17794	gnl|TC-DB|Q12473|5.B.1.5.2	88.2	712	84	0	1	2136	1	712	0	1301.2	Ferric reductase transmembrane component 6 - Saccharomyces cerevisiae (Baker's yeast).
+1279-augustus_masked-CPR_4-17794	gnl|TC-DB|P32386|3.A.1.208.12	94.7	1661	88	0	1	4983	1	1661	0	3069.3	ATP-dependent bile acid permease - Saccharomyces cerevisiae (Baker's yeast).
+1287-augustus_masked-CPQ_4-15165	gnl|TC-DB|E7NFP9|8.A.68.1.1	92	672	54	0	55	2070	1	672	0	1238.8	Tmn2p OS=Saccharomyces cerevisiae (strain FostersO) GN=FOSTERSO_0673 PE=4 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P13181|2.A.1.1.6	86.6	573	76	1	1	1716	1	573	2.40E-297	1017.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P32467|2.A.1.1.30	74.3	545	140	0	79	1713	28	572	1.50E-246	848.6	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P39004|2.A.1.1.31	73.4	552	144	2	64	1713	16	566	2.50E-246	847.8	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P32465|2.A.1.1.108	68.6	551	168	1	76	1713	16	566	6.30E-229	790	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P54862|2.A.1.1.105	66.4	545	180	2	79	1707	19	562	6.10E-216	746.9	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P23585|2.A.1.1.111	70.2	500	149	0	163	1662	41	540	3.50E-211	731.1	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P43581|2.A.1.1.5	63.6	528	188	1	70	1653	7	530	1.10E-201	699.5	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P39924|2.A.1.1.110	59.1	543	216	3	82	1707	18	555	3.20E-188	654.8	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|P54854|2.A.1.1.107	57.4	564	233	4	25	1713	3	560	1.60E-187	652.5	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1296-augustus_masked-YCB-8071	gnl|TC-DB|Q2MDH1|2.A.1.1.67	56.4	548	230	4	73	1695	1	546	1.70E-181	632.5	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1302-augustus_masked-CQS_4-6075	gnl|TC-DB|A9SUG7|9.A.15.3.1	51.4	144	57	4	556	957	32	172	2.50E-36	149.4	Lactoylglutathione lyase OS=Physcomitrella patens subsp. patens GN=PHYPADRAFT_107013 PE=3 SV=1
+1310-augustus_masked-BCQ_8-11841	gnl|TC-DB|B3IUC4|1.A.8.6.1	99.4	156	1	0	1	468	79	234	6.00E-73	270	Aquaporin Aqy1 OS=Saccharomyces cerevisiae PE=3 SV=1
+1310-augustus_masked-BCQ_8-11841	gnl|TC-DB|P0CD89|1.A.8.6.2	83.4	151	25	0	1	453	138	288	1.60E-62	235.3	Aquaporin-2 OS=Saccharomyces cerevisiae GN=AQY2 PE=2 SV=1
+1310-augustus_masked-BCQ_8-11841	gnl|TC-DB|F2QVG4|1.A.8.6.3	69.3	127	39	0	1	381	133	259	7.70E-44	173.3	Aquaporin PIP2-7 7 OS=Komagataella pastoris (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) GN=AQY1 PE=1 SV=1
+1310-augustus_masked-BCQ_8-11841	gnl|TC-DB|H6B4G1|1.A.8.6.4	48.8	121	62	0	10	372	128	248	7.20E-26	113.6	Aquaporin 1 OS=Terfezia claveryi GN=AQP1 PE=2 SV=1
+1324-augustus_masked-AHM_1-6883	gnl|TC-DB|Q12117|3.E.1.4.6	100	56	0	0	1	168	234	289	9.60E-28	119	Protein MRH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MRH1 PE=1 SV=1
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P39004|2.A.1.1.31	91	134	12	0	1	402	1	134	7.40E-64	239.6	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P32467|2.A.1.1.30	72.9	140	32	2	1	402	1	140	1.80E-49	191.8	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P13181|2.A.1.1.6	62.6	131	46	2	19	402	10	140	8.30E-39	156.4	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P54862|2.A.1.1.105	61.3	119	46	0	46	402	12	130	1.70E-36	148.7	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P32465|2.A.1.1.108	59.5	116	45	1	55	402	21	134	1.00E-33	139.4	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P23585|2.A.1.1.111	62.3	114	40	2	61	399	13	124	1.30E-31	132.5	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1325-augustus_masked-YBP-8463	gnl|TC-DB|P43581|2.A.1.1.5	58.1	117	43	2	61	399	3	117	1.20E-29	125.9	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1325-augustus_masked-YBP-8463	gnl|TC-DB|Q2MDH1|2.A.1.1.67	58.9	90	35	1	136	399	23	112	2.80E-26	114.8	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1329-augustus_masked-CPI_4-15337	gnl|TC-DB|P38301|2.A.106.2.3	90	270	27	0	1	810	11	280	1.10E-125	446	GCR1-dependent translation factor 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=GDT1 PE=1 SV=1
+1329-augustus_masked-CPI_4-15337	gnl|TC-DB|B2WDS4|2.A.106.2.5	46.9	262	113	2	91	798	251	512	2.20E-54	209.1	Transmembrane protein PFT27 OS=Pyrenophora tritici-repentis (strain Pt-1C-BFP) GN=PTRG_08297 PE=4 SV=1
+1337-augustus_masked-CPQ_4-14811	gnl|TC-DB|A8MS84|9.A.15.3.1	73.9	115	30	0	4	348	18	132	3.40E-44	174.1	Autophagy-related protein OS=Arabidopsis thaliana GN=APG8A PE=3 SV=1
+1337-augustus_masked-CPQ_4-14811	gnl|TC-DB|O95166|1.A.9.5.2	55.2	116	52	0	1	348	1	116	4.10E-34	140.6	Gamma-aminobutyric acid receptor-associated protein - Homo sapiens (Human).
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P32467|2.A.1.1.30	95.8	167	7	0	1	501	170	336	1.40E-88	322	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P39004|2.A.1.1.31	86.8	167	22	0	1	501	164	330	1.40E-80	295.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P13181|2.A.1.1.6	80	165	33	0	1	495	170	334	1.80E-75	278.5	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P32465|2.A.1.1.108	76.6	167	39	0	1	501	164	330	4.60E-71	263.8	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P54862|2.A.1.1.105	74.3	167	43	0	1	501	160	326	8.60E-70	259.6	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P23585|2.A.1.1.111	69.9	166	50	0	4	501	156	321	1.30E-65	245.7	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P43581|2.A.1.1.5	66.5	164	55	0	4	495	149	312	3.00E-62	234.6	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|Q2MDH1|2.A.1.1.67	62.4	165	62	0	7	501	145	309	1.20E-58	222.6	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P39924|2.A.1.1.110	59	166	68	0	4	501	158	323	3.30E-53	204.5	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1341-augustus_masked-AQM_4-11146	gnl|TC-DB|P54854|2.A.1.1.107	57.8	166	70	0	4	501	161	326	2.80E-52	201.4	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1345-augustus_masked-CPQ_4-15150	gnl|TC-DB|P08107|1.A.33.1.3	70.5	647	179	2	10	1947	6	641	1.50E-250	862.1	Heat shock 70 kDa protein 1 (HSP70.1) (HSP70-1/HSP70-2) - Homo sapiens (Human).
+1345-augustus_masked-CPQ_4-15150	gnl|TC-DB|P22953|1.A.33.1.1	66.9	613	199	3	10	1836	9	621	1.50E-223	772.3	HEAT SHOCK COGNATE 70 KDA PROTEIN 1 (HSC70.1) - Arabidopsis thaliana (Mouse-ear cress).
+1345-augustus_masked-CPQ_4-15150	gnl|TC-DB|P11021|1.A.33.1.6	62	610	226	5	13	1833	31	637	1.10E-205	713	78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2
+1345-augustus_masked-CPQ_4-15150	gnl|TC-DB|Q02028|3.A.9.1.1	55.2	531	222	8	7	1584	69	588	4.10E-152	535	Stromal 70 kDa heat shock-related protein, chloroplast precursor - Pisum sativum (Garden pea).
+1345-augustus_masked-CPQ_4-15150	gnl|TC-DB|P0A6Y8|1.A.33.1.2	53.9	538	229	9	1	1587	1	528	7.80E-151	530.8	Chaperone protein dnaK - Escherichia coli.
+1345-augustus_masked-CPQ_4-15150	gnl|TC-DB|G4NXA5|1.A.33.1.4	52.3	526	212	9	1	1566	1	491	2.10E-143	506.1	Chaperone protein DnaK OS=Bacillus subtilis subsp. spizizenii TU-B-10 GN=dnaK PE=3 SV=1
+1367-augustus_masked-BPF_4-10460	gnl|TC-DB|Q05998|2.A.39.4.1	91.4	70	6	0	1	210	529	598	9.80E-31	128.6	THIAMINE TRANSPORTER - Saccharomyces cerevisiae (Baker's yeast).
+1367-augustus_masked-BPF_4-10460	gnl|TC-DB|Q08485|2.A.39.4.2	75	68	17	0	1	204	529	596	2.30E-24	107.5	Putative thiamine transporter YOR071C OS=Saccharomyces cerevisiae GN=YOR071C PE=1 SV=1
+1369-augustus_masked-AIG_2-6522	gnl|TC-DB|P32319|9.A.63.1.1	91.5	165	14	0	1	495	899	1063	3.30E-82	300.8	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1370-augustus_masked-ALT_5-7832	gnl|TC-DB|P32319|9.A.63.1.1	54.9	122	51	2	1	363	467	585	1.30E-33	139	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P32465|2.A.1.1.108	88.3	145	17	0	1	435	190	334	3.40E-70	260.8	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P39004|2.A.1.1.31	71	145	42	0	1	435	190	334	2.30E-55	211.5	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P32467|2.A.1.1.30	69	145	45	0	1	435	196	340	2.00E-54	208.4	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P13181|2.A.1.1.6	63.6	143	52	0	1	429	196	338	1.90E-52	201.8	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P54862|2.A.1.1.105	62.8	145	54	0	1	435	186	330	7.30E-49	189.9	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P43581|2.A.1.1.5	63.9	144	52	0	4	435	175	318	1.60E-48	188.7	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P23585|2.A.1.1.111	64.6	144	51	0	4	435	182	325	6.20E-48	186.8	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|Q2MDH1|2.A.1.1.67	56.6	145	63	0	1	435	169	313	3.40E-46	181	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P39924|2.A.1.1.110	52.8	144	68	0	1	432	183	326	4.30E-41	164.1	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1373-augustus_masked-AAG_6-7250	gnl|TC-DB|P54854|2.A.1.1.107	50.7	144	71	0	1	432	186	329	8.10E-40	159.8	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1374-augustus_masked-BEP_4-7596	gnl|TC-DB|B3ET62|3.A.23.6.1	50.3	165	80	2	4	495	78	241	6.40E-41	163.7	Glyceraldehyde-3-phosphate dehydrogenase OS=Amoebophilus asiaticus (strain 5a2) GN=Aasi_1069 PE=3 SV=1
+1376-augustus_masked-BNB_4-11356	gnl|TC-DB|P38925|2.A.55.1.1	91	581	46	2	1	1743	1	575	8.80E-295	1008.8	TRANSPORTER PROTEIN SMF1/ESP1 - Saccharomyces cerevisiae (Baker's yeast).
+1376-augustus_masked-BNB_4-11356	gnl|TC-DB|H2ETP6|2.A.55.1.5	51.6	500	189	7	226	1725	122	568	3.60E-131	465.3	Natural resistance-associated macrophage protein OS=Exophiala pisciphila PE=2 SV=1
+1376-augustus_masked-BNB_4-11356	gnl|TC-DB|Q12078|2.A.55.1.3	46.1	501	224	7	217	1713	7	463	2.10E-115	412.9	CHROMOSOME XII READING FRAME ORF YLR034C - Saccharomyces cerevisiae (Baker's yeast).
+1376-augustus_masked-BNB_4-11356	gnl|TC-DB|P38778|2.A.55.1.2	45.4	518	261	8	193	1734	45	544	9.30E-111	397.5	TRANSPORTER PROTEIN SMF2 - Saccharomyces cerevisiae (Baker's yeast).
+1381-augustus_masked-AQA_4-7239	gnl|TC-DB|P32568|3.A.1.205.2	97.3	1377	37	0	1	4131	1	1377	0	2573.1	SNQ2 protein - Saccharomyces cerevisiae (Baker's yeast).
+1381-augustus_masked-AQA_4-7239	gnl|TC-DB|Q02785|3.A.1.205.3	45.8	1336	696	14	175	4131	43	1367	0	1121.7	ATP-dependent permease PDR12 - Saccharomyces cerevisiae (Baker's yeast).
+1390-augustus_masked-CEG_4-7331	gnl|TC-DB|Q08902|2.A.1.3.52	74.8	497	123	2	7	1491	16	512	2.90E-222	767.7	Drug resistance protein YOR378W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YOR378W PE=1 SV=1
+1399-augustus_masked-ACL_7-7535	gnl|TC-DB|P39709|2.A.1.14.37	57.8	403	164	3	187	1389	128	526	6.40E-132	467.6	Probable transporter SEO1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=SEO1 PE=1 SV=1
+1405-augustus_masked-CQS_4-6442	gnl|TC-DB|P38361|2.A.20.2.2	97.6	574	14	0	1	1722	1	574	0	1095.1	PUTATIVE PHOSPHATE-REPRESSIBLE PHOSPHATE PERMEASE YBR29C - Saccharomyces cerevisiae (Baker's yeast).
+1405-augustus_masked-CQS_4-6442	gnl|TC-DB|B5M4W2|2.A.20.2.10	57.1	581	233	6	1	1722	4	575	2.50E-185	645.2	Sodium phosphate symporter OS=Komagataella pastoris GN=Pho89 PE=4 SV=1
+1407-augustus_masked-CGD_5-5424	gnl|TC-DB|P36032|2.A.1.13.18	86.3	473	65	0	1	1419	1	473	3.90E-232	800.4	Probable transporter MCH2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MCH2 PE=1 SV=2
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|P00830|3.A.2.1.3	100	251	0	0	1	753	261	511	1.60E-136	481.9	ATP SYNTHASE BETA CHAIN, MITOCHONDRIAL PRECURSOR (EC 3.6.1.34) - Saccharomyces cerevisiae (Baker's yeast).
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|A1B8P0|3.A.2.1.7	81.2	250	47	0	1	750	224	473	2.60E-110	394.8	ATP synthase subunit beta OS=Paracoccus denitrificans (strain Pd 1222) GN=atpD PE=3 SV=1
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|P50002|3.A.2.1.5	76.4	246	58	0	1	738	219	464	1.20E-104	375.9	ATP synthase subunit beta, sodium ion specific OS=Acetobacterium woodii (strain ATCC 29683 / DSM 1030 / JCM 2381 / KCTC 1655) GN=atpD PE=1 SV=3
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|I7LZV1|3.A.2.1.4	76.8	241	56	0	1	723	247	487	1.80E-103	372.1	ATP synthase subunit beta OS=Tetrahymena thermophila (strain SB210) GN=TTHERM_00585260 PE=3 SV=1
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|P0ABB4|3.A.2.1.1	76.7	245	56	1	4	738	217	460	3.40E-102	367.9	ATP synthase subunit beta - Escherichia coli.
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|BAK19948|3.A.2.1.10	72.3	249	69	0	1	747	235	483	6.40E-101	363.6	ApH+ATPase beta subunit [Aphanothece halophytica]
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|P29707|3.A.2.1.2	72.4	246	68	0	1	738	217	462	4.60E-99	357.5	ATP synthase beta chain, sodium ion specific (EC 3.6.3.15) - Propionigenium modestum.
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|F8L1Z1|3.A.2.1.6	72.4	246	68	0	1	738	219	464	1.10E-97	352.8	ATP synthase subunit beta OS=Parachlamydia acanthamoebae (strain UV7) GN=atpD-B PE=3 SV=1
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|A0ZW41|3.A.2.1.11	82.6	218	38	0	1	654	257	474	1.60E-96	349	ATP synthase subunit beta OS=Polytomella sp. Pringsheim 198.80 GN=atp2 PE=2 SV=1
+1416-augustus_masked-BBM_6-6977	gnl|TC-DB|BAK19931|3.A.2.1.9	52.7	245	116	0	1	735	225	469	1.80E-71	265.8	ApNa+ATPase beta subunit [Aphanothece halophytica]
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P43581|2.A.1.1.5	95.2	546	26	0	1	1638	1	546	0	1055.8	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P23585|2.A.1.1.111	80.8	511	98	0	67	1599	30	540	4.60E-253	870.2	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P39004|2.A.1.1.31	68.5	530	161	2	7	1590	21	546	7.40E-219	756.5	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P32467|2.A.1.1.30	66.1	531	177	1	7	1590	22	552	7.90E-213	736.5	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P54862|2.A.1.1.105	66.1	534	176	2	1	1596	16	546	2.60E-208	721.5	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P32465|2.A.1.1.108	68.7	485	152	0	136	1590	62	546	3.60E-205	711.1	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P13181|2.A.1.1.6	64.6	525	182	1	28	1590	28	552	2.80E-202	701.4	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|Q2MDH1|2.A.1.1.67	57.3	518	218	1	34	1578	7	524	1.20E-176	616.3	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P39924|2.A.1.1.110	57.9	504	211	1	103	1611	43	546	4.50E-176	614.4	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|P54854|2.A.1.1.107	57.1	499	213	1	109	1602	48	546	4.20E-174	607.8	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1417-augustus_masked-CPG_1-7550	gnl|TC-DB|Q400D8|2.A.1.1.36	45.9	481	255	3	139	1578	48	524	2.90E-122	435.6	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+1423-augustus_masked-CPR_4-17889	gnl|TC-DB|P38631|9.B.119.1.1	86.4	1887	229	8	37	5685	14	1876	0	3270.7	1,3-beta-glucan synthase component FKS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FKS1 PE=1 SV=2
+1424-augustus_masked-CPR_4-17889	gnl|TC-DB|P53220|3.A.8.1.1	88.2	245	23	1	1	735	1	239	4.20E-121	430.6	Import inner membrane translocase subunit TIM21, mitochondrial - Saccharomyces cerevisiae (Baker's yeast).
+1428-augustus_masked-AHL_3-8012	gnl|TC-DB|Q9FI56|3.A.9.1.2	48.7	711	298	11	1309	3411	255	908	8.90E-182	634.4	Chaperone protein ClpC1, chloroplastic OS=Arabidopsis thaliana GN=CLPC1 PE=1 SV=1
+1428-augustus_masked-AHL_3-8012	gnl|TC-DB|Q9SXJ7|3.A.9.1.2	48.6	712	297	11	1309	3411	276	929	2.60E-181	632.9	Chaperone protein ClpC2, chloroplastic OS=Arabidopsis thaliana GN=CLPC2 PE=2 SV=1
+1436-maker-BDE_8-15861	gnl|TC-DB|P32467|2.A.1.1.30	50.3	175	62	3	28	477	9	183	2.40E-37	151.8	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1436-maker-BDE_8-15861	gnl|TC-DB|P39004|2.A.1.1.31	51.5	171	59	5	37	477	7	177	4.60E-36	147.5	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1436-maker-BDE_8-15861	gnl|TC-DB|P13181|2.A.1.1.6	45.9	183	75	2	1	477	1	183	2.50E-34	141.7	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1436-maker-BDE_8-15861	gnl|TC-DB|P54862|2.A.1.1.105	52.9	155	51	4	79	477	19	173	8.90E-32	133.3	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1436-maker-BDE_8-15861	gnl|TC-DB|P23585|2.A.1.1.111	46.3	175	55	4	10	477	14	168	6.40E-30	127.1	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1436-maker-BDE_8-15861	gnl|TC-DB|P32465|2.A.1.1.108	49.7	143	51	2	112	477	35	177	4.10E-29	124.4	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1436-maker-BDE_8-15861	gnl|TC-DB|P43581|2.A.1.1.5	56.5	124	35	2	163	477	38	161	2.70E-28	121.7	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1439-maker-AHM_1-7103	gnl|TC-DB|P32465|2.A.1.1.108	85.1	570	15	1	1	1500	1	570	9.90E-279	955.3	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1439-maker-AHM_1-7103	gnl|TC-DB|P32467|2.A.1.1.30	62.5	574	128	4	4	1500	15	576	1.70E-198	688.7	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1439-maker-AHM_1-7103	gnl|TC-DB|P39004|2.A.1.1.31	61.9	554	135	3	61	1500	19	570	1.40E-192	669.1	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1439-maker-AHM_1-7103	gnl|TC-DB|P13181|2.A.1.1.6	58.1	523	149	1	130	1488	50	572	1.10E-176	616.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1439-maker-AHM_1-7103	gnl|TC-DB|P54862|2.A.1.1.105	55.9	562	171	4	40	1494	5	566	3.30E-173	604.7	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1439-maker-AHM_1-7103	gnl|TC-DB|P43581|2.A.1.1.5	55.8	486	145	1	181	1428	45	530	6.40E-153	537.3	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1439-maker-AHM_1-7103	gnl|TC-DB|P23585|2.A.1.1.111	56.4	486	142	1	181	1428	52	537	2.40E-152	535.4	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1439-maker-AHM_1-7103	gnl|TC-DB|Q2MDH1|2.A.1.1.67	50.2	532	188	3	106	1470	15	546	8.40E-145	510.4	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1439-maker-AHM_1-7103	gnl|TC-DB|P39924|2.A.1.1.110	47.4	515	194	4	106	1431	30	540	1.70E-137	486.1	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1439-maker-AHM_1-7103	gnl|TC-DB|P54854|2.A.1.1.107	45.5	545	223	4	19	1434	1	544	1.00E-134	476.9	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1447-maker-CPQ_4-15250	gnl|TC-DB|P62837|3.A.20.1.1	80.6	144	28	0	13	444	4	147	6.50E-69	256.5	Ubiquitin-conjugating enzyme E2 D2 OS=Homo sapiens GN=UBE2D2 PE=1 SV=1
+1447-maker-CPQ_4-15250	gnl|TC-DB|Q8I607|3.A.16.1.3	76.2	143	34	0	13	441	4	146	1.10E-63	239.2	Ubiquitin conjugating enzyme E2, putative OS=Plasmodium falciparum (isolate 3D7) GN=PFL0190w PE=3 SV=1
+1447-maker-CPQ_4-15250	gnl|TC-DB|E7Q288|3.A.16.1.2	46.3	149	78	2	1	441	1	149	1.50E-33	139	Ubc1p OS=Saccharomyces cerevisiae (strain FostersB) GN=FOSTERSB_0886 PE=3 SV=1
+1448-maker-BBM_6-7237	gnl|TC-DB|P32319|9.A.63.1.1	77.1	752	136	3	1	2148	828	1579	0	1200.3	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1462-maker-CPM_4-14876	gnl|TC-DB|P38971|2.A.3.10.11	93.4	573	38	0	37	1755	1	573	0	1056.6	Basic amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+1462-maker-CPM_4-14876	gnl|TC-DB|P04817|2.A.3.10.4	71.3	527	149	2	175	1755	66	590	1.30E-221	765.8	Arginine permease - Saccharomyces cerevisiae (Baker's yeast).
+1462-maker-CPM_4-14876	gnl|TC-DB|P32487|2.A.3.10.10	65	523	181	2	175	1743	87	607	1.80E-202	702.2	Lysine-specific permease - Saccharomyces cerevisiae (Baker's yeast).
+1462-maker-CPM_4-14876	gnl|TC-DB|P43059|2.A.3.10.20	54.7	532	225	7	178	1743	42	567	4.30E-156	548.1	Lysine/arginine permease - Candida albicans (Yeast).
+1480-maker-CPQ_4-15294	gnl|TC-DB|P62837|3.A.20.1.1	49.7	143	72	0	16	444	4	146	2.20E-35	145.2	Ubiquitin-conjugating enzyme E2 D2 OS=Homo sapiens GN=UBE2D2 PE=1 SV=1
+1480-maker-CPQ_4-15294	gnl|TC-DB|Q8I607|3.A.16.1.3	47.9	144	75	0	16	447	4	147	4.10E-34	141	Ubiquitin conjugating enzyme E2, putative OS=Plasmodium falciparum (isolate 3D7) GN=PFL0190w PE=3 SV=1
+1494-maker-BEE_6-12017	gnl|TC-DB|P15685|2.A.1.1.10	70.8	295	7	1	1	885	36	251	6.10E-109	390.6	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+1494-maker-BEE_6-12017	gnl|TC-DB|P53048|2.A.1.1.11	59.7	196	76	2	313	894	66	260	7.80E-64	240.7	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+1497-maker-CDN_4-6216	gnl|TC-DB|P32319|9.A.63.1.1	48	738	304	10	1	2022	21	742	1.10E-187	653.3	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1512-maker-ABP_6-5400	gnl|TC-DB|Q3E7B6|3.A.2.2.3	100	73	0	0	1	219	1	73	1.40E-35	144.8	V-type proton ATPase subunit e OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=VMA9 PE=1 SV=1
+1538-maker-YCY-8051	gnl|TC-DB|P00163|3.D.3.3.1	90.3	103	1	1	61	342	170	272	3.90E-45	177.2	Cytochrome B - Saccharomyces cerevisiae (Baker's yeast).
+1549-maker-CDT_2-5317	gnl|TC-DB|P17064|2.A.39.2.1	63.2	209	7	1	1	417	325	533	1.80E-65	245	PURINE-CYTOSINE PERMEASE (PCP) (CYTOSINE/PURINE TRANSPORT PROTEIN) - Saccharomyces cerevisiae (Baker's yeast).
+1549-maker-CDT_2-5317	gnl|TC-DB|Q708J7|2.A.39.2.3	62.6	115	43	0	16	360	311	425	1.10E-36	149.4	Putative purine-cytosine permease - Candida albicans (Yeast).
+1566-maker-AQD_4-6575	gnl|TC-DB|P41815|2.A.3.10.27	95.5	604	19	2	1	1788	1	604	0	1142.9	Valine amino-acid permease OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=BAP3 PE=1 SV=2
+1566-maker-AQD_4-6575	gnl|TC-DB|P38084|2.A.3.10.6	73.7	585	136	4	76	1788	29	609	2.70E-251	864.4	LEU/VAL/ILE amino-acid permease (Branched-chain amino-acid permease 2) - Saccharomyces cerevisiae (Baker's yeast).
+1566-maker-AQD_4-6575	gnl|TC-DB|P25376|2.A.3.10.7	51.6	587	268	4	73	1788	48	633	1.90E-172	602.4	Asparagine/glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+1566-maker-AQD_4-6575	gnl|TC-DB|P48813|2.A.3.10.5	56.4	512	215	2	277	1788	152	663	1.50E-169	592.8	High-affinity glutamine permease - Saccharomyces cerevisiae (Baker's yeast).
+1566-maker-AQD_4-6575	gnl|TC-DB|P38085|2.A.3.10.9	52.8	521	224	6	163	1698	66	573	5.20E-149	524.6	Valine/tyrosine/tryptophan amino-acid permease - Saccharomyces cerevisiae (Baker's yeast).
+1575-snap_masked-BBM_6-7010	gnl|TC-DB|P81450|8.A.73.2.4	98.3	59	1	0	1	177	1	59	4.10E-30	126.3	ATP synthase subunit J, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ATP18 PE=1 SV=1
+1581-snap_masked-CDT_2-5211	gnl|TC-DB|Q08902|2.A.1.3.52	97.9	483	10	0	1	1449	33	515	3.30E-279	956.8	Drug resistance protein YOR378W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=YOR378W PE=1 SV=1
+1589-snap_masked-BVG_4-25625	gnl|TC-DB|P39932|2.A.1.1.38	98.6	349	5	0	1	1047	220	568	1.10E-194	675.6	Sugar transporter STL1 - Saccharomyces cerevisiae (Baker's yeast).
+1589-snap_masked-BVG_4-25625	gnl|TC-DB|Q5A8J5|2.A.1.1.73	60.7	321	122	2	31	981	218	538	2.00E-108	389	Putative uncharacterized protein STL1 OS=Candida albicans GN=HGT10 PE=4 SV=1
+1589-snap_masked-BVG_4-25625	gnl|TC-DB|AKU75155.2|2.A.1.1.137	55.7	343	152	0	4	1032	206	548	4.10E-106	381.3	glycerol symporter [Wickerhamomyces anomalus]
+1592-snap_masked-YCL-7822	gnl|TC-DB|Q08269|1.A.35.2.1	96.2	312	12	0	1	936	548	859	2.00E-168	588.2	Aluminum resistance protein 1 - Saccharomyces cerevisiae (Baker's yeast).
+1592-snap_masked-YCL-7822	gnl|TC-DB|O13657|1.A.35.2.3	52.2	247	76	2	1	738	591	796	5.00E-63	238	Putative metal ion transporter C27B12.12c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=pi066 PE=1 SV=1
+1594-snap_masked-AMH_5-6573	gnl|TC-DB|P38631|9.B.119.1.1	96.9	782	24	0	1	2346	1095	1876	0	1533.1	1,3-beta-glucan synthase component FKS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=FKS1 PE=1 SV=2
+1596-snap_masked-CPM_4-14907	gnl|TC-DB|Q08299|2.A.1.16.2	95.2	252	12	0	1	756	355	606	1.30E-133	472.2	CHROMOSOME XV READING FRAME ORF YOL158C - Saccharomyces cerevisiae (Baker's yeast).
+1613-snap_masked-CPA_4-16966	gnl|TC-DB|P38702|2.A.29.12.4	97.2	284	8	0	1	852	74	357	1.50E-162	568.5	Mitochondrial carrier protein LEU5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=LEU5 PE=2 SV=1
+1629-snap_masked-CQS_4-6404	gnl|TC-DB|P15685|2.A.1.1.10	87.6	483	60	0	1	1449	132	614	1.80E-256	881.3	Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).
+1629-snap_masked-CQS_4-6404	gnl|TC-DB|P53048|2.A.1.1.11	59.1	452	182	3	1	1353	139	588	1.30E-163	572.8	General alpha-glucoside permease - Saccharomyces cerevisiae (Baker's yeast).
+1631-snap_masked-BDG_5-19334	gnl|TC-DB|P40100|9.A.26.1.3	51.3	302	142	1	22	912	2	303	4.60E-80	294.7	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+1634-snap_masked-AID_2-6456	gnl|TC-DB|Q08970|2.A.4.1.6	59.8	336	134	1	430	1434	114	449	3.80E-116	415.2	Mitochondrial metal transporter 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=MMT2 PE=1 SV=2
+1648-snap_masked-CGE_5-5812	gnl|TC-DB|P48439|1.A.76.1.8	95.4	350	16	0	1	1050	1	350	1.30E-189	658.7	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=OST3 PE=1 SV=1
+1648-snap_masked-CGE_5-5812	gnl|TC-DB|P48439|9.B.142.3.14	95.4	350	16	0	1	1050	1	350	1.30E-189	658.7	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=OST3 PE=1 SV=1
+1660-snap_masked-BCB_3-14860	gnl|TC-DB|P13181|2.A.1.1.6	58.6	87	36	0	1	261	255	341	4.60E-22	100.1	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P39924|2.A.1.1.110	95.4	174	8	0	1	522	391	564	4.00E-94	340.5	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P54854|2.A.1.1.107	90.6	171	16	0	1	513	394	564	3.70E-87	317.4	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P13181|2.A.1.1.6	68.3	167	51	1	1	495	404	570	9.70E-64	239.6	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P39004|2.A.1.1.31	75.2	149	37	0	4	450	399	547	1.70E-63	238.8	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P32465|2.A.1.1.108	69.3	150	46	0	1	450	398	547	6.50E-60	226.9	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P32467|2.A.1.1.30	69.1	149	46	0	4	450	405	553	1.40E-59	225.7	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P43581|2.A.1.1.5	62.2	156	58	1	7	474	384	538	9.10E-54	206.5	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P23585|2.A.1.1.111	62.6	147	55	0	7	447	391	537	1.00E-52	203	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|P54862|2.A.1.1.105	55.6	171	74	1	1	507	394	564	8.00E-50	193.4	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|Q2MDH1|2.A.1.1.67	56.8	148	61	1	7	441	379	526	1.00E-44	176.4	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|Q8J0U9|2.A.1.1.58	50	144	70	1	7	438	386	527	2.30E-36	148.7	Monosaccharide transporter - Aspergillus niger.
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|O74849|2.A.1.1.22	45.6	158	83	2	7	480	343	497	1.80E-33	139	High-affinity fructose transporter ght6 (Hexose transporter 6) - Schizosaccharomyces pombe (Fission yeast).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|Q400D8|2.A.1.1.36	49.3	144	69	2	7	435	384	524	1.80E-33	139	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|O74969|2.A.1.1.21	46	163	81	2	7	495	345	500	3.00E-33	138.3	High-affinity glucose transporter ght2 (Hexose transporter 2) - Schizosaccharomyces pombe (Fission yeast).
+1669-snap_masked-BEE_6-12017	gnl|TC-DB|Q9P3U6|2.A.1.1.112	47.8	138	70	1	7	420	341	476	2.80E-31	131.7	High-affinity glucose transporter ght1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=ght1 PE=1 SV=1
+1681-snap_masked-APS_4-8484	gnl|TC-DB|O60706|3.A.1.208.23	45.2	146	78	2	61	495	751	895	4.00E-31	131.7	ATP-binding cassette sub-family C member 9 OS=Homo sapiens GN=ABCC9 PE=1 SV=2
+1681-snap_masked-APS_4-8484	gnl|TC-DB|Q09428|3.A.1.208.4	45.2	146	76	3	64	495	769	912	9.00E-31	130.6	Sulfonylurea receptor 1 - Homo sapiens (Human).
+1681-snap_masked-APS_4-8484	gnl|TC-DB|X1WW89|3.A.1.208.35	46	150	79	2	61	507	698	846	2.60E-30	129	Uncharacterized protein OS=Acyrthosiphon pisum PE=4 SV=1
+1682-snap_masked-CLG_4-26387	gnl|TC-DB|P32804|2.A.5.1.1	87.3	245	29	1	1	729	1	245	9.20E-121	429.5	ZRT1 PROTEIN - Saccharomyces cerevisiae (Baker's yeast).
+1705-snap_masked-BVC_6-19273	gnl|TC-DB|P32319|9.A.63.1.1	52	587	252	7	76	1758	1	583	4.30E-164	574.7	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1710-snap_masked-AHL_3-7774	gnl|TC-DB|P06493|1.I.1.1.3	52.1	292	131	4	19	891	4	287	3.60E-82	301.6	Cyclin-dependent kinase 1 OS=Homo sapiens GN=CDK1 PE=1 SV=3
+1714-snap_masked-ASB_2-40163	gnl|TC-DB|Q9UVL6|3.A.3.5.9	52.5	1018	457	10	523	3528	169	1175	1.40E-294	1009.2	Copper resistance-associated P-type ATPase - Candida albicans (Yeast).
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P32465|2.A.1.1.108	93.1	102	7	0	1	306	326	427	5.00E-52	199.9	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P39004|2.A.1.1.31	74.5	102	26	0	1	306	326	427	1.10E-40	162.2	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P32467|2.A.1.1.30	73.5	102	27	0	1	306	332	433	2.60E-40	161	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P54862|2.A.1.1.105	65.4	104	34	1	1	306	322	425	3.10E-38	154.1	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P43581|2.A.1.1.5	68.6	102	32	0	1	306	310	411	2.00E-37	151.4	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P23585|2.A.1.1.111	67.6	102	33	0	1	306	317	418	1.30E-36	148.7	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P13181|2.A.1.1.6	62.7	102	38	0	1	306	332	433	6.70E-33	136.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P39924|2.A.1.1.110	60	100	40	0	7	306	321	420	3.30E-32	134	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|P54854|2.A.1.1.107	59	100	41	0	7	306	324	423	1.70E-31	131.7	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1715-snap_masked-AFI_5-7003	gnl|TC-DB|Q2MDH1|2.A.1.1.67	53.3	105	46	1	1	306	305	409	7.70E-29	122.9	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1726-snap_masked-AVB_8-7945	gnl|TC-DB|P38865|1.A.56.1.3	96.9	160	5	0	1	480	30	189	2.50E-90	327.8	POSSIBLE COPPER TRANSPORT PROTEIN CTR2 (COPPER TRANSPORTER 2) - Saccharomyces cerevisiae (Baker's yeast).
+1730-snap_masked-BGQ_1-19910	gnl|TC-DB|P32319|9.A.63.1.1	95.7	139	6	0	1	417	756	894	7.20E-78	286.2	Vacuolar protein sorting/targeting protein VPS10 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PEP1 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P32465|2.A.1.1.108	90.8	153	14	0	1	459	327	479	3.80E-80	293.9	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P39004|2.A.1.1.31	81.7	153	28	0	1	459	327	479	5.50E-71	263.5	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P32467|2.A.1.1.30	76.5	153	36	0	1	459	333	485	6.30E-67	250	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P54862|2.A.1.1.105	69	155	46	1	1	459	323	477	3.60E-62	234.2	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P43581|2.A.1.1.5	69.9	153	46	0	1	459	311	463	1.40E-61	232.3	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P13181|2.A.1.1.6	67.3	153	50	0	1	459	333	485	4.40E-60	227.3	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P23585|2.A.1.1.111	68	153	49	0	1	459	318	470	5.70E-60	226.9	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P39924|2.A.1.1.110	64.5	152	54	0	4	459	321	472	3.10E-58	221.1	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|P54854|2.A.1.1.107	64.5	152	54	0	4	459	324	475	1.20E-57	219.2	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|Q2MDH1|2.A.1.1.67	60.3	156	59	1	1	459	306	461	5.70E-52	200.3	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|Q8J0U9|2.A.1.1.58	47.7	153	78	1	1	459	313	463	1.20E-36	149.4	Monosaccharide transporter - Aspergillus niger.
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|O74969|2.A.1.1.21	45.1	153	82	1	1	459	272	422	2.60E-36	148.3	High-affinity glucose transporter ght2 (Hexose transporter 2) - Schizosaccharomyces pombe (Fission yeast).
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|O74849|2.A.1.1.22	45.5	154	80	2	1	459	270	420	7.50E-36	146.7	High-affinity fructose transporter ght6 (Hexose transporter 6) - Schizosaccharomyces pombe (Fission yeast).
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|Q400D8|2.A.1.1.36	45.8	153	81	1	1	459	311	461	2.40E-34	141.7	Putative low affinity glucose transporter MstE - Emericella nidulans (Aspergillus nidulans).
+1731-snap_masked-ADQ_4-7102	gnl|TC-DB|Q8J0V1|2.A.1.1.57	45.5	154	75	2	1	459	293	438	1.00E-32	136.3	Monosaccharide transporter - Aspergillus niger.
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P13181|2.A.1.1.6	85.9	469	65	1	1	1404	1	469	6.30E-235	809.7	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P39004|2.A.1.1.31	74.4	449	110	3	67	1404	17	463	3.60E-198	687.6	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P32467|2.A.1.1.30	73.1	461	122	1	22	1404	11	469	8.00E-198	686.4	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P32465|2.A.1.1.108	72.1	409	114	0	178	1404	55	463	2.40E-178	621.7	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P23585|2.A.1.1.111	68.1	439	137	2	88	1404	19	454	2.10E-174	608.6	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P54862|2.A.1.1.105	66.4	452	148	3	58	1404	11	461	6.20E-174	607.1	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P43581|2.A.1.1.5	62.5	445	163	1	70	1404	7	447	1.20E-164	576.2	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P39924|2.A.1.1.110	58.8	442	178	2	82	1404	18	456	1.40E-149	526.2	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|P54854|2.A.1.1.107	56.6	461	195	3	25	1404	3	459	1.30E-147	519.6	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1735-snap_masked-BAQ_7-7673	gnl|TC-DB|Q2MDH1|2.A.1.1.67	54.6	447	198	2	73	1404	1	445	7.10E-146	513.8	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1738-snap_masked-BBM_6-7257	gnl|TC-DB|P13181|2.A.1.1.6	77.6	67	15	0	1	201	362	428	2.40E-24	107.5	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1738-snap_masked-BBM_6-7257	gnl|TC-DB|P39004|2.A.1.1.31	73.1	67	18	0	1	201	356	422	7.80E-23	102.4	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P13181|2.A.1.1.6	97.1	137	4	0	1	411	84	220	9.00E-73	269.2	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P39004|2.A.1.1.31	87.6	137	17	0	1	411	78	214	2.80E-66	247.7	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P32467|2.A.1.1.30	86.8	136	18	0	1	408	84	219	1.40E-65	245.4	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P32465|2.A.1.1.108	83.1	136	23	0	1	408	78	213	8.40E-63	236.1	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P23585|2.A.1.1.111	77.2	136	31	0	1	408	69	204	3.40E-56	214.2	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P54862|2.A.1.1.105	75	136	34	0	1	408	74	209	1.70E-55	211.8	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P43581|2.A.1.1.5	72.1	136	38	0	1	408	62	197	1.60E-53	205.3	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|Q2MDH1|2.A.1.1.67	60.3	136	54	0	1	408	57	192	6.00E-45	176.8	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P39924|2.A.1.1.110	58.5	135	55	1	7	408	72	206	1.20E-40	162.5	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P54854|2.A.1.1.107	56.3	135	58	1	7	408	75	209	1.00E-39	159.5	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1745-snap_masked-ASC_6-27073	gnl|TC-DB|P42833|2.A.1.1.109	45.1	144	71	2	1	408	73	216	7.20E-30	126.7	Hexose transporter HXT14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT14 PE=1 SV=2
+1746-snap_masked-CDD_2-5914	gnl|TC-DB|P40100|9.A.26.1.3	88.4	303	35	0	1	909	1	303	9.70E-144	506.1	Uncharacterized protein YER185W - Saccharomyces cerevisiae (Baker's yeast).
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P32465|2.A.1.1.108	94.8	155	8	0	1	465	144	298	2.00E-81	298.1	Low-affinity glucose transporter HXT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT1 PE=1 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P39004|2.A.1.1.31	83.9	155	25	0	1	465	144	298	6.10E-70	260	High-affinity hexose transporter HXT6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT7 PE=1 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P32467|2.A.1.1.30	83.9	155	25	0	1	465	150	304	8.00E-70	259.6	Low-affinity glucose transporter HXT4 (Low-affinity glucose transporter LGT1) - Saccharomyces cerevisiae (Baker's yeast).
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P13181|2.A.1.1.6	75.3	154	38	0	4	465	151	304	3.50E-65	244.2	Galactose transporter (Galactose permease) - Saccharomyces cerevisiae (Baker's yeast).
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P54862|2.A.1.1.105	73.5	155	41	0	1	465	140	294	1.20E-62	235.7	Hexose transporter HXT11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT11 PE=1 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P43581|2.A.1.1.5	71	155	45	0	1	465	128	282	2.80E-62	234.6	Hexose transporter HXT10 - Saccharomyces cerevisiae (Baker's yeast).
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P23585|2.A.1.1.111	72.9	155	42	0	1	465	135	289	5.80E-60	226.9	High-affinity glucose transporter HXT2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT2 PE=1 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|Q2MDH1|2.A.1.1.67	61.3	155	60	0	1	465	123	277	2.10E-54	208.4	Glucose/xylose facilitator 1 OS=Candida intermedia GN=gxf1 PE=3 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P39924|2.A.1.1.110	58.1	155	65	0	1	465	137	291	2.20E-51	198.4	Hexose transporter HXT13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT13 PE=1 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|P54854|2.A.1.1.107	56.1	155	68	0	1	465	140	294	4.10E-50	194.1	Hexose transporter HXT15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=HXT15 PE=1 SV=1
+1749-snap_masked-AQM_4-11146	gnl|TC-DB|O74849|2.A.1.1.22	45.3	150	80	1	22	465	94	243	3.80E-35	144.4	High-affinity fructose transporter ght6 (Hexose transporter 6) - Schizosaccharomyces pombe (Fission yeast).
+1751-snap_masked-BSL_4-12345	gnl|TC-DB|P00163|3.D.3.3.1	92.2	64	5	0	1	192	50	113	1.70E-29	124.4	Cytochrome B - Saccharomyces cerevisiae (Baker's yeast).
+1757-snap_masked-CQS_4-6420	gnl|TC-DB|P43548|2.A.3.10.14	81.1	270	50	1	49	855	20	289	1.30E-126	449.1	General amino acid permease AGP3 - Saccharomyces cerevisiae (Baker's yeast).
