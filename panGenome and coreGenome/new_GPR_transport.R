@@ -128,6 +128,10 @@ newTransporot <-outGPR(newsInPan$ec,newsInPan$panID,newsInPan$annotation)
 
 
 
+#part 2
+#new way to annote the gene based on TCDB database
+#in this way, we firstly mapping non-ORF in the panID onto the s288c genome based on orthology annotation and 
+#blast analysis results.
 
 
 
@@ -167,20 +171,32 @@ nonORF$gene <- getMultipleReactionFormula(uniprt_tcdb2$gene_name,uniprt_tcdb2$En
 nonORF$type <- getMultipleReactionFormula(panID_with_ortholog$type,panID_with_ortholog$panID,nonORF$panID)
 
 #level 0
+#these gene could mapping onto s288c directly based on ortholog relation
 nonORF_ortholog <- filter(nonORF, type=='Ortholog')
+panID_ortholog <- unique(nonORF_ortholog$panID) 
 
 
 #level 1
+#these gene could mapping onto s288c based on blast analysis
+#new question, based on cut-off: pidenty >= 45, bitscore >=100. One panID could be mapped onto several different
+#geneid from s288c, so how to choose the best hit??
 nonORF_with288 <- filter(nonORF, !is.na(nonORF$gene) | type =='Ortholog')
-nonORF_without288 <- filter(nonORF, is.na(nonORF$gene) & is.na(nonORF$type))
-nonORF_without288$ec <- str_trim(nonORF_without288$ec, side = "both")
+panID_with288 <- unique(nonORF_with288$panID)
+panID_map288 <- setdiff(panID_with288, panID_ortholog)
+index2 <- which(nonORF_with288$panID %in% panID_map288 ==TRUE)
+nonORF_map288 <- nonORF_with288[index2,]
+nonORF_map288$annotation <- getMultipleReactionFormula(ss2$Annotation,ss2$ec,nonORF_map288$ec)
 
 
 #level 2 compared with the ec id compared the new ORFs with all the other ORFs
+nonORF_without288 <- filter(nonORF, is.na(nonORF$gene) & is.na(nonORF$type))
+nonORF_without288$ec <- str_trim(nonORF_without288$ec, side = "both")
 nonORF_without288$source0 <- getMultipleReactionFormula(sce_tcdb$type,sce_tcdb$v1,nonORF_without288$ec)
 nonORF_without288$annotation <- getMultipleReactionFormula(ss2$Annotation,ss2$ec,nonORF_without288$ec)
 print(length(unique(nonORF_without288$panID)))
 
+#level 3 manual check the reaction. Some panID could connect with the old reactions while
+#other could connect with the new reactions.
 
 
 
