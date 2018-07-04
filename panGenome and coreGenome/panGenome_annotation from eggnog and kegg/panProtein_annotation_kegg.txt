@@ -1,0 +1,7796 @@
+1-EC1118_1F14_0012g
+2-EC1118_1F14_0023g
+3-EC1118_1F14_0034g
+4-EC1118_1F14_0045g
+5-EC1118_1F14_0056g	K01710
+6-EC1118_1F14_0078g
+7-EC1118_1F14_0089g	K01480
+8-EC1118_1F14_0100g	K03327
+9-EC1118_1F14_0111g
+10-EC1118_1F14_0133g
+11-EC1118_1F14_0144g
+12-EC1118_1F14_0155g	K00459
+13-EC1118_1N26_0012g	K01469
+14-EC1118_1N26_0023g
+15-EC1118_1N26_0034g
+16-EC1118_1N26_0045g
+17-EC1118_1N26_0056g
+18-EC1118_1O4_6480g
+19-EC1118_1O4_6491g
+20-EC1118_1O4_6502g_NumOfGenes_2
+21-EC1118_1O4_6524g	K04564
+22-EC1118_1O4_6535g
+23-EC1118_1O4_6546g	K00040
+24-EC1118_1O4_6557g
+25-EC1118_1O4_6568g
+26-EC1118_1O4_6579g
+27-EC1118_1O4_6612g	K17742
+28-EC1118_1O4_6623g	K00008
+29-EC1118_1O4_6634g
+30-EC1118_1O4_6645g
+31-EC1118_1O4_6656g
+32-augustus_masked-1-AMHPLA_TAIW
+33-augustus_masked-1-AMHPLA_TAIW
+34-augustus_masked-1-AMHPLA_TAIW
+35-augustus_masked-1-AMHPLA_TAIW
+36-augustus_masked-2-CGIPLA_MA
+37-augustus_masked-2-CGIPLA_MA
+38-augustus_masked-2-CGIPLA_MA
+39-augustus_masked-2-CGIPLA_MA
+40-augustus_masked-3-ALIPLA_SA
+41-augustus_masked-3-ALIPLA_SA
+42-augustus_masked-3-ALIPLA_SA
+43-snap_masked-3-ALIPLA_SA
+44-PUT_AA_TRASP-R.14848-
+45-PUT_IRON_TRASP-R.14849-
+46-PUT_LAC_TRASP-R.14850-
+47-RTM1-R.14851-
+48-MPR1-R.14847-
+49-MEL1-R.14846-	K07407
+50-BIO6-R.8578-	K00833
+58-augustus_masked-11091-BAF_6	K12160
+59-augustus_masked-1113-BMC_1
+60-augustus_masked-11172-CPM_4
+61-augustus_masked-11216-CPN_4
+62-augustus_masked-11537-CPG_1	K09184
+63-augustus_masked-11538-CPG_1
+64-augustus_masked-11538-CPG_1	K00382
+65-augustus_masked-11538-CPG_1	K00621
+66-augustus_masked-11538-CPG_1	K03686
+67-augustus_masked-11588-BAL_7
+68-augustus_masked-11590-BAL_7
+69-augustus_masked-11590-BAL_7
+70-augustus_masked-11626-ASB_2	K17437
+71-augustus_masked-11626-ASB_2	K16944
+72-augustus_masked-1166-YCM
+73-augustus_masked-1166-YCM	K05275
+74-augustus_masked-11951-BDM_5
+75-augustus_masked-11951-BDM_5	K03448
+76-augustus_masked-11960-BDM_5	K22211
+77-augustus_masked-11963-BDM_5
+78-augustus_masked-1197-YCM
+79-augustus_masked-11976-ANL_2
+80-augustus_masked-12142-CPK_4
+81-augustus_masked-1220-ANM_2	K03446
+82-augustus_masked-12212-ALI_5	K06654
+83-augustus_masked-12212-ALI_5	K14709
+84-augustus_masked-12212-ALI_5	K06911
+85-augustus_masked-12217-ALI_5
+86-augustus_masked-1224-ANM_2
+87-augustus_masked-125-YCE	K07034
+88-augustus_masked-125-YCE	K01426
+89-augustus_masked-125-YCE
+90-augustus_masked-1265-AHB_2	K01182
+91-augustus_masked-1266-AHB_2
+92-augustus_masked-1266-AHB_2	K16938
+93-augustus_masked-1266-AHB_2	K01647
+94-augustus_masked-1285-AHB_2
+95-augustus_masked-1364-CFF_4
+96-augustus_masked-1372-CFF_4
+97-augustus_masked-1375-CFF_4
+98-augustus_masked-1375-CFF_4
+99-augustus_masked-1375-CFF_4
+100-augustus_masked-1375-CFF_4	K01193
+101-augustus_masked-1375-CFF_4	K17989
+102-augustus_masked-1433-AAT_3
+103-augustus_masked-1449-AAT_3
+104-augustus_masked-1452-AAT_3	K01689
+105-augustus_masked-1454-AAT_3
+106-augustus_masked-1568-CBK_4
+107-augustus_masked-1645-AQT_4
+108-augustus_masked-1649-AIE_1	K01637
+109-augustus_masked-1649-AIE_1
+110-augustus_masked-1649-AIE_1	K06117
+111-augustus_masked-1649-AIE_1	K09458
+112-augustus_masked-1649-AIE_1
+113-augustus_masked-1649-AIE_1	K18732
+114-augustus_masked-1654-AIE_1
+115-augustus_masked-1654-AIE_1	K01698
+116-augustus_masked-1659-AIE_1	K21618
+117-augustus_masked-1659-AIE_1
+118-augustus_masked-1661-AIE_1	K09680
+119-augustus_masked-1663-AIE_1
+120-augustus_masked-1671-AIE_1
+121-augustus_masked-1683-AIE_1
+122-augustus_masked-1684-AIE_1
+123-augustus_masked-1685-AIE_1
+124-augustus_masked-1688-AIE_1
+125-augustus_masked-1689-AIE_1	K01184
+126-augustus_masked-1689-AIE_1
+127-augustus_masked-1689-AIE_1
+128-augustus_masked-1697-AIE_1
+129-augustus_masked-1697-AIE_1	K11232
+130-augustus_masked-1697-AIE_1	K01487
+131-augustus_masked-1697-AIE_1
+132-augustus_masked-1697-AIE_1
+133-augustus_masked-1698-AIE_1
+134-augustus_masked-1700-AIE_1
+135-augustus_masked-1700-AIE_1	K18158
+136-augustus_masked-1700-AIE_1
+137-augustus_masked-1700-AIE_1
+138-augustus_masked-1700-AIE_1
+139-augustus_masked-1700-AIE_1
+140-augustus_masked-1700-AIE_1
+141-augustus_masked-1706-AIE_1
+142-augustus_masked-1731-ATP_4
+143-augustus_masked-175-YCE
+144-augustus_masked-182-ABQ_6	K19272
+145-augustus_masked-1903-CLC_4
+146-augustus_masked-1981-YCU
+147-augustus_masked-1985-AID_2
+148-augustus_masked-1999-AID_2
+149-augustus_masked-2075-ARN_6
+150-augustus_masked-2075-ARN_6	K00863
+151-augustus_masked-2075-ARN_6	K10080
+152-augustus_masked-2075-ARN_6
+153-augustus_masked-2075-ARN_6
+154-augustus_masked-2075-ARN_6	K11776
+155-augustus_masked-2075-ARN_6
+156-augustus_masked-2151-BRV_4
+157-augustus_masked-2154-BRV_4
+158-augustus_masked-2154-BRV_4
+159-augustus_masked-2209-ABD_5
+160-augustus_masked-223-BFM_3
+161-augustus_masked-2311-AKE_3
+162-augustus_masked-2356-ARB_2
+163-augustus_masked-2357-ARB_2
+164-augustus_masked-2357-ARB_2	K00090
+165-augustus_masked-2358-ARB_2	K14454
+166-augustus_masked-2358-ARB_2	K16261
+167-augustus_masked-237-BFM_3
+168-augustus_masked-2370-ARB_2
+169-augustus_masked-2392-BTV_5
+170-augustus_masked-2392-BTV_5	K01760
+171-augustus_masked-244-BFM_3
+172-augustus_masked-253-BFM_3
+173-augustus_masked-2546-BAD_8
+174-augustus_masked-2591-YAA
+175-augustus_masked-2782-CPI_4
+176-augustus_masked-2799-CPI_4	K20456
+177-augustus_masked-2802-CPI_4
+178-augustus_masked-2804-CPI_4	K13939
+179-augustus_masked-2806-CPI_4	K00826
+180-augustus_masked-2809-CPI_4
+181-augustus_masked-2810-CPI_4
+182-augustus_masked-2811-CPI_4
+183-augustus_masked-2811-CPI_4
+184-augustus_masked-2814-CPI_4
+185-augustus_masked-2814-CPI_4	K19788
+186-augustus_masked-2814-CPI_4	K18342
+187-augustus_masked-2814-CPI_4	K00948
+188-augustus_masked-2814-CPI_4	K10632
+189-augustus_masked-2814-CPI_4	K09043
+190-augustus_masked-2843-CPI_4
+191-augustus_masked-2848-CPI_4
+192-augustus_masked-2854-CPI_4
+193-augustus_masked-2860-CPI_4	K14708
+194-augustus_masked-2860-CPI_4
+195-augustus_masked-2861-CPI_4
+196-augustus_masked-2861-CPI_4
+197-augustus_masked-2861-CPI_4
+198-augustus_masked-2861-CPI_4
+199-augustus_masked-2861-CPI_4	K02867
+200-augustus_masked-2861-CPI_4
+201-augustus_masked-2861-CPI_4	K00698
+202-augustus_masked-2866-CPI_4	K00354
+203-augustus_masked-2870-CLM_4
+204-augustus_masked-2970-AEE_3
+205-augustus_masked-3001-BGP_1	K16073
+206-augustus_masked-3085-AHL_3	K05293
+207-augustus_masked-3085-AHL_3
+208-augustus_masked-3088-AHL_3
+209-augustus_masked-310-ALB_3
+210-augustus_masked-3103-AHL_3
+211-augustus_masked-3105-AHL_3
+212-augustus_masked-3105-AHL_3
+213-augustus_masked-314-ALB_3
+214-augustus_masked-3210-CEH_4
+215-augustus_masked-3286-BHG_2
+216-augustus_masked-3344-CLG_4
+217-augustus_masked-339-ALB_3
+218-augustus_masked-339-ALB_3	K04567
+219-augustus_masked-340-ALB_3
+220-augustus_masked-345-ALB_3
+221-augustus_masked-3523-CFG_4
+222-augustus_masked-36-ARV_6
+223-augustus_masked-3612-CNG_4
+224-augustus_masked-365-YDJ
+225-augustus_masked-3859-CMG_6	K00633
+226-augustus_masked-3859-CMG_6
+227-augustus_masked-3919-CCQ_1	K22369
+228-augustus_masked-4176-BEK_7
+229-augustus_masked-4305-BND_3
+230-augustus_masked-4431-BFP_3
+231-augustus_masked-4576-BGM_1	K18752
+232-augustus_masked-4658-BEB_6_C37T3ACXX.IND41b
+233-augustus_masked-4747-CNV_4
+234-augustus_masked-4747-CNV_4
+235-augustus_masked-4747-CNV_4
+236-augustus_masked-4748-CNV_4
+237-augustus_masked-4776-BCQ_8	K00633
+238-augustus_masked-4776-BCQ_8
+239-augustus_masked-479-AFG_4
+240-augustus_masked-4803-CPS_4
+241-augustus_masked-4866-BCP_8
+242-augustus_masked-4866-BCP_8
+243-augustus_masked-4867-BCP_8
+244-augustus_masked-4896-BLT_2
+245-augustus_masked-4896-BLT_2
+246-augustus_masked-4896-BLT_2	K01469
+247-augustus_masked-4896-BLT_2	K00015
+248-augustus_masked-4896-BLT_2
+249-augustus_masked-4896-BLT_2
+250-augustus_masked-4896-BLT_2	K14454
+251-augustus_masked-515-ADN_4
+252-augustus_masked-516-ADN_4
+253-augustus_masked-5248-CIL_2	K17971
+254-augustus_masked-5425-CDT_2	K16261
+255-augustus_masked-5427-CDT_2	K11367
+256-augustus_masked-5427-CDT_2	K15193
+257-augustus_masked-5427-CDT_2	K07232
+258-augustus_masked-5430-CDT_2
+259-augustus_masked-5430-CDT_2	K12488
+260-augustus_masked-5430-CDT_2
+261-augustus_masked-5430-CDT_2
+262-augustus_masked-5430-CDT_2	K09569
+263-augustus_masked-5432-CDT_2
+264-augustus_masked-5482-AQA_4	K01817
+265-augustus_masked-5486-AQA_4
+266-augustus_masked-5486-AQA_4
+267-augustus_masked-5487-AQA_4
+268-augustus_masked-5488-AQA_4	K10958
+269-augustus_masked-5488-AQA_4	K15306
+270-augustus_masked-5489-AQA_4
+271-augustus_masked-5495-AQA_4	K00062
+272-augustus_masked-5495-AQA_4	K04569
+273-augustus_masked-5495-AQA_4	K02555
+274-augustus_masked-5497-AQA_4
+275-augustus_masked-55-ARV_6
+276-augustus_masked-5742-AVQ_5
+277-augustus_masked-579-ASC_6
+278-augustus_masked-614-ASC_6
+279-augustus_masked-6368-YDG
+280-augustus_masked-6407-CDN_4
+281-augustus_masked-6423-BAK_7
+282-augustus_masked-647-BBP_3
+283-augustus_masked-6503-ADE_2
+284-augustus_masked-6510-ADE_2
+285-augustus_masked-6649-CPA_4
+286-augustus_masked-6649-CPA_4
+287-augustus_masked-6649-CPA_4
+288-augustus_masked-6650-CPA_4	K03441
+289-augustus_masked-6667-CPA_4
+290-augustus_masked-6668-CPA_4
+291-augustus_masked-6738-ATQ_7
+292-augustus_masked-6738-ATQ_7
+293-augustus_masked-6738-ATQ_7	K01238
+294-augustus_masked-6739-ATQ_7
+295-augustus_masked-68-ARV_6
+296-augustus_masked-6810-YDO
+297-augustus_masked-7012-CFC_2	K14845
+298-augustus_masked-7012-CFC_2	K01251
+299-augustus_masked-7012-CFC_2
+300-augustus_masked-7012-CFC_2	K07304
+301-augustus_masked-7012-CFC_2	K19985
+302-augustus_masked-7012-CFC_2	K15428
+303-augustus_masked-7012-CFC_2	K11788
+304-augustus_masked-7012-CFC_2	K03357
+305-augustus_masked-7012-CFC_2	K00767
+306-augustus_masked-7012-CFC_2	K20224
+307-augustus_masked-7012-CFC_2	K15178
+308-augustus_masked-7012-CFC_2
+309-augustus_masked-7012-CFC_2	K06867
+310-augustus_masked-705-YCN
+311-augustus_masked-712-YCN
+312-augustus_masked-740-YCN
+313-augustus_masked-752-BKQ_2
+314-augustus_masked-758-BKQ_2	K08158
+315-augustus_masked-7597-CPQ_4
+316-augustus_masked-7604-CPQ_4	K11239
+317-augustus_masked-7604-CPQ_4
+318-augustus_masked-7605-CPQ_4	K16261
+319-augustus_masked-7606-CPQ_4
+320-augustus_masked-7607-CPQ_4	K03037
+321-augustus_masked-7608-CPQ_4
+322-augustus_masked-7610-CPQ_4
+323-augustus_masked-7610-CPQ_4	K20305
+324-augustus_masked-7614-CPQ_4
+325-augustus_masked-7614-CPQ_4
+326-augustus_masked-7614-CPQ_4	K11839
+327-augustus_masked-7614-CPQ_4	K18046
+328-augustus_masked-7614-CPQ_4	K10957
+329-augustus_masked-7614-CPQ_4	K15423
+330-augustus_masked-7614-CPQ_4	K16055
+331-augustus_masked-7614-CPQ_4
+332-augustus_masked-7614-CPQ_4
+333-augustus_masked-7614-CPQ_4	K14832
+334-augustus_masked-7615-CPQ_4
+335-augustus_masked-7617-CPQ_4	K20184
+336-augustus_masked-7617-CPQ_4
+337-augustus_masked-7617-CPQ_4
+338-augustus_masked-7617-CPQ_4
+339-augustus_masked-7617-CPQ_4	K14849
+340-augustus_masked-7617-CPQ_4
+341-augustus_masked-7617-CPQ_4	K06174
+342-augustus_masked-770-BSG_4
+343-augustus_masked-772-BSG_4
+344-augustus_masked-774-BSG_4
+345-augustus_masked-774-BSG_4	K00002
+346-augustus_masked-779-BSG_4	K01426
+347-augustus_masked-779-BSG_4
+348-augustus_masked-779-BSG_4	K07034
+349-augustus_masked-779-BSG_4
+350-augustus_masked-779-BSG_4
+351-augustus_masked-7810-APQ_4
+352-augustus_masked-7951-AMM_4
+353-augustus_masked-7951-AMM_4
+354-augustus_masked-7951-AMM_4
+355-augustus_masked-7976-AMM_4
+356-augustus_masked-815-CAS_1_AC1LP.IND6
+357-augustus_masked-824-YDL
+358-augustus_masked-8488-AQD_4
+359-augustus_masked-8489-AQD_4	K08139
+360-augustus_masked-858-BGT_2
+361-augustus_masked-863-BGT_2
+362-augustus_masked-868-BGT_2
+363-augustus_masked-877-BGT_2	K01784
+364-augustus_masked-877-BGT_2	K00965
+365-augustus_masked-8812-CQS_4
+366-augustus_masked-8812-CQS_4	K11493
+367-augustus_masked-8846-CQS_4
+368-augustus_masked-8846-CQS_4
+369-augustus_masked-8850-CQS_4
+370-augustus_masked-8850-CQS_4	K00633
+371-augustus_masked-8850-CQS_4
+372-augustus_masked-8851-CQS_4
+373-augustus_masked-893-BGT_2
+374-augustus_masked-9019-CEI_2
+375-augustus_masked-9019-CEI_2	K22746
+376-augustus_masked-9019-CEI_2	K17806
+377-augustus_masked-9019-CEI_2	K00589
+378-augustus_masked-9019-CEI_2	K13507
+379-augustus_masked-905-BDN_5
+380-augustus_masked-932-BDN_5
+381-augustus_masked-9671-CGD_5
+382-augustus_masked-969-AFD_4
+383-augustus_masked-969-AFD_4
+384-augustus_masked-986-AFD_4
+385-augustus_masked-9880-CPR_4
+386-augustus_masked-9884-CPR_4
+387-augustus_masked-9885-CPR_4	K00223
+388-augustus_masked-9889-CPR_4	K01889
+389-augustus_masked-9889-CPR_4
+390-augustus_masked-9892-CPR_4	K01537
+391-augustus_masked-9892-CPR_4	K11324
+392-augustus_masked-9892-CPR_4	K03869
+393-augustus_masked-9892-CPR_4	K12817
+394-augustus_masked-9892-CPR_4	K00967
+395-augustus_masked-9892-CPR_4	K06210
+396-augustus_masked-9894-CPR_4
+397-augustus_masked-9894-CPR_4	K09885
+398-augustus_masked-990-AFD_4	K03186
+399-augustus_masked-990-AFD_4	K20039
+400-augustus_masked-990-AFD_4
+401-augustus_masked-9901-CPR_4
+402-augustus_masked-9901-CPR_4	K09467
+403-augustus_masked-9901-CPR_4	K14822
+404-augustus_masked-9902-CPR_4
+405-augustus_masked-9902-CPR_4
+406-augustus_masked-9902-CPR_4
+407-augustus_masked-9902-CPR_4	K17759
+408-augustus_masked-9905-CPR_4	K08342
+409-augustus_masked-9905-CPR_4
+410-augustus_masked-9906-CPR_4	K02151
+411-augustus_masked-9907-CPR_4
+412-augustus_masked-9907-CPR_4	K10761
+413-augustus_masked-9908-CPR_4
+414-augustus_masked-9908-CPR_4
+415-augustus_masked-9908-CPR_4
+416-augustus_masked-9908-CPR_4	K07252
+417-augustus_masked-9909-CPR_4	K14016
+418-augustus_masked-9909-CPR_4
+419-augustus_masked-9909-CPR_4	K08286
+420-augustus_masked-9909-CPR_4	K15026
+421-augustus_masked-9909-CPR_4
+426-maker-115-YCE
+431-maker-11536-CPG_1
+432-maker-11651-CDK_4
+433-maker-1190-YCM
+434-maker-11951-BDM_5
+435-maker-11951-BDM_5
+436-maker-11951-BDM_5
+437-maker-11975-ANL_2
+439-maker-12183-BTG_3
+440-maker-12217-ALI_5
+441-maker-12217-ALI_5
+442-maker-12305-CGP_5
+443-maker-1251-ANM_2
+444-maker-1328-AER_4
+445-maker-1361-CFF_4
+446-maker-1364-CFF_4
+447-maker-137-YCE
+448-maker-1388-APK_4
+449-maker-1538-CHI_4
+450-maker-1646-AQT_4
+451-maker-1652-AIE_1
+452-maker-1692-AIE_1
+453-maker-1698-AIE_1
+454-maker-1706-AIE_1
+455-maker-1744-ATP_4
+456-maker-1897-CLC_4
+457-maker-208-BFM_3
+458-maker-2144-BRV_4
+459-maker-2148-BRV_4
+460-maker-2154-BRV_4
+461-maker-2154-BRV_4
+462-maker-2208-ABD_5
+463-maker-2208-ABD_5
+464-maker-2210-ABD_5
+465-maker-2357-ARB_2
+466-maker-2357-ARB_2
+467-maker-2381-BTV_5
+468-maker-2392-BTV_5
+469-maker-2392-BTV_5
+470-maker-253-BFM_3
+471-maker-266-BFM_3
+472-maker-2796-CPI_4	K22399
+473-maker-2803-CPI_4
+474-maker-2815-CPI_4
+475-maker-2817-CPI_4
+476-maker-2831-CPI_4
+477-maker-2859-CPI_4
+478-maker-2861-CPI_4
+479-maker-2861-CPI_4
+480-maker-2872-CLM_4
+481-maker-2926-CDB_2
+482-maker-2990-BGP_1	K02957
+483-maker-2999-BGP_1
+484-maker-3105-AHL_3
+485-maker-3212-CEH_4
+486-maker-3217-CEH_4
+487-maker-3418-ADG_4
+488-maker-3439-YAX
+489-maker-348-ALB_3
+490-maker-348-ALB_3
+491-maker-348-ALB_3
+492-maker-348-ALB_3
+493-maker-368-YDJ
+494-maker-370-YDJ
+495-maker-3715-BPA_4
+496-maker-378-YDJ
+497-maker-3860-CMG_6
+498-maker-3872-BTB_3
+499-maker-3927-CCQ_1
+500-maker-4265-BCN_8
+501-maker-4362-AMP_5
+502-maker-44-ARV_6
+503-maker-4866-BCP_8
+504-maker-4896-BLT_2
+505-maker-5061-CCS_1
+506-maker-5092-CGI_4
+507-maker-520-ADN_4
+508-maker-5276-BPV_4
+509-maker-5314-AAQ_3
+510-maker-5430-CDT_2	K12771
+511-maker-5486-AQA_4	K11768
+512-maker-5547-BBE_6
+513-maker-5943-ACI_7
+514-maker-5995-BBR_3
+515-maker-6239-GAT
+516-maker-6413-CDN_4
+517-maker-6533-ADE_2
+518-maker-6650-CPA_4
+519-maker-6662-CPA_4
+520-maker-6686-CAD_4
+521-maker-677-YCN
+522-maker-7605-CPQ_4	K19476
+523-maker-7978-AMM_4
+524-maker-813-CAS_1_AC1LP.IND6
+525-maker-8310-CCT_2
+526-maker-837-YDL
+527-maker-8487-AQD_4
+528-maker-861-BGT_2
+529-maker-8850-CQS_4
+530-maker-8850-CQS_4
+531-maker-904-BDN_5
+532-maker-934-BDN_5
+533-maker-947-AFD_4
+534-maker-963-AFD_4
+535-maker-969-AFD_4
+536-maker-970-AFD_4
+537-maker-9712-ASM_8
+538-maker-988-AFD_4
+539-maker-9892-CPR_4
+540-maker-9894-CPR_4
+541-maker-9901-CPR_4
+542-maker-9908-CPR_4	K17783
+543-maker-9909-CPR_4
+544-maker-9974-YCF
+558-snap_masked-10193-AMH_5
+559-snap_masked-10743-CDF_1
+560-snap_masked-10934-AEN_3
+561-snap_masked-11086-BAF_6	K22399
+562-snap_masked-1121-BNL_4
+563-snap_masked-11216-CPN_4	K06664
+564-snap_masked-11538-CPG_1	K11099
+565-snap_masked-11590-BAL_7
+566-snap_masked-11626-ASB_2
+567-snap_masked-1163-YCM
+568-snap_masked-11855-BEF_7
+569-snap_masked-11951-BDM_5
+570-snap_masked-1208-YCM
+571-snap_masked-12121-AFL_5
+572-snap_masked-12142-CPK_4
+573-snap_masked-1220-ANM_2
+574-snap_masked-12218-ALI_5
+575-snap_masked-125-YCE
+576-snap_masked-136-YCE
+577-snap_masked-1450-AAT_3
+578-snap_masked-1455-AAT_3
+579-snap_masked-1627-CLR_4
+580-snap_masked-1649-AIE_1
+581-snap_masked-1653-AIE_1
+582-snap_masked-1665-AIE_1
+583-snap_masked-1698-AIE_1
+584-snap_masked-1700-AIE_1
+585-snap_masked-1700-AIE_1
+586-snap_masked-1768-ATP_4
+587-snap_masked-1768-ATP_4
+588-snap_masked-1963-YCU
+589-snap_masked-1989-AID_2
+590-snap_masked-207-BFM_3
+591-snap_masked-217-BFM_3
+592-snap_masked-2208-ABD_5
+593-snap_masked-2218-BDE_8
+594-snap_masked-2218-BDE_8
+595-snap_masked-2218-BDE_8
+596-snap_masked-2357-ARB_2
+597-snap_masked-2392-BTV_5
+598-snap_masked-277-BFM_3
+599-snap_masked-2798-CPI_4
+600-snap_masked-280-BFM_3
+601-snap_masked-2806-CPI_4
+602-snap_masked-2816-CPI_4
+603-snap_masked-2823-CPI_4
+604-snap_masked-2838-CPI_4
+605-snap_masked-2844-CPI_4
+606-snap_masked-2851-CPI_4
+607-snap_masked-2959-AEE_3
+608-snap_masked-2960-AEE_3
+609-snap_masked-297-ALB_3
+610-snap_masked-2999-BGP_1
+611-snap_masked-3001-BGP_1
+612-snap_masked-3053-YCS
+613-snap_masked-3084-AHL_3
+614-snap_masked-3088-AHL_3
+615-snap_masked-3161-AGR_2
+616-snap_masked-3224-CEH_4
+617-snap_masked-3299-BHG_2
+618-snap_masked-3423-YAX
+619-snap_masked-348-ALB_3
+620-snap_masked-349-ALB_3
+621-snap_masked-3624-CNG_4
+622-snap_masked-3685-BTA_5
+623-snap_masked-3817-CBB_4
+624-snap_masked-3893-ATH_3
+625-snap_masked-3893-ATH_3	K07250
+626-snap_masked-3911-CCQ_1
+627-snap_masked-4168-BEK_7
+628-snap_masked-4220-BCN_8
+629-snap_masked-4255-BCN_8
+630-snap_masked-4255-BCN_8
+631-snap_masked-4255-BCN_8
+632-snap_masked-4255-BCN_8
+633-snap_masked-4265-BCN_8
+634-snap_masked-429-CHR_4
+635-snap_masked-4313-BND_3
+636-snap_masked-4463-APH_4
+637-snap_masked-4547-CCV_1
+638-snap_masked-477-AFG_4
+639-snap_masked-4776-BCQ_8
+640-snap_masked-4777-BCQ_8
+641-snap_masked-4866-BCP_8
+642-snap_masked-4866-BCP_8
+643-snap_masked-4876-BCP_8
+644-snap_masked-4896-BLT_2
+645-snap_masked-4896-BLT_2
+646-snap_masked-4896-BLT_2
+647-snap_masked-5060-CCS_1
+648-snap_masked-5063-CCS_1
+649-snap_masked-5079-CKG_4
+650-snap_masked-516-ADN_4
+651-snap_masked-5418-YCY
+652-snap_masked-5425-CDT_2
+653-snap_masked-548-ADN_4
+654-snap_masked-5487-AQA_4
+655-snap_masked-5495-AQA_4	K09648
+656-snap_masked-5627-CKN_4
+657-snap_masked-5766-AVQ_5
+658-snap_masked-6122-CDL_3
+659-snap_masked-630-CHM_4
+660-snap_masked-6350-BAN_7
+661-snap_masked-6415-CDN_4
+662-snap_masked-643-BBP_3
+663-snap_masked-6649-CPA_4
+664-snap_masked-6650-CPA_4
+665-snap_masked-6650-CPA_4
+666-snap_masked-6650-CPA_4
+667-snap_masked-6650-CPA_4
+668-snap_masked-6875-YCR
+669-snap_masked-6882-YCR
+670-snap_masked-6915-AFK_5
+671-snap_masked-7012-CFC_2	K21849
+672-snap_masked-7012-CFC_2	K15271
+674-snap_masked-7473-CCL_1
+675-snap_masked-749-BKQ_2
+676-snap_masked-7558-ACQ_8
+677-snap_masked-7593-CPQ_4
+678-snap_masked-7599-CPQ_4
+679-snap_masked-7614-CPQ_4	K11774
+680-snap_masked-7627-AVS_5
+681-snap_masked-779-BSG_4
+682-snap_masked-779-BSG_4
+683-snap_masked-829-YDL
+684-snap_masked-859-BGT_2
+685-snap_masked-8851-CQS_4
+686-snap_masked-8883-BQB_4
+687-snap_masked-9062-CEI_2
+688-snap_masked-9264-AVR_6
+689-snap_masked-9462-CCR_1
+690-snap_masked-963-AFD_4
+691-snap_masked-9702-ASM_8
+692-snap_masked-971-AFD_4
+693-snap_masked-9884-CPR_4
+694-snap_masked-9885-CPR_4
+695-snap_masked-9891-CPR_4
+696-snap_masked-9892-CPR_4	K03364
+697-snap_masked-9894-CPR_4
+698-snap_masked-9901-CPR_4
+699-snap_masked-9902-CPR_4	K13237
+700-snap_masked-9906-CPR_4
+701-snap_masked-9909-CPR_4
+702-snap_masked-991-AFD_4
+703-augustus_masked-CFC_2-43056	K18551
+704-augustus_masked-CFC_2-43056
+705-augustus_masked-CFC_2-43056	K11369
+706-augustus_masked-CFC_2-43056	K03031
+707-augustus_masked-CFC_2-43056	K09184
+708-augustus_masked-CFC_2-43056	K15356
+709-augustus_masked-CFC_2-43056
+710-augustus_masked-CFC_2-43056	K06963
+711-augustus_masked-CFC_2-43056	K15339
+712-augustus_masked-CFC_2-43056	K18423
+713-augustus_masked-CFC_2-43056	K15440
+714-augustus_masked-CFC_2-43056	K01885
+715-augustus_masked-CFC_2-43056
+716-augustus_masked-CFC_2-43056	K01120
+717-augustus_masked-CFC_2-43056	K02736
+718-augustus_masked-CFC_2-43056	K20471
+719-augustus_masked-CFC_2-43056	K00844
+720-augustus_masked-CFC_2-43056
+721-augustus_masked-CFC_2-43056
+722-augustus_masked-CFC_2-43056
+723-augustus_masked-CFC_2-43056
+724-augustus_masked-CFC_2-43056	K03495
+725-augustus_masked-CPQ_4-15294	K06630
+726-augustus_masked-CPQ_4-15294	K08737
+727-augustus_masked-CPQ_4-15294
+728-augustus_masked-CPK_4-16846
+729-augustus_masked-ACD_7-5647	K21989
+730-augustus_masked-CPN_4-15569
+731-augustus_masked-CPI_4-15898	K15728
+732-augustus_masked-CPI_4-15898
+733-augustus_masked-CPK_4-16846	K09493
+734-augustus_masked-AIE_1-5050
+735-augustus_masked-AIE_1-5050	K01887
+736-augustus_masked-AIE_1-5050	K14566
+737-augustus_masked-AIE_1-5050	K03327
+738-augustus_masked-AIE_1-5050	K02956
+739-augustus_masked-AIE_1-5050
+740-augustus_masked-AIE_1-5050	K14289
+741-augustus_masked-CCH_4-6757	K16261
+742-augustus_masked-YBR-7232
+743-augustus_masked-AQA_4-7171	K11547
+744-augustus_masked-CPR_4-17586
+745-augustus_masked-YBR-7232	K00262
+746-augustus_masked-YBR-7232
+747-augustus_masked-CQS_4-6447	K00693
+748-augustus_masked-CDN_4-6227
+749-augustus_masked-YDM-5142	K12388
+750-augustus_masked-YDM-5142
+751-augustus_masked-BMB_1-4633
+752-augustus_masked-BKC_1-8603
+753-augustus_masked-ABL_5-4898
+754-augustus_masked-AHM_1-7103
+755-augustus_masked-AHM_1-7103	K08139
+756-augustus_masked-AHM_1-7103	K08139
+757-augustus_masked-AHM_1-7103	K14007
+758-augustus_masked-CPN_4-15699
+759-augustus_masked-CPN_4-15699	K01694
+760-augustus_masked-CPN_4-15699
+761-augustus_masked-CPN_4-15699	K16315
+762-augustus_masked-CPN_4-15699	K07151
+763-augustus_masked-CDT_2-5331	K11662
+764-augustus_masked-CDT_2-5331
+765-augustus_masked-CDT_2-5331	K17086
+766-augustus_masked-CDT_2-5331
+767-augustus_masked-CDT_2-5331	K10080
+768-augustus_masked-CAR_3-5886
+769-augustus_masked-BVF_5-14262
+770-augustus_masked-AKG_3-6639
+771-augustus_masked-AKG_3-6639
+772-augustus_masked-AHA_2-9651
+773-augustus_masked-CPB_4_C4VAEACXX.IND41b-15669
+774-augustus_masked-ANS_2-7107
+775-augustus_masked-CEM_2-7330
+776-augustus_masked-CIH_2-20570
+778-augustus_masked-CPQ_4-15250	K01046
+779-augustus_masked-CPQ_4-15250
+780-augustus_masked-CPQ_4-15250	K00654
+781-augustus_masked-BBM_6-7237
+782-augustus_masked-BBM_6-7237
+783-augustus_masked-BBM_6-7237
+784-augustus_masked-CPM_4-14712	K03327
+785-augustus_masked-CDT_2-5309	K00045
+786-augustus_masked-AQA_4-7230	K00693
+787-augustus_masked-YCM-7981
+788-augustus_masked-YCM-7981
+789-augustus_masked-CPM_4-14662	K10878
+790-augustus_masked-AMH_5-6637
+791-augustus_masked-AMH_5-6637
+792-augustus_masked-AVB_8-8054	K08956
+793-augustus_masked-CPI_4-15676	K04409
+794-augustus_masked-CPA_4-16604
+795-augustus_masked-YAE-4456
+796-augustus_masked-YAE-4456	K02309
+797-augustus_masked-YAE-4456	K02207
+798-augustus_masked-ALI_5-14966
+799-augustus_masked-AQD_4-6774	K00128
+800-augustus_masked-BAL_7-7460	K01934
+801-augustus_masked-BAL_7-7460
+802-augustus_masked-CPA_4-16362	K22696
+803-augustus_masked-ATQ_7-5187
+804-augustus_masked-ATQ_7-5187	K12614
+805-augustus_masked-ATQ_7-5187	K10747
+806-augustus_masked-ATQ_7-5187	K18532
+807-augustus_masked-ATQ_7-5187
+808-augustus_masked-ATQ_7-5187	K12471
+809-augustus_masked-ATQ_7-5187	K12605
+810-augustus_masked-CQS_4-6444
+811-augustus_masked-BTV_5-19680
+812-augustus_masked-ABM_5-4619	K09074
+813-augustus_masked-ABM_5-4619
+814-augustus_masked-ABM_5-4619	K02999
+815-augustus_masked-CPR_4-17880	K07179
+816-augustus_masked-CPR_4-17880	K17491
+817-augustus_masked-CPR_4-17880	K21671
+818-augustus_masked-CPR_4-17880
+819-augustus_masked-CPR_4-17880	K14829
+820-augustus_masked-CPR_4-17880	K07975
+821-augustus_masked-CPR_4-17880
+822-augustus_masked-CPR_4-17880	K18802
+823-augustus_masked-CPR_4-17880
+824-augustus_masked-CPR_4-17880	K11873
+825-augustus_masked-YCL-7822
+826-augustus_masked-YCL-7822	K11361
+827-augustus_masked-YCL-7822	K10734
+828-augustus_masked-YCL-7822	K12612
+829-augustus_masked-YCL-7822	K17741
+830-augustus_masked-BBM_6-7257
+831-augustus_masked-BBM_6-7257
+832-augustus_masked-BBM_6-7257
+833-augustus_masked-CCH_4-6793
+834-augustus_masked-CPL_4-15597	K03254
+835-augustus_masked-CPL_4-15597
+836-augustus_masked-YCH-6499
+837-augustus_masked-AMA_5-10173
+839-augustus_masked-BDM_5-23191
+840-augustus_masked-CPM_4-14459
+841-augustus_masked-BBM_6-7255
+842-augustus_masked-BBM_6-7255	K14679
+843-augustus_masked-BBM_6-7255	K03507
+844-augustus_masked-BBM_6-7255	K07195
+845-augustus_masked-BBM_6-7255	K00611
+846-augustus_masked-BBM_6-7255
+847-augustus_masked-YCI-6005
+848-augustus_masked-CCQ_1-5470
+849-augustus_masked-CCQ_1-5470
+850-augustus_masked-YDE-5670
+851-augustus_masked-CGD_5-5430	K03145
+852-augustus_masked-CGD_5-5430
+853-augustus_masked-CGD_5-5430
+854-augustus_masked-CGD_5-5430	K05528
+855-augustus_masked-CGD_5-5430	K01440
+856-augustus_masked-CPA_4-16966
+857-augustus_masked-BBG_6-26461
+858-augustus_masked-CPN_4-15612
+859-augustus_masked-CPN_4-15612
+860-augustus_masked-CPN_4-15612	K00275
+861-augustus_masked-CPN_4-15612
+862-augustus_masked-CPN_4-15612
+863-augustus_masked-CPN_4-15612	K11887
+864-augustus_masked-CPN_4-15612	K07748
+865-augustus_masked-CPN_4-15612	K03139
+866-augustus_masked-CPN_4-15612
+867-augustus_masked-CPN_4-15612	K19950
+868-augustus_masked-CPN_4-15612
+869-augustus_masked-CPN_4-15612
+870-augustus_masked-CPN_4-15612	K01738
+871-augustus_masked-CPN_4-15612	K19849
+872-augustus_masked-CGE_5-5752
+873-augustus_masked-YCC-11519
+874-augustus_masked-YCC-11519	K01078
+875-augustus_masked-YCC-11519
+876-augustus_masked-YCC-11519	K00833
+877-augustus_masked-YCC-11519	K03325
+878-augustus_masked-AVB_8-7811	K19799
+879-augustus_masked-AVB_8-7811	K10844
+880-augustus_masked-AVB_8-7811	K00974
+881-augustus_masked-AVB_8-7811
+882-augustus_masked-YDG-6444
+883-augustus_masked-AVB_8-7764	K03349
+884-augustus_masked-AVB_8-7764
+885-augustus_masked-AVB_8-7764
+886-augustus_masked-AVB_8-7764
+887-augustus_masked-CGL_4-10494
+888-augustus_masked-AVB_8-8057
+889-augustus_masked-CPM_4-14876	K19801
+890-augustus_masked-CPM_4-14876
+891-augustus_masked-CPM_4-14876	K20362
+892-augustus_masked-AIE_1-5069	K16261
+893-augustus_masked-AIE_1-5069
+894-augustus_masked-AIE_1-5069
+895-augustus_masked-AIE_1-5069	K01409
+896-augustus_masked-AIE_1-5069	K22315
+897-augustus_masked-ABD_5-6706
+898-augustus_masked-CPN_4-15085
+899-augustus_masked-CPN_4-15085
+900-augustus_masked-CPN_4-15553
+901-augustus_masked-CPN_4-15553	K01785
+902-augustus_masked-BIL_3-4712
+903-augustus_masked-BIL_3-4712
+904-augustus_masked-BIL_3-4712
+905-augustus_masked-BIL_3-4712
+906-augustus_masked-BIL_3-4712
+907-augustus_masked-BAI_7-6404
+908-augustus_masked-ABL_5-5136
+909-augustus_masked-AHL_3-7778
+910-augustus_masked-YDM-5301
+911-augustus_masked-CPN_4-15139
+912-augustus_masked-CET_4-8395
+913-augustus_masked-CET_4-8395	K01689
+914-augustus_masked-BDM_5-23167
+915-augustus_masked-AQA_4-7308
+916-augustus_masked-AMM_4-6587
+917-augustus_masked-BPP_4-5588
+918-augustus_masked-AHL_3-7762
+919-augustus_masked-AHL_3-7762
+920-augustus_masked-AHL_3-7762
+921-augustus_masked-AHL_3-7762	K11888
+922-augustus_masked-AHL_3-7762
+923-augustus_masked-AHL_3-7762
+924-augustus_masked-AQD_4-6879	K06636
+925-augustus_masked-AHM_1-7114
+926-augustus_masked-AHM_1-7114
+927-augustus_masked-AHM_1-7114	K04564
+928-augustus_masked-YDM-5008
+929-augustus_masked-YDM-5008
+930-augustus_masked-ADV_4-6333
+931-augustus_masked-CQS_4-6447
+932-augustus_masked-BAP_7-7168	K01253
+933-augustus_masked-CCL_1-7511	K09206
+934-augustus_masked-BAL_7-7123
+935-augustus_masked-BAL_7-7123
+936-augustus_masked-AVB_8-7811	K10838
+937-augustus_masked-AHM_1-7082	K03441
+938-augustus_masked-AHM_1-7082
+939-augustus_masked-AQD_4-6616	K21989
+940-augustus_masked-BDG_5-19334	K01526
+941-augustus_masked-BDG_5-19334	K17741
+942-augustus_masked-BDG_5-19334	K00799
+943-augustus_masked-BDG_5-19334
+944-augustus_masked-BDG_5-19334
+945-augustus_masked-BDG_5-19334	K07119
+946-augustus_masked-BDG_5-19334	K03441
+947-augustus_masked-BDM_5-23055
+948-augustus_masked-AID_2-6456
+949-augustus_masked-AID_2-6456
+950-augustus_masked-AID_2-6456
+951-augustus_masked-AQH_2-38595
+952-augustus_masked-APG_4-6739
+953-augustus_masked-YDG-6389
+954-augustus_masked-AID_2-6449	K06276
+955-augustus_masked-AID_2-6449
+956-augustus_masked-AID_2-6449	K01867
+957-augustus_masked-CGE_5-5798	K10969
+958-augustus_masked-CGE_5-5798	K03564
+959-augustus_masked-ABM_5-4457
+960-augustus_masked-ABM_5-4457	K00417
+961-augustus_masked-ABM_5-4457	K00988
+962-augustus_masked-ABM_5-4457	K22211
+963-augustus_masked-ABM_5-4457
+964-augustus_masked-ABM_5-4457	K20826
+965-augustus_masked-ABM_5-4457
+966-augustus_masked-CPS_4-19273
+967-augustus_masked-BBM_6-7211	K17795
+968-augustus_masked-BBM_6-7211
+969-augustus_masked-BBM_6-7237
+970-augustus_masked-BDP_5-11433
+971-augustus_masked-BBM_6-6977	K12471
+972-augustus_masked-BBM_6-6977
+973-augustus_masked-YBR-7258
+974-augustus_masked-YBR-7258	K19983
+975-augustus_masked-YBR-7258
+976-augustus_masked-ABL_5-5194
+977-augustus_masked-BGM_1-17021
+978-augustus_masked-BCD_8-12448
+979-augustus_masked-BCD_8-12448
+980-augustus_masked-BCD_8-12448
+981-augustus_masked-BCD_8-12448	K16261
+982-augustus_masked-BCD_8-12448
+983-augustus_masked-BCD_8-12448	K14709
+984-augustus_masked-CPA_4-16622
+985-augustus_masked-BBT_3-41436
+986-augustus_masked-ASB_2-40154
+987-augustus_masked-YBT-11417
+988-augustus_masked-CPR_4-17842	K18738
+989-augustus_masked-BQN_4-5641	K08139
+990-augustus_masked-BQN_4-5641	K07513
+991-augustus_masked-BQN_4-5641
+992-augustus_masked-ABM_5-4637	K20368
+993-augustus_masked-AIE_1-5046
+994-augustus_masked-AIE_1-5046
+995-augustus_masked-AIE_1-5046
+996-augustus_masked-AIE_1-5046	K14864
+997-augustus_masked-AIE_1-5046
+998-augustus_masked-BBM_6-7272	K04564
+999-augustus_masked-CGE_5-5812
+1000-augustus_masked-CGE_5-5812	K14674
+1001-augustus_masked-CGE_5-5812
+1002-augustus_masked-CGE_5-5812	K12413
+1003-augustus_masked-YCM-7680
+1004-augustus_masked-YCM-7680
+1005-augustus_masked-YCM-7680
+1006-augustus_masked-YCM-7680
+1007-augustus_masked-YCM-7680	K00833
+1008-augustus_masked-AID_2-6438
+1009-augustus_masked-AID_2-6438	K22745
+1010-augustus_masked-AID_2-6438
+1011-augustus_masked-CGH_5-16559
+1012-augustus_masked-CEG_4-7368
+1013-augustus_masked-AID_2-6438	K18852
+1014-augustus_masked-AID_2-6438	K08197
+1015-augustus_masked-AID_2-6438	K20405
+1016-augustus_masked-AID_2-6438
+1017-augustus_masked-AID_2-6438
+1018-augustus_masked-AID_2-6438	K14997
+1019-augustus_masked-CQS_4-6404
+1021-augustus_masked-ABL_5-5062
+1022-augustus_masked-AHG_3-5017	K01469
+1023-augustus_masked-AHG_3-5017	K17741
+1024-augustus_masked-AHG_3-5017
+1025-augustus_masked-CPQ_4-15294
+1026-augustus_masked-CPQ_4-15294	K14850
+1027-augustus_masked-CPQ_4-15294
+1028-augustus_masked-CPQ_4-15294	K01530
+1029-augustus_masked-CPQ_4-15294
+1030-augustus_masked-CPQ_4-15294	K07342
+1031-augustus_masked-CPQ_4-15294	K12819
+1032-augustus_masked-BCH_5-11150
+1033-augustus_masked-BCH_5-11150
+1034-augustus_masked-CPM_4-14876
+1035-augustus_masked-CNP_1-20000
+1036-augustus_masked-CNP_1-20000
+1037-augustus_masked-CNP_1-20000	K06215
+1038-augustus_masked-CNP_1-20000	K03457
+1039-augustus_masked-CNP_1-20000
+1040-augustus_masked-CNP_1-20000	K08681
+1041-augustus_masked-AQD_4-6895
+1042-augustus_masked-AQD_4-6895	K11423
+1043-augustus_masked-AQD_4-6895
+1044-augustus_masked-AQD_4-6895
+1045-augustus_masked-AQD_4-6895	K00418
+1046-augustus_masked-AQD_4-6895	K00787
+1047-augustus_masked-AQD_4-6895
+1048-augustus_masked-CQS_4-6442	K03013
+1049-augustus_masked-CQS_4-6442
+1050-augustus_masked-CQS_4-6442	K19870
+1051-augustus_masked-CQS_4-6442	K14654
+1052-augustus_masked-CQS_4-6442
+1053-augustus_masked-CQS_4-6442
+1054-augustus_masked-BRK_4-4772	K22645
+1055-augustus_masked-BRK_4-4772
+1056-augustus_masked-BRK_4-4772	K03358
+1057-augustus_masked-BRK_4-4772
+1058-augustus_masked-AHF_3-9619
+1059-augustus_masked-AHF_3-9619
+1060-augustus_masked-ASN_8-20595	K00849
+1061-augustus_masked-BCB_3-14860
+1062-augustus_masked-CMG_6-37743
+1063-augustus_masked-CMG_6-37743	K05349
+1064-augustus_masked-CMG_6-37743
+1065-augustus_masked-CMG_6-37743
+1066-augustus_masked-CMG_6-37743
+1067-augustus_masked-CMG_6-37743	K00083
+1068-augustus_masked-BIN_3-306
+1070-augustus_masked-YCB-8168
+1071-augustus_masked-AKD_2-9730
+1072-augustus_masked-CPA_4-16548
+1073-augustus_masked-BBM_6-7244
+1074-augustus_masked-BMV_2-11488
+1075-augustus_masked-AEL_3-25454	K11165
+1076-augustus_masked-AHL_3-7997	K02136
+1077-augustus_masked-AHL_3-7997
+1078-augustus_masked-AHL_3-7997
+1079-augustus_masked-AHL_3-7997
+1080-augustus_masked-AHL_3-7997
+1081-augustus_masked-ALI_5-15120
+1082-augustus_masked-ALI_5-15120	K01012
+1083-augustus_masked-BPL_2-7584	K07407
+1084-augustus_masked-BEE_6-12017
+1085-augustus_masked-BEE_6-12017
+1086-augustus_masked-BEE_6-12017
+1087-augustus_masked-CDT_2-5278
+1088-augustus_masked-CDT_2-5278
+1089-augustus_masked-CDT_2-5278
+1090-augustus_masked-CDT_2-5278	K12882
+1091-augustus_masked-AIE_1-5054
+1092-augustus_masked-AIE_1-5054	K00008
+1093-augustus_masked-AIE_1-5054	K01101
+1094-augustus_masked-AIE_1-5054
+1095-augustus_masked-AQA_4-7086
+1096-augustus_masked-AQA_4-7086
+1097-augustus_masked-AQA_4-7086
+1098-augustus_masked-CQS_4-6414	K07766
+1099-augustus_masked-CQS_4-6414
+1100-augustus_masked-CQS_4-6414
+1101-augustus_masked-CQS_4-6414
+1102-augustus_masked-ANR_2-7082
+1103-augustus_masked-BVC_6-19502
+1104-augustus_masked-YAC-7642
+1105-augustus_masked-AEN_3-18383
+1106-augustus_masked-CPL_4-15634
+1107-augustus_masked-AFA_4-7928
+1108-augustus_masked-CPN_4-15722
+1109-augustus_masked-CEI_2-8657
+1110-augustus_masked-YAE-4724	K16261
+1111-augustus_masked-AKQ_5-5823
+1112-augustus_masked-BAH_6-7313
+1113-augustus_masked-CPN_4-15722	K11756
+1114-augustus_masked-CPN_4-15722	K12773
+1115-augustus_masked-CPN_4-15722
+1116-augustus_masked-ACQ_8-5020
+1117-augustus_masked-CPR_4-17369	K02730
+1118-augustus_masked-CPR_4-17369	K01702
+1119-augustus_masked-CPN_4-15176
+1120-augustus_masked-CPN_4-15176
+1121-augustus_masked-CPN_4-15176
+1122-augustus_masked-CPN_4-15176
+1123-augustus_masked-CPR_4-17651
+1124-augustus_masked-CPI_4-15424	K00900
+1125-augustus_masked-BBM_6-7238
+1126-augustus_masked-APS_4-8484
+1127-augustus_masked-APS_4-8484
+1128-augustus_masked-CPA_4-16961
+1129-augustus_masked-CFI_4-63651	K13953
+1130-augustus_masked-AQA_4-7340
+1131-augustus_masked-CPA_4-16706
+1132-augustus_masked-BBM_6-7267
+1133-augustus_masked-CGE_5-5798
+1134-augustus_masked-CGE_5-5798
+1135-augustus_masked-CGE_5-5798
+1136-augustus_masked-AVQ_5-51269
+1137-augustus_masked-CQS_4-6376
+1138-augustus_masked-CPL_4-15430
+1139-augustus_masked-CPL_4-15430
+1140-augustus_masked-CPL_4-15430
+1141-augustus_masked-AVB_8-8060
+1142-augustus_masked-AVB_8-8060	K00103
+1143-augustus_masked-AVB_8-8060
+1144-augustus_masked-CPS_4-19257
+1145-augustus_masked-ASV_1-19156
+1146-augustus_masked-AMH_5-6645
+1147-augustus_masked-AMH_5-6645
+1148-augustus_masked-AMH_5-6645
+1149-augustus_masked-AMH_5-6645	K07393
+1150-augustus_masked-AHM_1-7118	K11230
+1151-augustus_masked-AHM_1-7118	K14855
+1152-augustus_masked-AHM_1-7118	K01057
+1153-augustus_masked-CQS_4-6133
+1154-augustus_masked-YAC-7672
+1155-augustus_masked-CGD_5-5436
+1156-augustus_masked-CGD_5-5436	K08158
+1157-augustus_masked-ABP_6-5400	K00995
+1158-augustus_masked-ABP_6-5400	K06965
+1159-augustus_masked-ABP_6-5400	K02911
+1160-augustus_masked-ABP_6-5400	K20120
+1161-augustus_masked-ABP_6-5400	K07034
+1162-augustus_masked-YAW-6840	K01054
+1163-augustus_masked-YAW-6840
+1164-augustus_masked-YAW-6840
+1165-augustus_masked-YAW-6840
+1166-augustus_masked-CLL_4-5918
+1167-augustus_masked-CQS_4-6124
+1168-augustus_masked-CQS_4-6124
+1169-augustus_masked-CPR_4-17889
+1170-augustus_masked-CPR_4-17889	K04371
+1171-augustus_masked-CPR_4-17889
+1172-augustus_masked-CPR_4-17889	K17807
+1173-augustus_masked-CPR_4-17889
+1174-augustus_masked-CPR_4-17889	K00616
+1175-augustus_masked-CPR_4-17889	K15201
+1176-augustus_masked-CPR_4-17889
+1177-augustus_masked-AVB_8-7958	K06944
+1178-augustus_masked-AVB_8-7958
+1179-augustus_masked-AVB_8-7958	K03243
+1180-augustus_masked-AQA_4-7249	K11680
+1181-augustus_masked-AMM_4-6867
+1182-augustus_masked-ALI_5-15258	K08141
+1183-augustus_masked-ALI_5-15258
+1184-augustus_masked-ALI_5-15258	K01182
+1185-augustus_masked-CNI_4-19788
+1186-augustus_masked-CNI_4-19788	K00101
+1187-augustus_masked-AHF_3-9612
+1188-augustus_masked-AHF_3-9612	K06035
+1189-augustus_masked-AHF_3-9612	K08681
+1190-augustus_masked-AHL_3-8001	K12767
+1191-augustus_masked-CPI_4-15732	K08286
+1192-augustus_masked-CPI_4-15732	K22484
+1193-augustus_masked-CPI_4-15732
+1196-augustus_masked-AVB_8-8059	K00344
+1197-augustus_masked-AVB_8-8059
+1198-augustus_masked-BTG_3-6441
+1199-augustus_masked-BTG_3-6441
+1200-augustus_masked-BTG_3-6441
+1201-augustus_masked-AHF_3-9612
+1202-augustus_masked-AHF_3-9612
+1203-augustus_masked-AHF_3-9612
+1204-augustus_masked-CPA_4-16639	K09497
+1205-augustus_masked-CGH_5-16625
+1206-augustus_masked-CGH_5-16625	K01078
+1207-augustus_masked-BIF_1-6636	K11871
+1208-augustus_masked-BIF_1-6636	K00111
+1209-augustus_masked-YCB-7953
+1210-augustus_masked-BTE_3-67763
+1211-augustus_masked-CGP_5-11818
+1212-augustus_masked-BCG_8-12612
+1213-augustus_masked-BRK_4-4809	K00826
+1214-augustus_masked-BRK_4-4809
+1215-augustus_masked-BRK_4-4809
+1216-augustus_masked-BRK_4-4809	K08192
+1217-augustus_masked-BRK_4-4809
+1218-augustus_masked-CCQ_1-5816
+1219-augustus_masked-YBR-7284	K03115
+1220-augustus_masked-YBR-7284	K22384
+1221-augustus_masked-AQA_4-6966	K00021
+1222-augustus_masked-AQA_4-6966	K09242
+1223-augustus_masked-AQA_4-6966
+1224-augustus_masked-AQA_4-6966	K19838
+1225-augustus_masked-AQA_4-6966
+1226-augustus_masked-AQA_4-6966
+1227-augustus_masked-CPM_4-14363	K11434
+1228-augustus_masked-CPM_4-14363	K00275
+1229-augustus_masked-CPM_4-14363	K22722
+1230-augustus_masked-ANA_5-7847
+1231-augustus_masked-AHL_3-7961
+1232-augustus_masked-AHL_3-7961
+1233-augustus_masked-CGD_5-5439
+1234-augustus_masked-CGD_5-5439	K11090
+1235-augustus_masked-CDE_2-5632
+1236-augustus_masked-CDE_2-5632
+1237-augustus_masked-CQS_4-6380
+1238-augustus_masked-AKM_4-5339
+1239-augustus_masked-CPA_4-16664	K07152
+1240-augustus_masked-ALI_5-15225	K07897
+1241-augustus_masked-ALI_5-15225	K14191
+1242-augustus_masked-ALI_5-15225	K03848
+1243-augustus_masked-ACC_7-6008
+1244-augustus_masked-CGD_5-5416	K14771
+1245-augustus_masked-CGD_5-5416	K20522
+1246-augustus_masked-CGD_5-5416
+1247-augustus_masked-CGD_5-5416	K01953
+1248-augustus_masked-CCR_1-6225
+1249-augustus_masked-CPN_4-15474
+1250-augustus_masked-BDM_5-23139
+1251-augustus_masked-BDM_5-23139	K08192
+1252-augustus_masked-CDT_2-5272
+1253-augustus_masked-CDT_2-5272	K00939
+1254-augustus_masked-CGD_5-5246
+1255-augustus_masked-CGD_5-5246	K19836
+1256-augustus_masked-CGD_5-5246	K01240
+1257-augustus_masked-CGD_5-5246	K00493
+1258-augustus_masked-CPQ_4-15021	K11886
+1259-augustus_masked-CPQ_4-15021
+1260-augustus_masked-CPQ_4-15021
+1261-augustus_masked-CPQ_4-15021
+1262-augustus_masked-CPQ_4-15021
+1263-augustus_masked-CPQ_4-15021
+1264-augustus_masked-AID_2-6415	K01230
+1265-augustus_masked-AID_2-6415	K22696
+1266-augustus_masked-AID_2-6415	K01739
+1267-augustus_masked-CPN_4-15474	K01164
+1268-augustus_masked-CPN_4-15474
+1269-augustus_masked-BME_1-43277
+1270-augustus_masked-AHL_3-7774
+1271-augustus_masked-AHL_3-7774
+1272-augustus_masked-CPG_1-7611
+1273-augustus_masked-CPG_1-7611	K14009
+1274-augustus_masked-AIE_1-4858	K15450
+1275-augustus_masked-CPR_4-17794
+1276-augustus_masked-CPR_4-17794
+1277-augustus_masked-CPR_4-17794	K00521
+1278-augustus_masked-CPR_4-17794	K05765
+1279-augustus_masked-CPR_4-17794
+1280-augustus_masked-BBM_6-7272	K01724
+1281-augustus_masked-BBM_6-7272
+1282-augustus_masked-BBM_6-7272
+1283-augustus_masked-BDM_5-23139
+1284-augustus_masked-APC_4-8186
+1285-augustus_masked-YCK-5146
+1286-augustus_masked-AMH_5-6613
+1287-augustus_masked-CPQ_4-15165	K17086
+1288-augustus_masked-CPQ_4-15165
+1289-augustus_masked-CPQ_4-15165
+1290-augustus_masked-CPQ_4-15165	K14813
+1291-augustus_masked-CPQ_4-15165
+1292-augustus_masked-CPQ_4-15165
+1293-augustus_masked-AVB_8-8023
+1294-augustus_masked-AVB_8-8023
+1295-augustus_masked-YCB-8071
+1296-augustus_masked-YCB-8071	K08139
+1297-augustus_masked-ASB_2-40163	K03457
+1298-augustus_masked-AQA_4-7348
+1299-augustus_masked-AQA_4-7348	K10259
+1300-augustus_masked-AKE_3-7154
+1301-augustus_masked-CQS_4-6075	K07055
+1302-augustus_masked-CQS_4-6075	K01759
+1303-augustus_masked-BAG_6-6313
+1307-augustus_masked-AHL_3-8025
+1308-augustus_masked-AHL_3-8025	K16575
+1309-augustus_masked-AHH_3-5944
+1310-augustus_masked-BCQ_8-11841
+1311-augustus_masked-CPL_4-15232	K10685
+1312-augustus_masked-CPR_4-17189	K12492
+1313-augustus_masked-CPR_4-17852
+1314-augustus_masked-YCB-8123
+1315-augustus_masked-CPA_4-16589
+1316-augustus_masked-CPA_4-16589	K01772
+1317-augustus_masked-YBK-6315
+1318-augustus_masked-BDM_5-22999	K01426
+1319-augustus_masked-BDM_5-22999
+1320-augustus_masked-BDM_5-22999
+1321-augustus_masked-BDM_5-22999
+1322-augustus_masked-CPR_4-17852
+1323-augustus_masked-CPR_4-17852	K13049
+1324-augustus_masked-AHM_1-6883
+1325-augustus_masked-YBP-8463
+1326-augustus_masked-AID_2-6383	K01764
+1327-augustus_masked-AVB_8-7945	K21631
+1328-augustus_masked-AVB_8-7945
+1329-augustus_masked-CPI_4-15337
+1330-augustus_masked-CPI_4-15337
+1331-augustus_masked-CPG_1-7609	K00844
+1332-augustus_masked-CPG_1-7609	K20471
+1333-augustus_masked-CPG_1-7609	K02736
+1334-augustus_masked-CPG_1-7609	K01760
+1335-augustus_masked-CPG_1-7609	K03031
+1336-augustus_masked-CPQ_4-14811
+1337-augustus_masked-CPQ_4-14811	K08341
+1338-augustus_masked-CPK_4-16409
+1339-augustus_masked-CPK_4-16409	K11313
+1340-augustus_masked-AVB_8-7811
+1341-augustus_masked-AQM_4-11146
+1342-augustus_masked-CDT_2-5098
+1343-augustus_masked-AVB_8-7935	K08832
+1344-augustus_masked-AHH_3-5888
+1345-augustus_masked-CPQ_4-15150	K03283
+1346-augustus_masked-CPQ_4-15150	K13205
+1347-augustus_masked-CPM_4-14657	K08064
+1348-augustus_masked-CPM_4-14657	K03495
+1349-augustus_masked-BBM_6-7257	K00863
+1350-augustus_masked-BBM_6-7257
+1351-augustus_masked-BBM_6-7257
+1353-augustus_masked-CPQ_4-14808	K20168
+1354-augustus_masked-CPK_4-16612
+1355-augustus_masked-CPK_4-16612
+1356-augustus_masked-CPK_4-16612	K17786
+1357-augustus_masked-CPQ_4-15250	K22725
+1358-augustus_masked-CPQ_4-15250
+1359-augustus_masked-CPQ_4-15250
+1360-augustus_masked-CPQ_4-15250
+1361-augustus_masked-CPQ_4-15250
+1362-augustus_masked-BAM_7-7195
+1363-augustus_masked-CDT_2-5317
+1364-augustus_masked-CDT_2-5317
+1365-augustus_masked-CQS_4-6444	K10885
+1366-augustus_masked-CQS_4-6444	K03431
+1367-augustus_masked-BPF_4-10460
+1368-augustus_masked-YDM-4987
+1369-augustus_masked-AIG_2-6522
+1370-augustus_masked-ALT_5-7832
+1371-augustus_masked-BAF_6-18361
+1372-augustus_masked-BAF_6-18361
+1373-augustus_masked-AAG_6-7250
+1374-augustus_masked-BEP_4-7596
+1375-augustus_masked-CDD_2-5914
+1376-augustus_masked-BNB_4-11356	K12346
+1377-augustus_masked-CDT_2-5315	K00759
+1378-augustus_masked-YDM-5288
+1379-augustus_masked-AQA_4-7239
+1380-augustus_masked-AQA_4-7239	K01194
+1381-augustus_masked-AQA_4-7239	K05681
+1382-augustus_masked-AQA_4-7239	K00849
+1383-augustus_masked-AQA_4-7239
+1384-augustus_masked-CDT_2-5272
+1385-augustus_masked-CDT_2-5272
+1386-augustus_masked-CPN_4-15370	K00799
+1387-augustus_masked-CPN_4-15370
+1388-augustus_masked-CEG_4-7331	K20302
+1389-augustus_masked-CEG_4-7331	K00428
+1390-augustus_masked-CEG_4-7331
+1391-augustus_masked-CEG_4-7331
+1392-augustus_masked-CGD_5-5418
+1393-augustus_masked-CGD_5-5418	K09468
+1394-augustus_masked-BMB_1-4668
+1395-augustus_masked-ATH_3-9260	K01698
+1396-augustus_masked-CPA_4-16415
+1397-augustus_masked-ACL_7-7535
+1398-augustus_masked-ACL_7-7535
+1399-augustus_masked-ACL_7-7535
+1400-augustus_masked-ACL_7-7535	K01760
+1401-augustus_masked-CQS_4-6420
+1402-augustus_masked-BBM_6-7261
+1403-augustus_masked-AFL_5-6754
+1404-augustus_masked-AID_2-6352	K02214
+1405-augustus_masked-CQS_4-6442	K14640
+1406-augustus_masked-AQA_4-7358
+1407-augustus_masked-CGD_5-5424
+1408-augustus_masked-CPL_4-15064
+1409-augustus_masked-CPN_4-15749
+1410-augustus_masked-CPN_4-15749
+1411-augustus_masked-CCL_1-4471
+1412-augustus_masked-CPN_4-15749
+1413-augustus_masked-AID_2-6220
+1414-augustus_masked-AID_2-6220
+1415-augustus_masked-BBM_6-6977	K22073
+1416-augustus_masked-BBM_6-6977
+1417-augustus_masked-CPG_1-7550	K08139
+1418-augustus_masked-CPG_1-7550	K11675
+1419-augustus_masked-CPG_1-7550
+1420-augustus_masked-AQA_4-7362
+1421-augustus_masked-CPQ_4-15088
+1422-augustus_masked-CPR_4-17889
+1423-augustus_masked-CPR_4-17889	K00706
+1424-augustus_masked-CPR_4-17889	K17796
+1425-augustus_masked-AHB_2-7036
+1426-augustus_masked-AHL_3-8012	K10746
+1427-augustus_masked-AHL_3-8012
+1428-augustus_masked-AHL_3-8012
+1429-augustus_masked-AHL_3-8012	K05302
+1430-augustus_masked-CPQ_4-15272	K00262
+1431-augustus_masked-CPQ_4-15272	K00004
+1432-augustus_masked-CPQ_4-15272
+1433-augustus_masked-CPQ_4-15272	K08054
+1434-augustus_masked-CPQ_4-15272
+1435-maker-CFC_2-43056
+1436-maker-BDE_8-15861
+1437-maker-BDP_5-11439
+1438-maker-YBR-7232
+1439-maker-AHM_1-7103
+1440-maker-AHM_1-7103
+1441-maker-CLM_4-7921
+1442-maker-CDK_4-10433
+1445-maker-AMD_5-6572
+1446-maker-CDM_4-7429
+1447-maker-CPQ_4-15250	K06689
+1448-maker-BBM_6-7237
+1449-maker-AEF_8-5122
+1450-maker-ANM_2-42651
+1451-maker-AMH_5-6637
+1452-maker-YCR-6505
+1453-maker-ACG_7-9645
+1454-maker-BDK_5-8644
+1455-maker-BTT_3-19676
+1456-maker-ATQ_7-5187
+1457-maker-CCH_4-6793
+1458-maker-CPL_4-15597
+1459-maker-AMA_5-10173
+1460-maker-AMA_5-10173
+1461-maker-AMA_5-10173
+1462-maker-CPM_4-14876	K16261
+1463-maker-CCQ_1-5741
+1464-maker-BRG_4-12215
+1465-maker-BHI_4-7563
+1466-maker-ACQ_8-4774
+1467-maker-ABM_5-4633	K08496
+1468-maker-BDG_5-19334
+1469-maker-API_4-23720
+1470-maker-BGL_1-18155
+1471-maker-CGE_5-5798
+1472-maker-AND_4-5595
+1473-maker-CET_4-8407
+1474-maker-CFC_2-43241
+1475-maker-AIE_1-5046
+1476-maker-AID_2-6438
+1477-maker-CGH_5-16559
+1478-maker-BAG_6-6340
+1479-maker-AHG_3-5017
+1480-maker-CPQ_4-15294	K10580
+1481-maker-CPC_4-27355
+1482-maker-BRK_4-4772
+1483-maker-AHF_3-9619
+1484-maker-CMG_6-37743
+1485-maker-CMG_6-37743
+1487-maker-AEL_3-25454
+1488-maker-AEL_3-25454
+1489-maker-BTE_3-67629
+1490-maker-BNB_4-11386
+1491-maker-BPL_2-7584
+1492-maker-BEE_6-12017
+1493-maker-BEE_6-12017
+1494-maker-BEE_6-12017
+1495-maker-ACH_7-12998
+1496-maker-CHB_4-9987
+1497-maker-CDN_4-6216
+1498-maker-CDN_4-6216
+1499-maker-BVC_6-19502
+1500-maker-CPI_4-15903
+1501-maker-YDB-17846
+1502-maker-BEA_6-11925
+1503-maker-CEQ_4-7370
+1504-maker-AIE_1-5044
+1505-maker-ANL_2-46428
+1506-maker-AMH_5-6583
+1507-maker-APS_4-8484
+1508-maker-AVB_8-8060	K07374
+1509-maker-AVT_6-51832
+1510-maker-YCJ-7201
+1511-maker-ABP_6-5400	K01653
+1512-maker-ABP_6-5400
+1513-maker-ABP_6-5400
+1514-maker-CDL_3-6404
+1515-maker-CPR_4-17889
+1516-maker-YAN-14225
+1517-maker-ALI_5-15258
+1518-maker-ALI_5-15258
+1519-maker-BTG_3-6441
+1520-maker-CGH_5-16625
+1521-maker-BAG_6-6327
+1522-maker-BRK_4-4809
+1523-maker-BRK_4-4809
+1524-maker-ARH_5-11102
+1525-maker-CQS_4-6365
+1526-maker-CQS_4-6365
+1527-maker-CDE_2-5632
+1528-maker-CNT_4-21642
+1529-maker-ALI_5-15225
+1530-maker-BAM_7-7205
+1531-maker-CGD_5-5416
+1532-maker-CCR_1-6225
+1533-maker-ASC_6-27146
+1534-maker-BDM_5-23139
+1535-maker-BDM_5-23139
+1536-maker-BDM_5-23139
+1537-maker-YCY-8051
+1538-maker-YCY-8051
+1539-maker-CIL_2-24097
+1540-maker-CPR_4-17794
+1541-maker-BEN_7-20201
+1542-maker-BDM_5-23139
+1543-maker-YCB-8071
+1544-maker-BAP_7-6884
+1545-maker-AMH_5-6251
+1546-maker-CPG_1-7609
+1547-maker-YCY-8126
+1548-maker-CPL_4-15494
+1549-maker-CDT_2-5317
+1550-maker-CKN_4-32870
+1551-maker-CMT_8-15862
+1552-maker-AQA_4-7239
+1553-maker-CGD_5-5418	K12412
+1554-maker-CMQ_8-5693
+1555-maker-CMQ_8-5693
+1556-maker-AVB_8-8045
+1557-maker-ATH_3-9260
+1558-maker-ANH_4-5663
+1559-maker-ACL_7-7535
+1560-maker-ACL_7-7535
+1561-maker-ACL_7-7535
+1562-maker-ACL_7-7535
+1563-maker-CQB_6-11660	K13333
+1564-maker-CQS_4-6420
+1565-maker-AQA_4-7358
+1566-maker-AQD_4-6575
+1567-maker-CGV_3-7506
+1568-maker-AHL_3-8012	K01210
+1569-maker-YBL-9938
+1570-maker-CPQ_4-15272	K01895
+1571-snap_masked-CFC_2-43056	K17417
+1572-snap_masked-CFC_2-43056
+1573-snap_masked-CPK_4-16846
+1574-snap_masked-AIE_1-5050
+1575-snap_masked-BBM_6-7010	K02142
+1576-snap_masked-BBM_6-7010
+1577-snap_masked-AQA_4-7171
+1578-snap_masked-CQS_4-6447
+1579-snap_masked-BMB_1-4633
+1580-snap_masked-CDT_2-5211
+1581-snap_masked-CDT_2-5211
+1582-snap_masked-CDT_2-5331
+1583-snap_masked-ABB_5-4847
+1588-snap_masked-YCO-8921
+1589-snap_masked-BVG_4-25625
+1590-snap_masked-CPQ_4-15250
+1591-snap_masked-CQA_6-8135
+1592-snap_masked-YCL-7822
+1593-snap_masked-CNH_4-20281
+1594-snap_masked-AMH_5-6573
+1595-snap_masked-CEI_2-8878
+1596-snap_masked-CPM_4-14907
+1597-snap_masked-ATQ_7-5187
+1598-snap_masked-AVB_8-8024
+1599-snap_masked-BBM_6-7242
+1600-snap_masked-CPR_4-17880
+1601-snap_masked-ATV_5-44131
+1602-snap_masked-CCH_4-6793
+1603-snap_masked-CCH_4-6793
+1604-snap_masked-BAH_6-7523
+1605-snap_masked-CPL_4-15597
+1606-snap_masked-BBM_6-7244
+1607-snap_masked-AMH_5-6336
+1608-snap_masked-AIE_1-5035	K06158
+1609-snap_masked-CPG_1-7486	K14816
+1610-snap_masked-CKF_3-7120
+1611-snap_masked-CCQ_1-5470
+1612-snap_masked-CCQ_1-5470
+1613-snap_masked-CPA_4-16966
+1614-snap_masked-CPN_4-15612
+1615-snap_masked-CPN_4-15612
+1616-snap_masked-YCC-11519
+1617-snap_masked-AVB_8-7764
+1618-snap_masked-ABD_5-6706
+1619-snap_masked-ABD_5-6706
+1620-snap_masked-ABD_5-6706
+1621-snap_masked-ABL_5-5136
+1622-snap_masked-BHI_4-7563
+1623-snap_masked-AMM_4-6587
+1624-snap_masked-AHL_3-7762	K03540
+1625-snap_masked-AHL_3-7762
+1626-snap_masked-AHL_3-7762	K14818
+1627-snap_masked-AQD_4-6879
+1628-snap_masked-CQS_4-6404
+1629-snap_masked-CQS_4-6404
+1630-snap_masked-BBM_6-7046
+1631-snap_masked-BDG_5-19334
+1632-snap_masked-AID_2-6456
+1633-snap_masked-AID_2-6456
+1634-snap_masked-AID_2-6456
+1635-snap_masked-CPL_4-15567
+1636-snap_masked-AID_2-6449
+1637-snap_masked-ABM_5-4457
+1638-snap_masked-ABM_5-4457
+1639-snap_masked-CLG_4-26269
+1640-snap_masked-ARP_2-8812
+1641-snap_masked-YBR-7258
+1642-snap_masked-BCD_8-12448	K09206
+1643-snap_masked-BAN_7-6824
+1644-snap_masked-BQN_4-5641
+1645-snap_masked-CPK_4-16853
+1646-snap_masked-AIE_1-5046	K12872
+1647-snap_masked-BAG_6-6343
+1648-snap_masked-CGE_5-5812	K12669
+1649-snap_masked-AKB_2-9725
+1650-snap_masked-ACQ_8-5049
+1651-snap_masked-AHG_3-5017
+1652-snap_masked-AHG_3-5017
+1653-snap_masked-AHG_3-5017
+1654-snap_masked-AHG_3-5017
+1655-snap_masked-BBM_6-7233
+1656-snap_masked-BGR_1-19009
+1657-snap_masked-AMC_5-5099
+1658-snap_masked-CNP_1-20000
+1659-snap_masked-BDQ_6-13887
+1660-snap_masked-BCB_3-14860
+1661-snap_masked-CMG_6-37743
+1662-snap_masked-CMG_6-37743
+1663-snap_masked-CMG_6-37743
+1664-snap_masked-CMG_6-37743
+1666-snap_masked-AFB_4-8178
+1667-snap_masked-BMV_2-11488
+1668-snap_masked-AEL_3-25454
+1669-snap_masked-BEE_6-12017
+1670-snap_masked-BEE_6-12017
+1671-snap_masked-CQG_6-13109
+1672-snap_masked-YCZ-6600
+1673-snap_masked-AQA_4-7086
+1674-snap_masked-BHR_4-9388	K05605
+1675-snap_masked-AQD_4-6814	K18658
+1676-snap_masked-AIE_1-5054
+1677-snap_masked-AFA_4-7928
+1678-snap_masked-CPR_4-17651
+1679-snap_masked-CPI_4-15424	K20408
+1680-snap_masked-APS_4-8484
+1681-snap_masked-APS_4-8484
+1682-snap_masked-CLG_4-26387
+1683-snap_masked-CPL_4-15430
+1684-snap_masked-ASV_1-19156
+1685-snap_masked-BGP_1-17003
+1686-snap_masked-ABP_6-5400
+1687-snap_masked-ABP_6-5400	K08286
+1688-snap_masked-CDL_3-6416
+1689-snap_masked-AVB_8-7958
+1690-snap_masked-AVB_8-7958
+1691-snap_masked-ALI_5-15258
+1693-snap_masked-BAM_7-7087
+1694-snap_masked-AHF_3-9612
+1695-snap_masked-YAN-14482
+1696-snap_masked-BIF_1-6636
+1697-snap_masked-BAI_7-6394
+1698-snap_masked-BRK_4-4809
+1699-snap_masked-ARH_5-11102
+1700-snap_masked-CGD_5-5439
+1701-snap_masked-BGV_2-15527
+1702-snap_masked-CNT_4-21642
+1703-snap_masked-CDF_1-5358
+1704-snap_masked-CPD_4-13463
+1705-snap_masked-BVC_6-19273
+1706-snap_masked-BDM_5-23139
+1707-snap_masked-BDM_5-23139
+1708-snap_masked-BAN_7-6753
+1709-snap_masked-YCL-7479
+1710-snap_masked-AHL_3-7774	K06655
+1711-snap_masked-AIE_1-4858	K03260
+1712-snap_masked-BBM_6-7272
+1713-snap_masked-CPQ_4-15165
+1714-snap_masked-ASB_2-40163
+1715-snap_masked-AFI_5-7003
+1718-snap_masked-BDS_6-12987
+1719-snap_masked-CPR_4-17494
+1720-snap_masked-CPL_4-15232
+1721-snap_masked-BDD_8-15410
+1722-snap_masked-ANM_2-42709
+1723-snap_masked-BDM_5-22999
+1724-snap_masked-BDM_5-22999
+1725-snap_masked-ACI_7-6868
+1726-snap_masked-AVB_8-7945	K14686
+1727-snap_masked-CPR_4-17387
+1728-snap_masked-CPG_1-7609
+1729-snap_masked-BBH_6-7041
+1730-snap_masked-BGQ_1-19910
+1731-snap_masked-ADQ_4-7102
+1732-snap_masked-BRK_4-4801
+1733-snap_masked-CPK_4-16409	K17983
+1734-snap_masked-AVB_8-7946
+1735-snap_masked-BAQ_7-7673
+1736-snap_masked-APR_4-6467
+1737-snap_masked-AVB_8-7935
+1738-snap_masked-BBM_6-7257
+1739-snap_masked-BBM_6-7257
+1741-snap_masked-CEI_2-9038
+1742-snap_masked-CPA_4-16842
+1743-snap_masked-CPA_4-16842
+1744-snap_masked-CGD_5-5433
+1745-snap_masked-ASC_6-27073
+1746-snap_masked-CDD_2-5914
+1747-snap_masked-BNB_4-11356	K14411
+1748-snap_masked-CDT_2-5315	K11427
+1749-snap_masked-AQM_4-11146
+1750-snap_masked-CPN_4-15370	K15077
+1751-snap_masked-BSL_4-12345
+1752-snap_masked-CEG_4-7331
+1753-snap_masked-CPN_4-15564
+1754-snap_masked-CGD_5-5418
+1755-snap_masked-ACL_7-7535
+1756-snap_masked-CQS_4-6420
+1757-snap_masked-CQS_4-6420
+1758-snap_masked-BBM_6-7261
+1759-snap_masked-CQS_4-6442
+1760-snap_masked-YAB-7556
+1761-snap_masked-CGD_5-5424
+1762-snap_masked-ANM_2-42027
+1763-snap_masked-CPN_4-15749
+1764-snap_masked-CPG_1-7550
+1765-snap_masked-CPQ_4-15088
+1766-snap_masked-AEF_8-5136
+1767-snap_masked-BCA_3-8244
+1768-YAL001C	K15204
+1769-YAL002W	K20178
+1770-YAL003W	K03232
+1771-YAL005C_NumOfGenes_3	K03283
+1772-YAL007C	K14825
+1773-YAL008W
+1774-YAL009W
+1775-YAL010C	K17774
+1776-YAL011W	K11682
+1777-YAL012W	K01758
+1778-YAL013W
+1779-YAL014C	K08501
+1780-YAL015C	K10773
+1781-YAL016C-A
+1782-YAL016C-B
+1783-YAL016W	K03456
+1784-YAL017W	K08286
+1785-YAL018C
+1786-YAL019W	K14439
+1787-YAL019W-A
+1788-YAL020C	K15462
+1789-YAL021C	K12603
+1790-YAL022C	K15014
+1791-YAL023C	K00728
+1792-YAL024C	K06681
+1793-YAL025C	K14831
+1794-YAL026C	K14802
+1795-YAL026C-A
+1796-YAL027W	K15080
+1797-YAL028W
+1798-YAL029C	K10357
+1799-YAL030W
+1800-YAL031C
+1801-YAL031W-A
+1802-YAL032C	K06063
+1803-YAL033W	K03537
+1804-YAL034C
+1805-YAL034C-B
+1806-YAL034W-A	K11559
+1807-YAL035W	K03243
+1808-YAL036C	K06944
+1809-YAL037C-A
+1810-YAL037W
+1811-YAL038W_NumOfGenes_2	K00873
+1812-YAL039C	K01764
+1813-YAL040C	K06646
+1814-YAL041W	K11236
+1815-YAL042W_NumOfGenes_2	K20367
+1816-YAL043C	K06100
+1817-YAL044C	K02437
+1818-YAL044W-A_NumOfGenes_2	K22066
+1819-YAL046C	K22075
+1820-YAL047C
+1821-YAL047W-A
+1822-YAL048C	K07870
+1823-YAL049C
+1824-YAL051W
+1825-YAL053W
+1826-YAL054C	K01895
+1827-YAL055W
+1828-YAL056W
+1829-YAL058W_NumOfGenes_2	K08054
+1830-YAL059W_NumOfGenes_3
+1831-YAL060W	K00004
+1832-YAL061W_NumOfGenes_2	K00004
+1833-YAL062W_NumOfGenes_2	K00262
+1834-YAL063C
+1835-YAL063C-A
+1836-YAL064C-A_NumOfGenes_2
+1837-YAL064W
+1838-YAL064W-B
+1839-YAL065C_NumOfGenes_2
+1840-YAL066W
+1841-YAL067C
+1842-YAL068W-A
+1843-YAL069W
+1844-YAR002C-A	K20346
+1845-YAR002W	K18718
+1846-YAR003W	K14961
+1847-YAR007C	K07466
+1848-YAR008W	K15323
+1849-YAR014C
+1850-YAR015W	K01923
+1851-YAR018C	K20872
+1852-YAR019C	K06683
+1853-YAR019W-A
+1854-YAR023C_NumOfGenes_2
+1855-YAR027W
+1856-YAR028W_NumOfGenes_2
+1857-YAR029W
+1858-YAR030C
+1859-YAR031W
+1860-YAR035C-A
+1861-YAR035W_NumOfGenes_2	K00624
+1862-YAR042W	K20456
+1863-YAR047C
+1864-YAR050W_NumOfGenes_3
+1865-YAR053W
+1866-YAR060C_NumOfGenes_2
+1867-YAR066W_NumOfGenes_3
+1868-YAR068W_NumOfGenes_3
+1869-YAR070C_NumOfGenes_2
+1870-YBL001C
+1871-YBL002W	K11252
+1872-YBL003C	K11251
+1873-YBL004W	K14772
+1874-YBL005W
+1875-YBL006C_NumOfGenes_2	K11764
+1876-YBL007C	K20046
+1877-YBL008W	K11293
+1878-YBL008W-A
+1879-YBL009W	K16315
+1880-YBL010C
+1881-YBL011W	K13507
+1882-YBL012C
+1883-YBL013W	K00604
+1884-YBL014C	K15218
+1885-YBL015W	K01067
+1886-YBL016W	K04371
+1887-YBL017C_NumOfGenes_2
+1888-YBL018C	K14528
+1889-YBL019W	K10772
+1890-YBL020W	K06316
+1891-YBL021C
+1892-YBL022C	K08675
+1893-YBL023C_NumOfGenes_2	K02540
+1894-YBL024W_NumOfGenes_2	K15334
+1895-YBL025W_NumOfGenes_2	K15221
+1896-YBL026W_NumOfGenes_2
+1897-YBL027W_NumOfGenes_2	K02885
+1898-YBL028C_NumOfGenes_2
+1899-YBL029C-A_NumOfGenes_2
+1900-YBL029W_NumOfGenes_2
+1901-YBL030C_NumOfGenes_2	K05863
+1902-YBL031W_NumOfGenes_2
+1903-YBL032W_NumOfGenes_2	K18738
+1904-YBL033C_NumOfGenes_2	K01497
+1905-YBL034C_NumOfGenes_2
+1906-YBL035C_NumOfGenes_2	K02321
+1907-YBL036C_NumOfGenes_2	K06997
+1908-YBL037W_NumOfGenes_2	K11824
+1909-YBL038W_NumOfGenes_2
+1910-YBL039C_NumOfGenes_3	K01937
+1911-YBL039W-B
+1912-YBL040C_NumOfGenes_2
+1913-YBL041W_NumOfGenes_2	K02732
+1914-YBL042C_NumOfGenes_2
+1915-YBL043W_NumOfGenes_2
+1916-YBL044W
+1917-YBL045C_NumOfGenes_2	K00414
+1918-YBL046W_NumOfGenes_2
+1919-YBL047C_NumOfGenes_2	K12472
+1920-YBL048W
+1921-YBL049W_NumOfGenes_2
+1922-YBL050W_NumOfGenes_2
+1923-YBL051C_NumOfGenes_2
+1924-YBL052C_NumOfGenes_3	K11378
+1925-YBL054W_NumOfGenes_2
+1926-YBL055C_NumOfGenes_2	K03424
+1927-YBL056W_NumOfGenes_2	K14803
+1928-YBL057C_NumOfGenes_2	K04794
+1929-YBL058W_NumOfGenes_2	K14012
+1930-YBL059C-A_NumOfGenes_2
+1931-YBL059W
+1932-YBL060W_NumOfGenes_2
+1933-YBL061C_NumOfGenes_3	K07126
+1934-YBL063W_NumOfGenes_2	K10398
+1935-YBL064C	K03386
+1936-YBL065W
+1937-YBL066C
+1938-YBL067C	K11872
+1939-YBL068W	K00948
+1940-YBL069W_NumOfGenes_2
+1941-YBL070C
+1942-YBL071C
+1943-YBL071C-B
+1944-YBL071W-A	K15455
+1945-YBL073W
+1946-YBL074C	K13205
+1947-YBL075C	K03283
+1948-YBL076C	K01870
+1949-YBL077W
+1950-YBL078C	K08341
+1951-YBL079W	K14312
+1952-YBL080C	K02434
+1953-YBL081W
+1954-YBL082C_NumOfGenes_2	K03845
+1955-YBL084C	K03350
+1956-YBL085W
+1957-YBL086C
+1958-YBL087C	K02894
+1959-YBL088C	K04728
+1960-YBL089W
+1961-YBL090W	K17415
+1962-YBL091C	K01265
+1963-YBL091C-A
+1964-YBL092W	K02912
+1965-YBL093C	K15138
+1966-YBL095W_NumOfGenes_2
+1967-YBL096C
+1968-YBL097W	K06676
+1969-YBL098W	K00486
+1970-YBL099W_NumOfGenes_2	K02132
+1971-YBL100W-C
+1972-YBL101C	K20060
+1973-YBL102W
+1974-YBL103C
+1975-YBL104C	K20407
+1976-YBL105C	K02677
+1977-YBL106C	K08518
+1978-YBL107C
+1979-YBL108C-A_NumOfGenes_18
+1980-YBL108W
+1981-YBL109W
+1982-YBR001C	K01194
+1983-YBR002C	K11778
+1984-YBR003W	K05355
+1985-YBR004C	K07542
+1986-YBR005W
+1987-YBR006W	K00135
+1988-YBR007C
+1989-YBR008C	K08158
+1990-YBR009C_NumOfGenes_2	K11254
+1991-YBR010W	K11253
+1992-YBR011C	K01507
+1993-YBR012C
+1994-YBR013C
+1995-YBR014C
+1996-YBR015C	K05535
+1997-YBR016W
+1998-YBR017C
+1999-YBR018C	K00965
+2000-YBR019C	K01784
+2001-YBR020W	K00849
+2002-YBR021W
+2003-YBR022W	K15529
+2004-YBR023C	K00698
+2005-YBR024W	K07152
+2006-YBR025C	K19788
+2007-YBR026C	K07512
+2008-YBR027C
+2009-YBR028C	K22008
+2010-YBR029C	K00981
+2011-YBR030W
+2012-YBR032W
+2013-YBR033W
+2014-YBR034C	K11434
+2015-YBR035C	K00275
+2016-YBR036C	K22722
+2017-YBR037C	K07152
+2018-YBR038W_NumOfGenes_2	K00698
+2019-YBR039W_NumOfGenes_2	K02136
+2020-YBR040W
+2021-YBR041W
+2022-YBR042C
+2023-YBR043C
+2024-YBR044C
+2025-YBR045C_NumOfGenes_2	K12770
+2026-YBR046C	K00344
+2027-YBR047W
+2028-YBR048W_NumOfGenes_2
+2029-YBR049C	K09424
+2030-YBR050C
+2031-YBR051W
+2032-YBR052C
+2033-YBR053C
+2034-YBR054W
+2035-YBR055C	K12855
+2036-YBR056W
+2037-YBR056W-A_NumOfGenes_2
+2038-YBR057C
+2039-YBR058C	K11836
+2040-YBR058C-A
+2041-YBR059C	K08286
+2042-YBR060C	K02604
+2043-YBR061C	K14864
+2044-YBR062C
+2045-YBR063C_NumOfGenes_2
+2046-YBR065C	K12872
+2047-YBR066C
+2048-YBR067C
+2049-YBR069C_NumOfGenes_3	K16261
+2050-YBR070C_NumOfGenes_2	K07441
+2051-YBR071W_NumOfGenes_2
+2052-YBR072C-A
+2053-YBR072W_NumOfGenes_2	K13993
+2054-YBR073W	K10877
+2055-YBR074W
+2056-YBR076C-A
+2057-YBR076W
+2058-YBR077C
+2059-YBR078W
+2060-YBR079C	K03254
+2061-YBR080C	K06027
+2062-YBR081C	K11359
+2063-YBR082C
+2064-YBR083W	K09448
+2065-YBR084C-A
+2066-YBR084W	K00288
+2067-YBR085C-A
+2068-YBR085W	K05863
+2069-YBR086C	K19327
+2070-YBR087W	K10756
+2071-YBR088C_NumOfGenes_2	K04802
+2072-YBR089C-A
+2073-YBR090C
+2074-YBR091C_NumOfGenes_2	K17793
+2075-YBR092C	K01078
+2076-YBR093C	K01078
+2077-YBR094W
+2078-YBR095C
+2079-YBR096W
+2080-YBR097W	K08333
+2081-YBR098W_NumOfGenes_2
+2082-YBR101C	K09562
+2083-YBR102C	K19986
+2084-YBR103C-A
+2085-YBR103W	K04508
+2086-YBR104W	K15109
+2087-YBR105C
+2088-YBR106W
+2089-YBR107C
+2090-YBR108W
+2091-YBR109C	K02183
+2092-YBR109W-A
+2093-YBR110W	K03842
+2094-YBR111C	K01515
+2095-YBR111W-A
+2096-YBR112C	K06665
+2097-YBR113W
+2098-YBR114W	K15083
+2099-YBR115C	K00143
+2100-YBR116C
+2101-YBR117C	K00615
+2102-YBR119W
+2103-YBR120C	K17663
+2104-YBR121C_NumOfGenes_2	K01880
+2105-YBR122C
+2106-YBR123C	K15202
+2107-YBR124W
+2108-YBR125C	K19705
+2109-YBR126C	K00697
+2110-YBR126W-A_NumOfGenes_2
+2111-YBR127C	K02147
+2112-YBR128C	K08335
+2113-YBR129C
+2114-YBR130C	K18737
+2115-YBR131W_NumOfGenes_2	K21156
+2116-YBR132C	K16261
+2117-YBR133C	K02516
+2118-YBR134W
+2119-YBR135W	K02219
+2120-YBR136W	K02543
+2121-YBR137W
+2122-YBR138C
+2123-YBR139W	K13289
+2124-YBR140C
+2125-YBR141C_NumOfGenes_2	K18849
+2126-YBR142W	K14805
+2127-YBR143C	K03265
+2128-YBR144C
+2129-YBR145W	K13953
+2130-YBR146W	K02996
+2131-YBR147W
+2132-YBR148W
+2133-YBR149W	K00063
+2134-YBR150C
+2135-YBR151W
+2136-YBR152W
+2137-YBR153W	K14654
+2138-YBR154C	K03013
+2139-YBR155W
+2140-YBR156C
+2141-YBR157C
+2142-YBR158W	K15081
+2143-YBR159W	K10251
+2144-YBR160W	K04563
+2145-YBR161W	K22721
+2146-YBR162C
+2147-YBR162W-A
+2148-YBR163W	K17815
+2149-YBR164C	K07942
+2150-YBR165W
+2151-YBR166C	K00211
+2152-YBR167C	K14526
+2153-YBR168W
+2154-YBR169C	K09485
+2155-YBR170C	K14015
+2156-YBR171W	K12273
+2157-YBR172C	K18730
+2158-YBR173C	K11599
+2159-YBR175W_NumOfGenes_2	K14963
+2160-YBR176W	K00606
+2161-YBR177C	K07019
+2162-YBR178W
+2163-YBR179C	K06030
+2164-YBR180W
+2165-YBR181C
+2166-YBR182C	K19807
+2167-YBR182C-A
+2168-YBR183W	K05848
+2169-YBR184W
+2170-YBR185C	K17801
+2171-YBR186W	K22399
+2172-YBR187W
+2173-YBR188C
+2174-YBR189W_NumOfGenes_2
+2175-YBR190W_NumOfGenes_2
+2176-YBR191W
+2177-YBR192W	K15116
+2178-YBR193C	K15130
+2179-YBR194W
+2180-YBR195C
+2181-YBR196C	K01810
+2182-YBR196C-A
+2183-YBR196C-B
+2184-YBR197C
+2185-YBR198C	K03130
+2186-YBR199W	K03854
+2187-YBR200W	K11237
+2188-YBR200W-A
+2189-YBR201C-A
+2190-YBR201W	K13989
+2191-YBR202W	K02210
+2192-YBR203W
+2193-YBR204C
+2194-YBR205W	K10967
+2195-YBR206W
+2196-YBR207W	K07243
+2197-YBR208C	K14541
+2198-YBR209W
+2199-YBR210W	K20368
+2200-YBR211C	K11556
+2201-YBR212W
+2202-YBR213W	K02304
+2203-YBR214W
+2204-YBR215W
+2205-YBR216C
+2206-YBR217W	K08336
+2207-YBR218C	K01958
+2208-YBR219C
+2209-YBR220C
+2210-YBR221C	K00162
+2211-YBR221W-A
+2212-YBR222C	K22133
+2213-YBR223C_NumOfGenes_2	K10862
+2214-YBR224W
+2215-YBR225W
+2216-YBR226C
+2217-YBR227C	K03544
+2218-YBR228W	K15078
+2219-YBR229C	K05546
+2220-YBR230C
+2221-YBR230W-A
+2222-YBR231C
+2223-YBR233W_NumOfGenes_2	K18738
+2224-YBR233W-A	K11568
+2225-YBR234C	K05757
+2226-YBR235W	K14429
+2227-YBR236C	K00565
+2228-YBR237W	K12811
+2229-YBR238C
+2230-YBR239C
+2231-YBR240C
+2232-YBR241C
+2233-YBR242W	K07023
+2234-YBR243C	K01001
+2235-YBR244W	K00432
+2236-YBR245C	K11654
+2237-YBR246W	K17868
+2238-YBR247C	K14797
+2239-YBR248C	K01663
+2240-YBR249C	K01626
+2241-YBR250W
+2242-YBR251W	K02988
+2243-YBR252W	K01520
+2244-YBR253W	K15140
+2245-YBR254C	K20301
+2246-YBR255C-A
+2247-YBR255W
+2248-YBR256C	K00793
+2249-YBR257W	K03538
+2250-YBR258C	K14969
+2251-YBR259W
+2252-YBR260C	K20643
+2253-YBR261C	K16219
+2254-YBR262C	K17787
+2255-YBR263W	K00600
+2256-YBR264C	K07976
+2257-YBR265W	K04708
+2258-YBR267W_NumOfGenes_2	K14816
+2259-YBR268W	K17435
+2260-YBR269C
+2261-YBR270C
+2262-YBR271W
+2263-YBR272C
+2264-YBR273C
+2265-YBR274W	K02216
+2266-YBR275C	K11118
+2267-YBR276C	K04459
+2268-YBR278W_NumOfGenes_2	K03506
+2269-YBR279W	K15174
+2270-YBR280C	K15072
+2271-YBR281C	K14262
+2272-YBR282W	K17422
+2273-YBR283C	K10956
+2274-YBR284W
+2275-YBR285W
+2276-YBR286W	K01264
+2277-YBR287W	K07088
+2278-YBR288C	K12398
+2279-YBR289W	K11648
+2280-YBR290W
+2281-YBR291C	K15100
+2282-YBR292C
+2283-YBR293W
+2284-YBR294W	K14708
+2285-YBR295W	K01533
+2286-YBR296C	K14640
+2287-YBR296C-A
+2288-YBR297W
+2289-YBR298C_NumOfGenes_2	K08141
+2290-YCL001W
+2291-YCL001W-A
+2292-YCL001W-B
+2293-YCL002C
+2294-YCL004W	K00995
+2295-YCL005W
+2296-YCL005W-A_NumOfGenes_2
+2297-YCL008C_NumOfGenes_2	K12183
+2298-YCL009C_NumOfGenes_2	K01653
+2299-YCL010C_NumOfGenes_2	K11364
+2300-YCL011C_NumOfGenes_2
+2301-YCL012C
+2302-YCL014W
+2303-YCL016C	K11271
+2304-YCL017C	K04487
+2305-YCL018W	K00052
+2306-YCL021W-A_NumOfGenes_2
+2307-YCL022C_NumOfGenes_2
+2308-YCL023C
+2309-YCL025C	K16261
+2310-YCL026C-A	K07078
+2311-YCL026C-B
+2312-YCL027W	K11243
+2313-YCL028W
+2314-YCL029C
+2315-YCL030C	K14152
+2316-YCL031C	K14545
+2317-YCL032W	K19841
+2318-YCL033C	K07305
+2319-YCL034W	K20524
+2320-YCL035C	K03676
+2321-YCL036W
+2322-YCL037C	K18757
+2323-YCL038C	K06902
+2324-YCL039W	K22382
+2325-YCL040W	K00844
+2326-YCL041C
+2327-YCL042W
+2328-YCL043C	K09580
+2329-YCL044C
+2330-YCL045C_NumOfGenes_2
+2331-YCL047C	K19785
+2332-YCL048W
+2333-YCL048W-A_NumOfGenes_2
+2334-YCL049C
+2335-YCL050C	K00988
+2336-YCL051W
+2337-YCL052C	K07541
+2338-YCL054W	K14857
+2339-YCL054W-A
+2340-YCL055W
+2341-YCL056C
+2342-YCL057C-A	K17784
+2343-YCL057W	K01405
+2344-YCL058W-A_NumOfGenes_2
+2345-YCL059C	K06961
+2346-YCL061C	K11272
+2347-YCL063W
+2348-YCL064C	K17989
+2349-YCL067C_NumOfGenes_3	K09359
+2350-YCR001W
+2351-YCR002C	K16938
+2352-YCR003W	K02911
+2353-YCR004C
+2354-YCR005C	K01647
+2355-YCR006C
+2356-YCR007C
+2357-YCR008W	K08286
+2358-YCR009C	K20120
+2359-YCR010C	K07034
+2360-YCR011C
+2361-YCR012W_NumOfGenes_2	K00927
+2362-YCR014C	K10981
+2363-YCR015C
+2364-YCR016W
+2365-YCR017C
+2366-YCR018C	K14858
+2367-YCR019W
+2368-YCR020C
+2369-YCR020C-A	K20824
+2370-YCR020W-B	K11769
+2371-YCR021C
+2372-YCR022C
+2373-YCR023C
+2374-YCR024C	K01893
+2375-YCR024C-A
+2376-YCR024C-B
+2377-YCR025C
+2378-YCR026C
+2379-YCR027C	K07208
+2380-YCR028C	K03448
+2381-YCR028C-A
+2382-YCR030C	K20042
+2383-YCR031C
+2384-YCR032W
+2385-YCR033W
+2386-YCR034W	K10245
+2387-YCR035C	K12586
+2388-YCR036W	K00852
+2389-YCR037C	K14430
+2390-YCR038C_NumOfGenes_3
+2391-YCR040W_NumOfGenes_2
+2392-YCR041W_NumOfGenes_2
+2393-YCR042C	K03128
+2394-YCR043C
+2395-YCR044C
+2396-YCR045W-A_NumOfGenes_2
+2397-YCR046C
+2398-YCR047C_NumOfGenes_2	K19306
+2399-YCR048W_NumOfGenes_3	K00637
+2400-YCR051W	K06867
+2401-YCR052W	K11760
+2402-YCR053W	K01733
+2403-YCR054C	K19323
+2404-YCR057C	K14558
+2405-YCR059C
+2406-YCR060W_NumOfGenes_2
+2407-YCR061W
+2408-YCR063W	K12873
+2409-YCR064C
+2410-YCR065W	K09413
+2411-YCR066W	K10627
+2412-YCR067C	K14003
+2413-YCR068W	K17900
+2414-YCR069W	K01802
+2415-YCR071C	K17430
+2416-YCR072C	K14855
+2417-YCR073C	K11230
+2418-YCR073W-A	K01057
+2419-YCR075C	K12386
+2420-YCR075W-A
+2421-YCR076C
+2422-YCR077C	K12617
+2423-YCR079W	K19708
+2424-YCR081W_NumOfGenes_2	K15163
+2425-YCR082W	K11371
+2426-YCR083W	K03671
+2427-YCR084C	K06666
+2428-YCR085W
+2429-YCR086W
+2430-YCR087W_NumOfGenes_2
+2431-YCR088W	K20520
+2432-YCR089W
+2433-YCR090C
+2434-YCR091W	K08286
+2435-YCR092C	K08736
+2436-YCR093W	K12604
+2437-YCR094W
+2438-YCR095C
+2439-YCR095W-A
+2440-YCR097W	K09358
+2441-YCR097W-A
+2442-YCR098C_NumOfGenes_2
+2443-YCR099C
+2444-YCR100C
+2445-YCR101C
+2446-YCR102C_NumOfGenes_2
+2447-YCR102W-A
+2448-YCR105W	K00002
+2449-YCR106W
+2450-YCR107W_NumOfGenes_4
+2451-YCR108C_NumOfGenes_2
+2452-YDL001W
+2453-YDL002C	K11680
+2454-YDL003W	K06670
+2455-YDL004W	K02134
+2456-YDL005C	K15154
+2457-YDL006W	K19704
+2458-YDL007C-A
+2459-YDL007W	K03062
+2460-YDL008W	K03358
+2461-YDL009C
+2462-YDL010W_NumOfGenes_2
+2463-YDL012C
+2464-YDL013W	K22645
+2465-YDL014W	K14563
+2466-YDL015C	K10258
+2467-YDL016C
+2468-YDL017W	K02214
+2469-YDL018C
+2470-YDL019C	K20456
+2471-YDL020C	K03034
+2472-YDL021W	K01834
+2473-YDL022C-A
+2474-YDL022W_NumOfGenes_2	K00006
+2475-YDL024C	K01078
+2476-YDL025C_NumOfGenes_2
+2477-YDL026W
+2478-YDL027C
+2479-YDL028C	K08866
+2480-YDL029W	K17260
+2481-YDL030W	K12827
+2482-YDL031W	K14808
+2483-YDL032W
+2484-YDL033C	K21027
+2485-YDL035C_NumOfGenes_2	K12762
+2486-YDL036C	K15454
+2487-YDL037C
+2488-YDL039C
+2489-YDL040C	K20792
+2490-YDL042C_NumOfGenes_2	K11121
+2491-YDL043C	K12826
+2492-YDL044C
+2493-YDL045C	K00953
+2494-YDL045W-A
+2495-YDL046W
+2496-YDL047W	K15427
+2497-YDL048C
+2498-YDL049C
+2499-YDL051W_NumOfGenes_2	K11090
+2500-YDL052C	K13509
+2501-YDL053C
+2502-YDL054C
+2503-YDL055C	K00966
+2504-YDL056W	K06647
+2505-YDL057W
+2506-YDL058W	K20361
+2507-YDL059C	K10959
+2508-YDL060W	K14799
+2509-YDL061C	K02980
+2510-YDL062W
+2511-YDL063C
+2512-YDL064W
+2513-YDL065C	K13337
+2514-YDL066W	K00031
+2515-YDL067C	K02269
+2516-YDL069C_NumOfGenes_2	K17664
+2517-YDL070W	K11684
+2518-YDL071C
+2519-YDL072C	K14009
+2520-YDL073W
+2521-YDL074C_NumOfGenes_2	K10696
+2522-YDL075W
+2523-YDL076C
+2524-YDL077C	K20183
+2525-YDL078C	K00026
+2526-YDL079C
+2527-YDL080C	K01568
+2528-YDL081C	K02942
+2529-YDL082W
+2530-YDL083C	K02960
+2531-YDL084W	K12812
+2532-YDL085C-A
+2533-YDL085W	K17871
+2534-YDL086W_NumOfGenes_2	K01061
+2535-YDL087C
+2536-YDL088C	K18717
+2537-YDL089W
+2538-YDL090C	K05954
+2539-YDL091C	K18726
+2540-YDL092W	K03104
+2541-YDL093W	K00728
+2542-YDL094C
+2543-YDL095W_NumOfGenes_2	K00728
+2544-YDL097C	K03036
+2545-YDL098C	K12848
+2546-YDL099W
+2547-YDL100C	K01551
+2548-YDL101C	K06641
+2549-YDL102W	K02327
+2550-YDL103C	K00972
+2551-YDL104C	K01409
+2552-YDL105W
+2553-YDL106C	K02646
+2554-YDL107W	K17798
+2555-YDL108W	K02202
+2556-YDL109C
+2557-YDL110C
+2558-YDL111C	K12589
+2559-YDL112W	K15333
+2560-YDL113C	K21996
+2561-YDL114W
+2562-YDL115C_NumOfGenes_2
+2563-YDL116W	K14301
+2564-YDL117W
+2565-YDL119C_NumOfGenes_2	K15118
+2566-YDL120W	K19054
+2567-YDL121C
+2568-YDL122W	K11870
+2569-YDL123W
+2570-YDL124W
+2571-YDL125C
+2572-YDL126C	K13525
+2573-YDL127W	K06657
+2574-YDL128W	K07300
+2575-YDL129W
+2576-YDL130W
+2577-YDL130W-A	K22255
+2578-YDL132W	K03347
+2579-YDL133W
+2580-YDL134C	K04382
+2581-YDL135C	K12462
+2582-YDL136W	K02918
+2583-YDL137W	K07937
+2584-YDL138W	K08139
+2585-YDL139C
+2586-YDL140C_NumOfGenes_2	K03006
+2587-YDL141W	K01942
+2588-YDL142C	K08744
+2589-YDL143W	K09496
+2590-YDL144C
+2591-YDL145C	K05236
+2592-YDL146W
+2593-YDL147W	K03035
+2594-YDL148C	K14766
+2595-YDL149W	K17907
+2596-YDL150W_NumOfGenes_2	K03026
+2597-YDL152W
+2598-YDL153C	K14767
+2599-YDL154W	K08741
+2600-YDL155W	K06659
+2601-YDL156W
+2602-YDL157C
+2603-YDL158C
+2604-YDL159W_NumOfGenes_3	K11226
+2605-YDL159W-A
+2606-YDL160C	K12614
+2607-YDL160C-A
+2608-YDL161W	K12471
+2609-YDL162C
+2610-YDL164C_NumOfGenes_2	K10747
+2611-YDL165W	K12605
+2612-YDL166C	K18532
+2613-YDL167C
+2614-YDL168W	K00121
+2615-YDL169C
+2616-YDL170W	K09245
+2617-YDL171C	K00264
+2618-YDL173W_NumOfGenes_2
+2619-YDL174C	K00102
+2620-YDL175C	K12597
+2621-YDL176W
+2622-YDL177C
+2623-YDL178W	K21618
+2624-YDL179W
+2625-YDL180W
+2626-YDL181W	K22255
+2627-YDL182W_NumOfGenes_2	K01655
+2628-YDL183C
+2629-YDL185C-A
+2630-YDL185W	K02145
+2631-YDL186W
+2632-YDL187C
+2633-YDL188C	K04382
+2634-YDL189W
+2635-YDL190C	K10597
+2636-YDL191W
+2637-YDL192W	K07937
+2638-YDL193W	K19177
+2639-YDL194W	K08139
+2640-YDL195W	K14005
+2641-YDL196W
+2642-YDL197C
+2643-YDL198C
+2644-YDL199C
+2645-YDL200C	K00567
+2646-YDL201W	K03439
+2647-YDL202W	K02864
+2648-YDL203C	K07126
+2649-YDL204W
+2650-YDL205C	K01749
+2651-YDL206W
+2652-YDL207W	K18723
+2653-YDL208W	K11129
+2654-YDL209C
+2655-YDL210W
+2656-YDL211C
+2657-YDL212W
+2658-YDL213C	K14789
+2659-YDL214C
+2660-YDL215C	K15371
+2661-YDL216C	K09613
+2662-YDL217C	K17790
+2663-YDL218W
+2664-YDL219W
+2665-YDL220C	K11115
+2666-YDL221W
+2667-YDL222C
+2668-YDL223C
+2669-YDL224C
+2670-YDL225W	K16946
+2671-YDL226C	K12492
+2672-YDL227C
+2673-YDL229W_NumOfGenes_3	K03283
+2674-YDL230W_NumOfGenes_2	K01104
+2675-YDL231C_NumOfGenes_3
+2676-YDL232W	K00730
+2677-YDL233W_NumOfGenes_2
+2678-YDL234C_NumOfGenes_2	K20168
+2679-YDL235C	K11232
+2680-YDL236W	K01101
+2681-YDL237W
+2682-YDL238C	K01487
+2683-YDL239C
+2684-YDL240C-A
+2685-YDL240W
+2686-YDL241W
+2687-YDL242W_NumOfGenes_2
+2688-YDL243C
+2689-YDL247W_NumOfGenes_2	K08141
+2690-YDL247W-A
+2691-YDR001C	K01194
+2692-YDR002W	K15306
+2693-YDR003W
+2694-YDR003W-A
+2695-YDR004W	K10958
+2696-YDR005C
+2697-YDR006C
+2698-YDR007W_NumOfGenes_2	K01817
+2699-YDR009W	K00849
+2700-YDR010C
+2701-YDR011W	K08712
+2702-YDR012W_NumOfGenes_2	K02930
+2703-YDR013W	K10732
+2704-YDR014W
+2705-YDR014W-A_NumOfGenes_3
+2706-YDR016C_NumOfGenes_2	K11553
+2707-YDR017C	K07756
+2708-YDR018C
+2709-YDR019C	K00605
+2710-YDR020C	K00876
+2711-YDR021W	K13025
+2712-YDR022C	K21144
+2713-YDR023W	K01875
+2714-YDR024W
+2715-YDR025W	K02949
+2716-YDR026C	K09424
+2717-YDR027C	K17600
+2718-YDR028C
+2719-YDR029W
+2720-YDR030C	K10570
+2721-YDR031W
+2722-YDR032C
+2723-YDR033W
+2724-YDR034C
+2725-YDR034C-A
+2726-YDR034W-B
+2727-YDR035W_NumOfGenes_2	K01626
+2728-YDR036C	K05605
+2729-YDR037W	K04567
+2730-YDR038C_NumOfGenes_3	K01536
+2731-YDR041W	K02946
+2732-YDR042C
+2733-YDR043C
+2734-YDR044W	K00228
+2735-YDR045C_NumOfGenes_2	K03019
+2736-YDR046C_NumOfGenes_2
+2737-YDR047W_NumOfGenes_2	K01599
+2738-YDR048C
+2739-YDR049W_NumOfGenes_2
+2740-YDR050C_NumOfGenes_2	K01803
+2741-YDR051C
+2742-YDR052C_NumOfGenes_2	K02309
+2743-YDR054C	K02207
+2744-YDR055W
+2745-YDR056C
+2746-YDR057W	K10088
+2747-YDR058C	K01046
+2748-YDR059C	K06689
+2749-YDR060W	K14832
+2750-YDR061W
+2751-YDR062W	K00654
+2752-YDR063W
+2753-YDR064W
+2754-YDR065W
+2755-YDR066C	K20827
+2756-YDR067C	K18046
+2757-YDR068W
+2758-YDR069C	K11839
+2759-YDR070C
+2760-YDR071C
+2761-YDR072C	K22725
+2762-YDR073W	K11774
+2763-YDR074W	K16055
+2764-YDR075W	K15423
+2765-YDR076W	K10957
+2766-YDR077W
+2767-YDR078C
+2768-YDR079C-A	K10845
+2769-YDR079W	K18187
+2770-YDR080W	K20184
+2771-YDR081C
+2772-YDR082W	K11117
+2773-YDR083W	K14850
+2774-YDR084C
+2775-YDR085C
+2776-YDR086C	K07342
+2777-YDR087C	K14849
+2778-YDR088C	K12819
+2779-YDR089W
+2780-YDR090C
+2781-YDR091C	K06174
+2782-YDR092W
+2783-YDR093W_NumOfGenes_2	K01530
+2784-YDR095C
+2785-YDR096W	K19798
+2786-YDR097C	K08737
+2787-YDR098C
+2788-YDR099W_NumOfGenes_2	K06630
+2789-YDR100W
+2790-YDR101C	K14813
+2791-YDR102C
+2792-YDR103W	K11239
+2793-YDR104C
+2794-YDR105C_NumOfGenes_2
+2795-YDR106W_NumOfGenes_2
+2796-YDR107C	K17086
+2797-YDR108W	K20305
+2798-YDR109C
+2799-YDR110W	K12577
+2800-YDR111C	K00814
+2801-YDR112W
+2802-YDR113C	K02627
+2803-YDR114C
+2804-YDR115W	K02914
+2805-YDR116C
+2806-YDR117C	K15027
+2807-YDR118W	K03351
+2808-YDR118W-A
+2809-YDR119W
+2810-YDR119W-A
+2811-YDR120C	K00555
+2812-YDR121W	K02326
+2813-YDR122W	K19852
+2814-YDR123C	K09102
+2815-YDR124W
+2816-YDR125C
+2817-YDR126W	K20003
+2818-YDR127W	K13830
+2819-YDR128W	K20409
+2820-YDR129C	K17275
+2821-YDR130C
+2822-YDR131C
+2823-YDR132C
+2824-YDR133C
+2825-YDR134C
+2826-YDR135C
+2827-YDR136C
+2828-YDR137W	K20477
+2829-YDR138W	K18712
+2830-YDR139C	K12158
+2831-YDR140W	K19589
+2832-YDR141C
+2833-YDR142C	K13341
+2834-YDR143C
+2835-YDR144C	K06009
+2836-YDR145W	K03126
+2837-YDR146C	K09202
+2838-YDR147W	K00894
+2839-YDR148C	K00658
+2840-YDR150W_NumOfGenes_2	K17978
+2841-YDR151C
+2842-YDR152W
+2843-YDR153C
+2844-YDR154C
+2845-YDR155C	K01802
+2846-YDR156W	K03001
+2847-YDR157W
+2848-YDR158W	K00133
+2849-YDR159W
+2850-YDR160W	K16261
+2851-YDR161W
+2852-YDR162C
+2853-YDR163W	K12863
+2854-YDR164C	K15292
+2855-YDR165W	K15443
+2856-YDR166C	K17637
+2857-YDR167W	K03134
+2858-YDR168W	K09554
+2859-YDR169C
+2860-YDR169C-A
+2861-YDR170C	K18442
+2862-YDR171W	K13993
+2863-YDR172W	K03267
+2864-YDR173C	K00915
+2865-YDR174W	K22483
+2866-YDR175C	K17413
+2867-YDR176W	K11315
+2868-YDR177W	K04649
+2869-YDR178W	K00237
+2870-YDR179C
+2871-YDR179W-A
+2872-YDR180W	K06672
+2873-YDR181C	K11402
+2874-YDR182W
+2875-YDR182W-A
+2876-YDR183C-A
+2877-YDR183W
+2878-YDR184C
+2879-YDR185C
+2880-YDR186C
+2881-YDR187C
+2882-YDR188W	K09498
+2883-YDR189W	K19998
+2884-YDR190C	K04499
+2885-YDR191W	K11121
+2886-YDR192C_NumOfGenes_2	K18716
+2887-YDR194C	K17679
+2888-YDR194W-A
+2889-YDR195W	K15543
+2890-YDR196C	K00859
+2891-YDR197W	K17665
+2892-YDR198C
+2893-YDR199W
+2894-YDR200C
+2895-YDR201W	K11572
+2896-YDR202C_NumOfGenes_2
+2897-YDR204W	K18586
+2898-YDR205W	K14692
+2899-YDR206W	K11132
+2900-YDR207C	K09243
+2901-YDR208W	K00889
+2902-YDR210W_NumOfGenes_2
+2903-YDR211W	K03240
+2904-YDR212W	K09493
+2905-YDR213W
+2906-YDR214W
+2907-YDR215C
+2908-YDR216W	K09466
+2909-YDR217C	K06661
+2910-YDR218C	K16947
+2911-YDR219C
+2912-YDR220C
+2913-YDR221W	K08288
+2914-YDR222W
+2915-YDR223W
+2916-YDR224C	K11252
+2917-YDR225W	K11251
+2918-YDR226W	K00939
+2919-YDR227W	K11123
+2920-YDR228C	K14400
+2921-YDR229W
+2922-YDR231C_NumOfGenes_2	K18184
+2923-YDR232W	K00643
+2924-YDR233C
+2925-YDR234W	K01705
+2926-YDR235W
+2927-YDR236C	K00861
+2928-YDR237W	K02931
+2929-YDR238C	K17301
+2930-YDR239C
+2931-YDR240C
+2932-YDR241W
+2933-YDR242W	K01426
+2934-YDR243C	K12858
+2935-YDR244W	K13342
+2936-YDR245W	K05531
+2937-YDR246W	K20303
+2938-YDR246W-A
+2939-YDR247W
+2940-YDR248C	K00851
+2941-YDR249C
+2942-YDR250C
+2943-YDR251W
+2944-YDR252W
+2945-YDR253C
+2946-YDR254W	K11551
+2947-YDR255C
+2948-YDR256C	K03781
+2949-YDR257C	K05302
+2950-YDR258C
+2951-YDR259C	K09043
+2952-YDR260C	K12416
+2953-YDR261C	K01210
+2954-YDR262W
+2955-YDR263C
+2956-YDR264C	K20032
+2957-YDR265W	K13346
+2958-YDR266C	K22381
+2959-YDR267C
+2960-YDR268W	K01867
+2961-YDR270W_NumOfGenes_3	K17686
+2962-YDR272W	K01069
+2963-YDR273W
+2964-YDR274C
+2965-YDR275W
+2966-YDR276C
+2967-YDR277C
+2968-YDR278C
+2969-YDR279W
+2970-YDR280W	K03678
+2971-YDR281C
+2972-YDR282C
+2973-YDR283C	K16196
+2974-YDR284C	K18693
+2975-YDR285W	K12768
+2976-YDR286C
+2977-YDR287W	K01092
+2978-YDR288W
+2979-YDR289C	K15559
+2980-YDR290W
+2981-YDR291W	K06877
+2982-YDR292C	K13431
+2983-YDR293C	K18748
+2984-YDR294C	K01634
+2985-YDR295C
+2986-YDR296W
+2987-YDR297W	K04713
+2988-YDR298C	K02137
+2989-YDR299W	K14782
+2990-YDR300C	K00931
+2991-YDR301W	K14401
+2992-YDR302W	K05287
+2993-YDR303C	K11758
+2994-YDR304C	K03770
+2995-YDR305C	K01522
+2996-YDR306C
+2997-YDR307W	K00728
+2998-YDR308C	K15152
+2999-YDR309C
+3000-YDR310C	K12779
+3001-YDR311W	K03141
+3002-YDR312W	K14859
+3003-YDR313C
+3004-YDR314C
+3005-YDR315C	K19786
+3006-YDR316W	K17803
+3007-YDR317W
+3008-YDR318W
+3009-YDR319C
+3010-YDR320C
+3011-YDR320C-A	K11569
+3012-YDR320W-B
+3013-YDR321W	K01424
+3014-YDR322C-A	K01549
+3015-YDR322W	K17439
+3016-YDR323C	K12481
+3017-YDR324C	K14548
+3018-YDR325W	K06678
+3019-YDR326C
+3020-YDR327W
+3021-YDR328C	K03094
+3022-YDR329C	K13336
+3023-YDR330W
+3024-YDR331W	K05290
+3025-YDR332W	K17677
+3026-YDR333C
+3027-YDR334W	K11681
+3028-YDR335W	K14289
+3029-YDR336W
+3030-YDR337W	K02956
+3031-YDR338C	K03327
+3032-YDR339C	K14566
+3033-YDR340W
+3034-YDR341C	K01887
+3035-YDR342C_NumOfGenes_2	K08139
+3036-YDR344C
+3037-YDR345C_NumOfGenes_2	K08139
+3038-YDR346C
+3039-YDR347W	K04564
+3040-YDR348C
+3041-YDR349C_NumOfGenes_2
+3042-YDR350C	K17673
+3043-YDR351W
+3044-YDR352W
+3045-YDR353W	K00384
+3046-YDR354W_NumOfGenes_2	K00766
+3047-YDR356W_NumOfGenes_2
+3048-YDR357C	K22240
+3049-YDR358W
+3050-YDR359C	K11397
+3051-YDR360W
+3052-YDR361C	K15262
+3053-YDR362C	K15205
+3054-YDR363W
+3055-YDR363W-A	K10881
+3056-YDR364C	K12816
+3057-YDR365C
+3058-YDR367W
+3059-YDR368W
+3060-YDR369C	K10868
+3061-YDR370C
+3062-YDR371W_NumOfGenes_2	K01183
+3063-YDR372C	K15620
+3064-YDR373W	K19932
+3065-YDR374C
+3066-YDR374W-A
+3067-YDR375C	K08900
+3068-YDR376W	K18914
+3069-YDR377W	K02139
+3070-YDR378C	K12625
+3071-YDR379C-A
+3072-YDR379W	K19839
+3073-YDR380W	K12732
+3074-YDR381C-A
+3075-YDR381W	K12881
+3076-YDR382W	K02943
+3077-YDR383C
+3078-YDR384C	K07034
+3079-YDR385W_NumOfGenes_2	K03234
+3080-YDR386W	K08991
+3081-YDR387C
+3082-YDR388W	K12562
+3083-YDR389W	K19845
+3084-YDR390C	K10685
+3085-YDR391C
+3086-YDR392W	K11313
+3087-YDR393W	K17983
+3088-YDR394W	K03063
+3089-YDR395W	K20223
+3090-YDR397C_NumOfGenes_2
+3091-YDR398W	K14546
+3092-YDR399W	K19836
+3093-YDR400W	K01240
+3094-YDR402C_NumOfGenes_2	K00493
+3095-YDR403W
+3096-YDR404C	K03015
+3097-YDR405W	K02892
+3098-YDR406W
+3099-YDR406W-A
+3100-YDR407C	K20306
+3101-YDR408C	K00601
+3102-YDR409W	K04706
+3103-YDR410C	K00587
+3104-YDR411C	K13989
+3105-YDR412W_NumOfGenes_2	K14851
+3106-YDR414C
+3107-YDR415C
+3108-YDR416W	K12867
+3109-YDR418W_NumOfGenes_2	K02870
+3110-YDR419W	K03509
+3111-YDR420W	K19848
+3112-YDR421W
+3113-YDR422C
+3114-YDR423C	K09043
+3115-YDR424C
+3116-YDR425W_NumOfGenes_2	K21996
+3117-YDR427W	K03039
+3118-YDR428C	K14263
+3119-YDR429C	K03248
+3120-YDR430C	K06972
+3121-YDR431W
+3122-YDR432W_NumOfGenes_2	K14651
+3123-YDR434W	K05291
+3124-YDR435C	K18203
+3125-YDR436W	K06269
+3126-YDR437W	K03861
+3127-YDR438W	K15289
+3128-YDR439W	K12775
+3129-YDR440W	K11427
+3130-YDR441C	K00759
+3131-YDR443C_NumOfGenes_2	K15165
+3132-YDR444W
+3133-YDR445C
+3134-YDR446W
+3135-YDR447C
+3136-YDR448W	K11314
+3137-YDR449C	K14557
+3138-YDR450W	K02964
+3139-YDR451C	K12411
+3140-YDR452W	K06018
+3141-YDR453C	K03386
+3142-YDR454C	K00942
+3143-YDR455C
+3144-YDR456W	K12041
+3145-YDR457W	K10592
+3146-YDR458C
+3147-YDR459C	K18932
+3148-YDR460W	K10842
+3149-YDR461C-A
+3150-YDR461W	K11235
+3151-YDR462W	K17421
+3152-YDR463W
+3153-YDR464W_NumOfGenes_2
+3154-YDR465C	K18477
+3155-YDR466W	K06276
+3156-YDR467C
+3157-YDR468C	K08499
+3158-YDR469W	K14968
+3159-YDR470C	K17967
+3160-YDR471W	K02901
+3161-YDR472W	K20280
+3162-YDR473C	K12843
+3163-YDR475C
+3164-YDR476C
+3165-YDR477W	K12761
+3166-YDR478W	K14531
+3167-YDR479C
+3168-YDR480W	K11242
+3169-YDR481C	K01077
+3170-YDR482C
+3171-YDR483W	K10967
+3172-YDR484W	K20298
+3173-YDR485C	K11664
+3174-YDR486C	K12198
+3175-YDR487C	K02858
+3176-YDR488C	K10415
+3177-YDR489W	K10735
+3178-YDR490C	K06276
+3179-YDR491C
+3180-YDR492W	K07297
+3181-YDR493W	K18170
+3182-YDR494W
+3183-YDR495C	K20177
+3184-YDR496C	K14844
+3185-YDR497C	K08150
+3186-YDR498C	K08497
+3187-YDR499W	K12578
+3188-YDR500C
+3189-YDR501W
+3190-YDR502C	K00789
+3191-YDR503C
+3192-YDR504C
+3193-YDR505C
+3194-YDR506C
+3195-YDR507C_NumOfGenes_2	K06668
+3196-YDR508C_NumOfGenes_2	K16261
+3197-YDR509W
+3198-YDR510C-A
+3199-YDR510W_NumOfGenes_2	K12160
+3200-YDR511W_NumOfGenes_3
+3201-YDR512C_NumOfGenes_2
+3202-YDR513W_NumOfGenes_2
+3203-YDR514C_NumOfGenes_2
+3204-YDR515W_NumOfGenes_2
+3205-YDR516C_NumOfGenes_2	K00844
+3206-YDR517W
+3207-YDR518W	K09580
+3208-YDR519W	K09569
+3209-YDR520C_NumOfGenes_2
+3210-YDR522C
+3211-YDR523C	K12771
+3212-YDR524C	K12488
+3213-YDR524C-A
+3214-YDR524C-B
+3215-YDR524W-C
+3216-YDR525W
+3217-YDR525W-A
+3218-YDR527W_NumOfGenes_2	K20826
+3219-YDR528W
+3220-YDR529C	K00417
+3221-YDR530C	K00988
+3222-YDR531W	K09680
+3223-YDR532C	K05749
+3224-YDR533C_NumOfGenes_2	K22211
+3225-YDR534C_NumOfGenes_2
+3226-YDR535C
+3227-YDR536W
+3228-YDR538W_NumOfGenes_2	K03186
+3229-YDR539W	K20039
+3230-YDR540C
+3231-YDR541C
+3232-YDR544C
+3233-YEL001C
+3234-YEL002C	K12670
+3235-YEL003W
+3236-YEL004W	K15278
+3237-YEL005C	K22242
+3238-YEL006W	K15115
+3239-YEL007W	K21631
+3240-YEL008W_NumOfGenes_2
+3241-YEL009C	K09464
+3242-YEL009C-A
+3243-YEL010W
+3244-YEL011W	K00700
+3245-YEL012W	K10576
+3246-YEL013W	K08332
+3247-YEL014C
+3248-YEL015W	K12615
+3249-YEL016C
+3250-YEL017C-A
+3251-YEL017W
+3252-YEL018W_NumOfGenes_2	K11398
+3253-YEL019C	K22756
+3254-YEL020C	K12261
+3255-YEL020W-A_NumOfGenes_2	K17777
+3256-YEL021W	K01591
+3257-YEL022W	K18443
+3258-YEL023C
+3259-YEL024W	K00411
+3260-YEL025C
+3261-YEL026W	K12845
+3262-YEL027W	K02155
+3263-YEL028W
+3264-YEL029C	K00868
+3265-YEL030W_NumOfGenes_2
+3266-YEL031W	K14950
+3267-YEL032W_NumOfGenes_2	K02541
+3268-YEL033W
+3269-YEL034W_NumOfGenes_2	K03263
+3270-YEL035C
+3271-YEL036C	K05533
+3272-YEL037C	K10839
+3273-YEL038W	K09880
+3274-YEL039C	K08738
+3275-YEL040W
+3276-YEL041W
+3277-YEL042W	K01526
+3278-YEL043W
+3279-YEL044W	K11667
+3280-YEL045C
+3281-YEL046C	K01620
+3282-YEL047C	K18561
+3283-YEL048C	K20312
+3284-YEL050C_NumOfGenes_2
+3285-YEL050W-A
+3286-YEL051W_NumOfGenes_2	K02149
+3287-YEL052W_NumOfGenes_2	K18798
+3288-YEL053C_NumOfGenes_2	K20823
+3289-YEL054C_NumOfGenes_3	K02870
+3290-YEL055C_NumOfGenes_2	K02331
+3291-YEL056W_NumOfGenes_2	K10752
+3292-YEL057C_NumOfGenes_2
+3293-YEL058W_NumOfGenes_2	K01836
+3294-YEL059C-A	K17802
+3295-YEL059W
+3296-YEL060C_NumOfGenes_2	K01336
+3297-YEL061C
+3298-YEL062W	K20405
+3299-YEL063C	K16261
+3300-YEL064C	K14997
+3301-YEL065W	K08197
+3302-YEL066W	K18852
+3303-YEL067C
+3304-YEL068C
+3305-YEL071W	K21618
+3306-YEL072W
+3307-YEL073C
+3308-YEL074W
+3309-YEL075W-A_NumOfGenes_2
+3310-YER001W	K05538
+3311-YER002W	K14839
+3312-YER003C	K01809
+3313-YER004W
+3314-YER005W	K14642
+3315-YER006C-A
+3316-YER006W	K14538
+3317-YER007C-A
+3318-YER007W	K21768
+3319-YER008C	K19983
+3320-YER009W_NumOfGenes_2
+3321-YER010C_NumOfGenes_2
+3322-YER011W_NumOfGenes_2
+3323-YER012W	K02734
+3324-YER013W	K12818
+3325-YER014C-A
+3326-YER014W	K00231
+3327-YER015W	K01897
+3328-YER016W	K10436
+3329-YER017C	K08956
+3330-YER018C	K11558
+3331-YER019C-A	K09481
+3332-YER019W	K12351
+3333-YER020W	K04630
+3334-YER021W	K03033
+3335-YER022W	K15134
+3336-YER023W_NumOfGenes_2	K00286
+3337-YER024W	K00624
+3338-YER025W	K03242
+3339-YER026C	K17103
+3340-YER027C
+3341-YER028C	K09467
+3342-YER029C	K11086
+3343-YER030W
+3344-YER031C	K07905
+3345-YER032W
+3346-YER033C
+3347-YER034W
+3348-YER035W	K18759
+3349-YER036C	K06185
+3350-YER037W	K07025
+3351-YER038C
+3352-YER038W-A_NumOfGenes_2
+3353-YER039C-A
+3354-YER040W	K09184
+3355-YER041W	K15339
+3356-YER042W	K07304
+3357-YER043C	K01251
+3358-YER044C
+3359-YER044C-A
+3360-YER045C
+3361-YER046W_NumOfGenes_2
+3362-YER046W-A
+3363-YER047C	K22766
+3364-YER048C
+3365-YER048W-A	K22069
+3366-YER049W
+3367-YER050C	K02963
+3368-YER051W	K10276
+3369-YER052C	K00928
+3370-YER053C	K15102
+3371-YER053C-A
+3372-YER054C
+3373-YER055C	K00765
+3374-YER056C
+3375-YER056C-A
+3376-YER057C
+3377-YER058W	K18188
+3378-YER059W
+3379-YER060W
+3380-YER060W-A
+3381-YER061C_NumOfGenes_2	K09458
+3382-YER062C_NumOfGenes_2	K06117
+3383-YER063W	K18732
+3384-YER064C
+3385-YER065C	K01637
+3386-YER066C-A
+3387-YER066W
+3388-YER067W_NumOfGenes_2
+3389-YER068C-A
+3390-YER068W	K10643
+3391-YER069W	K12659
+3392-YER070W	K10807
+3393-YER071C
+3394-YER072W
+3395-YER073W	K00128
+3396-YER074W
+3397-YER074W-A
+3398-YER075C	K19806
+3399-YER076C
+3400-YER076W-A
+3401-YER077C
+3402-YER078C	K18573
+3403-YER078W-A
+3404-YER079W
+3405-YER080W_NumOfGenes_2
+3406-YER081W	K00058
+3407-YER082C	K14768
+3408-YER083C	K22386
+3409-YER084W
+3410-YER085C_NumOfGenes_2
+3411-YER086W	K01754
+3412-YER087C-B	K09481
+3413-YER087W_NumOfGenes_2	K01881
+3414-YER088C
+3415-YER088C-A
+3416-YER089C_NumOfGenes_2	K14803
+3417-YER090W_NumOfGenes_2	K01657
+3418-YER091C	K00549
+3419-YER091C-A
+3420-YER092W	K11679
+3421-YER093C	K08267
+3422-YER093C-A
+3423-YER094C	K02735
+3424-YER095W	K04482
+3425-YER096W	K07126
+3426-YER097W
+3427-YER098W_NumOfGenes_2	K11872
+3428-YER099C_NumOfGenes_2	K00948
+3429-YER100W_NumOfGenes_2	K04554
+3430-YER101C_NumOfGenes_2
+3431-YER102W_NumOfGenes_2	K02995
+3432-YER103W	K03283
+3433-YER104W
+3434-YER105C	K14312
+3435-YER106W	K12774
+3436-YER107C	K14298
+3437-YER107W-A
+3438-YER109C
+3439-YER110C	K20221
+3440-YER111C	K06649
+3441-YER112W	K12623
+3442-YER113C	K17086
+3443-YER114C
+3444-YER115C
+3445-YER116C	K22646
+3446-YER117W	K02894
+3447-YER118C	K11246
+3448-YER119C
+3449-YER119C-A
+3450-YER120W
+3451-YER121W
+3452-YER122C	K12493
+3453-YER123W	K19830
+3454-YER124C
+3455-YER125W	K10591
+3456-YER126C	K14842
+3457-YER127W	K14765
+3458-YER128W
+3459-YER129W	K21157
+3460-YER130C	K21545
+3461-YER131W	K02976
+3462-YER132C
+3463-YER133W	K06269
+3464-YER134C_NumOfGenes_2	K17619
+3465-YER135C
+3466-YER136W	K17255
+3467-YER137C_NumOfGenes_2
+3468-YER139C	K20827
+3469-YER140W
+3470-YER141W	K02259
+3471-YER142C	K01247
+3472-YER143W	K11885
+3473-YER144C	K11839
+3474-YER145C	K07243
+3475-YER146W_NumOfGenes_2	K12624
+3476-YER147C	K06673
+3477-YER148W_NumOfGenes_2	K03120
+3478-YER149C_NumOfGenes_2
+3479-YER150W
+3480-YER151C	K11841
+3481-YER152C_NumOfGenes_2
+3482-YER153C	K17668
+3483-YER154W	K03217
+3484-YER155C	K19844
+3485-YER156C
+3486-YER157W	K20290
+3487-YER158C
+3488-YER159C_NumOfGenes_2	K21752
+3489-YER161C_NumOfGenes_2	K15193
+3490-YER162C	K10838
+3491-YER163C	K07232
+3492-YER164W	K11367
+3493-YER165C-A
+3494-YER165W	K13126
+3495-YER166W	K01530
+3496-YER167W
+3497-YER168C	K00974
+3498-YER169W	K19799
+3499-YER170W_NumOfGenes_2	K00939
+3500-YER171W	K10844
+3501-YER172C	K12854
+3502-YER173W_NumOfGenes_2	K06662
+3503-YER174C
+3504-YER175C	K22438
+3505-YER175W-A
+3506-YER176W
+3507-YER177W	K06630
+3508-YER178W	K00161
+3509-YER179W
+3510-YER180C
+3511-YER180C-A
+3512-YER181C
+3513-YER182W
+3514-YER183C	K01934
+3515-YER184C
+3516-YER185W
+3517-YER186C_NumOfGenes_2
+3518-YER187W
+3519-YER188C-A_NumOfGenes_9
+3520-YER188W_NumOfGenes_2
+3521-YFL001W_NumOfGenes_2	K01855
+3522-YFL002C	K14809
+3523-YFL003C	K08740
+3524-YFL004W
+3525-YFL005W	K07901
+3526-YFL007W	K06699
+3527-YFL008W	K06636
+3528-YFL009W	K03361
+3529-YFL010C
+3530-YFL010W-A
+3531-YFL011W_NumOfGenes_2	K08139
+3532-YFL012W
+3533-YFL012W-A
+3534-YFL013C_NumOfGenes_2	K11675
+3535-YFL014W
+3536-YFL015W-A_NumOfGenes_2
+3537-YFL016C	K03686
+3538-YFL017C	K00621
+3539-YFL017W-A	K11099
+3540-YFL018C	K00382
+3541-YFL019C
+3542-YFL020C_NumOfGenes_2
+3543-YFL021W_NumOfGenes_2	K09184
+3544-YFL022C	K01889
+3545-YFL023W_NumOfGenes_2	K17560
+3546-YFL024C	K11322
+3547-YFL025C	K05294
+3548-YFL026W	K11213
+3549-YFL027C	K20372
+3550-YFL028C	K12608
+3551-YFL029C	K06667
+3552-YFL030W	K00830
+3553-YFL031W_NumOfGenes_3	K16230
+3554-YFL032W
+3555-YFL033C_NumOfGenes_2	K12767
+3556-YFL034C-A_NumOfGenes_2	K02891
+3557-YFL034C-B_NumOfGenes_2
+3558-YFL034W_NumOfGenes_2
+3559-YFL036W_NumOfGenes_2	K10908
+3560-YFL037W_NumOfGenes_2	K07375
+3561-YFL038C_NumOfGenes_2	K07874
+3562-YFL039C_NumOfGenes_2	K05692
+3563-YFL040W_NumOfGenes_2
+3564-YFL041W_NumOfGenes_2	K19791
+3565-YFL041W-A
+3566-YFL042C_NumOfGenes_2
+3567-YFL044C_NumOfGenes_2	K13719
+3568-YFL045C_NumOfGenes_2	K17497
+3569-YFL046W_NumOfGenes_2
+3570-YFL047W_NumOfGenes_2
+3571-YFL048C_NumOfGenes_2	K10080
+3572-YFL049W_NumOfGenes_2	K11776
+3573-YFL050C	K16073
+3574-YFL051C_NumOfGenes_2
+3575-YFL052W_NumOfGenes_2
+3576-YFL053W_NumOfGenes_2	K00863
+3577-YFL054C_NumOfGenes_2	K03441
+3578-YFL055W_NumOfGenes_2	K16261
+3579-YFL056C
+3580-YFL058W_NumOfGenes_4	K18278
+3581-YFL059W_NumOfGenes_3	K06215
+3582-YFL061W_NumOfGenes_3	K06035
+3583-YFL067W
+3584-YFR001W	K14817
+3585-YFR002W	K14309
+3586-YFR003C	K17553
+3587-YFR004W	K03030
+3588-YFR005C	K12847
+3589-YFR006W	K14213
+3590-YFR007W
+3591-YFR008W
+3592-YFR009W_NumOfGenes_2	K06158
+3593-YFR010W	K11843
+3594-YFR011C_NumOfGenes_2	K17788
+3595-YFR012W
+3596-YFR012W-A
+3597-YFR013W
+3598-YFR014C	K08794
+3599-YFR015C	K00693
+3600-YFR016C
+3601-YFR017C
+3602-YFR018C
+3603-YFR019W	K00921
+3604-YFR020W
+3605-YFR021W	K17908
+3606-YFR022W	K20062
+3607-YFR023W
+3608-YFR024C-A
+3609-YFR025C	K04486
+3610-YFR026C
+3611-YFR027W	K11268
+3612-YFR028C	K06639
+3613-YFR029W
+3614-YFR030W	K00380
+3615-YFR031C	K06674
+3616-YFR032C
+3617-YFR032C-A	K02905
+3618-YFR032C-B
+3619-YFR033C	K00416
+3620-YFR034C	K06658
+3621-YFR034W-A
+3622-YFR035C
+3623-YFR036W	K03359
+3624-YFR037C_NumOfGenes_2	K11762
+3625-YFR038W	K19001
+3626-YFR039C
+3627-YFR040W	K15457
+3628-YFR041C
+3629-YFR042W	K21849
+3630-YFR043C
+3631-YFR044C	K15428
+3632-YFR045W
+3633-YFR046C
+3634-YFR047C	K00767
+3635-YFR048W
+3636-YFR049W	K17417
+3637-YFR050C	K02736
+3638-YFR051C	K20471
+3639-YFR052C-A
+3640-YFR052W	K03031
+3641-YFR053C	K00844
+3642-YFR054C
+3643-YFR055W	K01760
+3644-YFR056C
+3645-YFR057W
+3646-YGL001C	K07748
+3647-YGL002W	K20346
+3648-YGL003C	K03364
+3649-YGL004C	K11887
+3650-YGL005C
+3651-YGL006W	K01537
+3652-YGL006W-A
+3653-YGL007C-A
+3654-YGL007W
+3655-YGL008C	K01535
+3656-YGL009C	K01702
+3657-YGL010W
+3658-YGL011C	K02730
+3659-YGL012W	K00223
+3660-YGL013C
+3661-YGL014W_NumOfGenes_2
+3662-YGL015C
+3663-YGL016W_NumOfGenes_2
+3664-YGL017W_NumOfGenes_2	K00685
+3665-YGL018C_NumOfGenes_2	K04082
+3666-YGL019W_NumOfGenes_2	K03115
+3667-YGL020C_NumOfGenes_2	K22384
+3668-YGL021W
+3669-YGL022W	K07151
+3670-YGL023C
+3671-YGL024W
+3672-YGL025C	K15155
+3673-YGL026C	K01694
+3674-YGL027C	K01228
+3675-YGL028C
+3676-YGL029W	K14822
+3677-YGL030W_NumOfGenes_2
+3678-YGL031C_NumOfGenes_2	K02896
+3679-YGL032C
+3680-YGL033W
+3681-YGL034C
+3682-YGL035C	K09467
+3683-YGL036W
+3684-YGL037C	K01440
+3685-YGL038C	K05528
+3686-YGL039W
+3687-YGL040C	K01698
+3688-YGL041C-B
+3689-YGL041W-A_NumOfGenes_2
+3690-YGL042C
+3691-YGL043W	K03145
+3692-YGL044C_NumOfGenes_2	K14407
+3693-YGL045W_NumOfGenes_2	K20063
+3694-YGL047W_NumOfGenes_2	K07432
+3695-YGL048C_NumOfGenes_2	K03066
+3696-YGL049C	K03260
+3697-YGL050W	K15450
+3698-YGL051W_NumOfGenes_2
+3699-YGL052W
+3700-YGL053W
+3701-YGL054C	K20368
+3702-YGL055W_NumOfGenes_2	K00507
+3703-YGL056C
+3704-YGL057C
+3705-YGL058W	K10573
+3706-YGL059W
+3707-YGL060W
+3708-YGL061C	K11570
+3709-YGL062W_NumOfGenes_2	K01958
+3710-YGL063W_NumOfGenes_2	K15452
+3711-YGL064C	K17678
+3712-YGL065C	K03843
+3713-YGL066W	K11365
+3714-YGL067W	K03426
+3715-YGL068W_NumOfGenes_2	K02935
+3716-YGL070C	K03017
+3717-YGL071W
+3718-YGL072C
+3719-YGL073W	K09419
+3720-YGL074C
+3721-YGL075C
+3722-YGL077C	K19564
+3723-YGL078C	K14811
+3724-YGL079W	K22243
+3725-YGL080W	K22138
+3726-YGL081W
+3727-YGL082W	K01309
+3728-YGL083W	K17541
+3729-YGL084C
+3730-YGL085W
+3731-YGL086W	K06679
+3732-YGL087C
+3733-YGL088W
+3734-YGL089C	K11234
+3735-YGL090W	K10982
+3736-YGL091C
+3737-YGL092W	K18720
+3738-YGL093W	K11563
+3739-YGL094C	K12571
+3740-YGL095C	K12479
+3741-YGL096W_NumOfGenes_2
+3742-YGL097W	K11493
+3743-YGL098W	K08507
+3744-YGL099W	K14539
+3745-YGL100W	K14299
+3746-YGL101W	K07023
+3747-YGL103W_NumOfGenes_2
+3748-YGL104C
+3749-YGL105W	K15437
+3750-YGL106W
+3751-YGL107C
+3752-YGL108C
+3753-YGL109W
+3754-YGL110C
+3755-YGL111W	K14841
+3756-YGL112C	K03131
+3757-YGL113W	K10731
+3758-YGL114W
+3759-YGL115W	K07200
+3760-YGL116W	K03363
+3761-YGL117W
+3762-YGL118C
+3763-YGL119W	K08869
+3764-YGL120C	K12820
+3765-YGL121C
+3766-YGL122C
+3767-YGL123W_NumOfGenes_2	K02981
+3768-YGL124C	K20195
+3769-YGL125W	K00297
+3770-YGL126W
+3771-YGL127C	K15153
+3772-YGL128C
+3773-YGL129C	K17408
+3774-YGL130W	K00987
+3775-YGL131C_NumOfGenes_2
+3776-YGL133W
+3777-YGL134W
+3778-YGL135W_NumOfGenes_2	K02865
+3779-YGL136C	K15508
+3780-YGL137W
+3781-YGL138C
+3782-YGL139W
+3783-YGL140C
+3784-YGL141W	K10589
+3785-YGL142C	K05286
+3786-YGL143C	K02835
+3787-YGL144C
+3788-YGL145W	K20474
+3789-YGL146C
+3790-YGL147C	K02940
+3791-YGL148W	K01736
+3792-YGL149W
+3793-YGL150C	K11665
+3794-YGL151W	K15147
+3795-YGL153W_NumOfGenes_2	K13343
+3796-YGL154C	K06133
+3797-YGL155W	K11713
+3798-YGL156W	K01191
+3799-YGL157W
+3800-YGL158W	K08286
+3801-YGL159W
+3802-YGL160W
+3803-YGL161C
+3804-YGL162W
+3805-YGL163C	K10875
+3806-YGL164C
+3807-YGL165C
+3808-YGL166W	K09281
+3809-YGL167C	K01537
+3810-YGL168W
+3811-YGL169W	K07566
+3812-YGL170C
+3813-YGL171W	K14779
+3814-YGL172W	K14307
+3815-YGL173C	K12618
+3816-YGL174W	K13106
+3817-YGL175C
+3818-YGL176C
+3819-YGL178W_NumOfGenes_2
+3820-YGL179C	K21158
+3821-YGL180W	K08269
+3822-YGL181W
+3823-YGL182C
+3824-YGL183C
+3825-YGL184C	K01760
+3826-YGL185C
+3827-YGL186C
+3828-YGL187C	K02265
+3829-YGL188C
+3830-YGL188C-A
+3831-YGL189C	K02976
+3832-YGL190C	K04354
+3833-YGL191W	K02266
+3834-YGL192W	K05925
+3835-YGL193C
+3836-YGL194C	K11483
+3837-YGL194C-A
+3838-YGL195W
+3839-YGL196W	K20498
+3840-YGL197W
+3841-YGL198W_NumOfGenes_2
+3842-YGL200C	K20347
+3843-YGL201C	K02542
+3844-YGL202W	K00838
+3845-YGL203C	K01288
+3846-YGL204C
+3847-YGL205W	K00232
+3848-YGL206C	K04646
+3849-YGL207W
+3850-YGL208W
+3851-YGL209W	K09467
+3852-YGL210W	K07905
+3853-YGL211W	K14168
+3854-YGL212W	K08502
+3855-YGL213C_NumOfGenes_2	K12601
+3856-YGL215W
+3857-YGL216W_NumOfGenes_2	K10401
+3858-YGL219C_NumOfGenes_2	K17775
+3859-YGL220W
+3860-YGL221C
+3861-YGL222C	K18759
+3862-YGL223C
+3863-YGL224C	K18551
+3864-YGL225W	K15356
+3865-YGL226C-A
+3866-YGL226W
+3867-YGL227W
+3868-YGL228W
+3869-YGL229C
+3870-YGL230C
+3871-YGL231C
+3872-YGL232W
+3873-YGL233W	K19985
+3874-YGL234W	K11788
+3875-YGL236C_NumOfGenes_2	K03495
+3876-YGL237C
+3877-YGL238W	K18423
+3878-YGL239C
+3879-YGL240W	K03357
+3880-YGL241W	K20224
+3881-YGL242C	K06867
+3882-YGL243W	K15440
+3883-YGL244W	K15178
+3884-YGL245W	K01885
+3885-YGL246C	K14845
+3886-YGL247W
+3887-YGL248W	K01120
+3888-YGL249W
+3889-YGL250W
+3890-YGL251C
+3891-YGL252C	K11369
+3892-YGL253W_NumOfGenes_2	K00844
+3893-YGL254W
+3894-YGL255W	K14709
+3895-YGL256W_NumOfGenes_2	K13954
+3896-YGL257C_NumOfGenes_2	K10968
+3897-YGL258W_NumOfGenes_2
+3898-YGL258W-A_NumOfGenes_2
+3899-YGL259W
+3900-YGL262W
+3901-YGL263W
+3902-YGR001C
+3903-YGR002C	K11324
+3904-YGR003W	K03869
+3905-YGR004W
+3906-YGR005C	K03139
+3907-YGR006W	K12817
+3908-YGR007W	K00967
+3909-YGR008C
+3910-YGR009C	K19950
+3911-YGR010W	K06210
+3912-YGR011W
+3913-YGR012W	K01738
+3914-YGR013W
+3915-YGR014W	K19849
+3916-YGR015C
+3917-YGR016W
+3918-YGR018C_NumOfGenes_2
+3919-YGR019W_NumOfGenes_2	K13524
+3920-YGR020C	K02151
+3921-YGR021W
+3922-YGR023W_NumOfGenes_2	K11245
+3923-YGR024C	K10761
+3924-YGR025W
+3925-YGR026W
+3926-YGR027C_NumOfGenes_2	K02975
+3927-YGR028W
+3928-YGR029W
+3929-YGR030C	K14524
+3930-YGR031C-A_NumOfGenes_2
+3931-YGR032W	K00706
+3932-YGR033C	K17796
+3933-YGR034W_NumOfGenes_2	K02898
+3934-YGR035C
+3935-YGR035W-A
+3936-YGR036C	K07252
+3937-YGR037C_NumOfGenes_2	K08762
+3938-YGR038W
+3939-YGR039W
+3940-YGR040W	K04371
+3941-YGR041W
+3942-YGR042W
+3943-YGR043C	K00616
+3944-YGR044C	K09235
+3945-YGR045C
+3946-YGR046W	K17807
+3947-YGR047C	K15201
+3948-YGR048W	K14016
+3949-YGR049W
+3950-YGR050C
+3951-YGR051C
+3952-YGR052W	K08286
+3953-YGR053C
+3954-YGR054W	K15026
+3955-YGR055W
+3956-YGR056W	K11756
+3957-YGR057C
+3958-YGR058W
+3959-YGR059W	K12773
+3960-YGR060W	K07750
+3961-YGR061C	K01952
+3962-YGR062C	K17797
+3963-YGR063C	K15171
+3964-YGR064W
+3965-YGR065C
+3966-YGR066C
+3967-YGR067C
+3968-YGR068C_NumOfGenes_2	K20062
+3969-YGR069W
+3970-YGR070W	K19842
+3971-YGR071C
+3972-YGR072W	K14328
+3973-YGR073C
+3974-YGR074W	K11087
+3975-YGR075C	K12851
+3976-YGR076C	K17438
+3977-YGR077C
+3978-YGR078C
+3979-YGR079W
+3980-YGR080W
+3981-YGR081C	K14804
+3982-YGR082W	K17770
+3983-YGR083C	K03680
+3984-YGR084C
+3985-YGR086C
+3986-YGR087C	K01568
+3987-YGR088W	K03781
+3988-YGR089W
+3989-YGR090W	K14544
+3990-YGR091W	K12844
+3991-YGR092W	K06684
+3992-YGR093W
+3993-YGR094W	K01873
+3994-YGR095C	K12590
+3995-YGR096W	K15108
+3996-YGR097W
+3997-YGR098C	K02365
+3998-YGR099W	K11137
+3999-YGR100W	K19951
+4000-YGR101W	K09650
+4001-YGR102C
+4002-YGR103W	K14843
+4003-YGR104C	K15136
+4004-YGR105W
+4005-YGR106C
+4006-YGR107W
+4007-YGR108W	K02220
+4008-YGR109C	K06651
+4009-YGR110W	K13535
+4010-YGR111W
+4011-YGR112W	K14998
+4012-YGR113W	K02307
+4013-YGR114C
+4014-YGR116W_NumOfGenes_2	K11292
+4015-YGR117C
+4016-YGR118W
+4017-YGR119C	K14308
+4018-YGR120C
+4019-YGR121C	K03320
+4020-YGR121W-A
+4021-YGR122W
+4022-YGR123C	K04460
+4023-YGR124W	K01953
+4024-YGR125W	K03321
+4025-YGR126W
+4026-YGR127W
+4027-YGR128C	K14547
+4028-YGR129W	K12868
+4029-YGR130C
+4030-YGR131W
+4031-YGR132C	K17080
+4032-YGR133W	K10689
+4033-YGR134W
+4034-YGR135W	K02728
+4035-YGR136W	K20522
+4036-YGR137W
+4037-YGR138C_NumOfGenes_2
+4038-YGR139W
+4039-YGR140W	K11574
+4040-YGR141W
+4041-YGR142W
+4042-YGR143W
+4043-YGR144W	K03146
+4044-YGR145W	K14788
+4045-YGR146C
+4046-YGR146C-A
+4047-YGR147C	K20815
+4048-YGR148C	K02896
+4049-YGR149W
+4050-YGR150C
+4051-YGR152C_NumOfGenes_2	K07836
+4052-YGR153W
+4053-YGR154C
+4054-YGR155W	K01697
+4055-YGR156W	K14407
+4056-YGR157W	K16369
+4057-YGR158C	K12587
+4058-YGR159C_NumOfGenes_2	K11294
+4059-YGR161C
+4060-YGR161W-C
+4061-YGR162W	K03260
+4062-YGR163W	K16186
+4063-YGR164W
+4064-YGR165W
+4065-YGR166W	K20311
+4066-YGR167W
+4067-YGR168C
+4068-YGR169C	K15453
+4069-YGR169C-A
+4070-YGR170W	K01613
+4071-YGR171C	K01874
+4072-YGR172C	K20363
+4073-YGR173W	K06944
+4074-YGR174C
+4075-YGR174W-A
+4076-YGR175C	K00511
+4077-YGR176W
+4078-YGR177C	K00664
+4079-YGR178C
+4080-YGR179C	K11555
+4081-YGR180C	K10808
+4082-YGR181W	K17781
+4083-YGR182C
+4084-YGR183C	K00419
+4085-YGR184C	K10625
+4086-YGR185C	K01866
+4087-YGR186W	K03138
+4088-YGR187C
+4089-YGR188C	K02178
+4090-YGR189C
+4091-YGR190C
+4092-YGR191W	K16261
+4093-YGR192C_NumOfGenes_2	K00134
+4094-YGR193C
+4095-YGR194C_NumOfGenes_2	K00854
+4096-YGR195W	K11600
+4097-YGR196C
+4098-YGR197C
+4099-YGR198W	K21845
+4100-YGR199W	K00728
+4101-YGR200C	K11374
+4102-YGR201C	K03233
+4103-YGR202C	K00968
+4104-YGR203W	K18065
+4105-YGR204C-A
+4106-YGR204W	K00288
+4107-YGR205W	K15918
+4108-YGR206W	K12187
+4109-YGR207C	K03521
+4110-YGR208W	K01079
+4111-YGR209C	K03671
+4112-YGR210C	K06942
+4113-YGR211W	K06874
+4114-YGR212W
+4115-YGR213C
+4116-YGR214W	K02998
+4117-YGR215W
+4118-YGR216C	K03860
+4119-YGR217W	K21864
+4120-YGR218W	K14290
+4121-YGR220C_NumOfGenes_2	K02906
+4122-YGR221C
+4123-YGR222W	K17666
+4124-YGR223C
+4125-YGR224W
+4126-YGR225W_NumOfGenes_2	K12782
+4127-YGR227W	K03850
+4128-YGR229C_NumOfGenes_2
+4129-YGR230W
+4130-YGR231C	K17081
+4131-YGR232W	K06694
+4132-YGR233C	K06653
+4133-YGR234W	K05916
+4134-YGR235C	K17786
+4135-YGR236C
+4136-YGR237C
+4137-YGR238C
+4138-YGR239C
+4139-YGR240C	K00850
+4140-YGR240C-A
+4141-YGR241C	K20044
+4142-YGR242W
+4143-YGR243W	K22139
+4144-YGR244C	K01900
+4145-YGR245C	K14856
+4146-YGR246C	K15196
+4147-YGR247W	K15435
+4148-YGR248W	K01057
+4149-YGR249W
+4150-YGR250C
+4151-YGR251W
+4152-YGR252W	K06062
+4153-YGR253C	K02729
+4154-YGR254W	K01689
+4155-YGR255C	K06126
+4156-YGR256W	K00033
+4157-YGR257C	K15119
+4158-YGR258C	K10846
+4159-YGR260W_NumOfGenes_2
+4160-YGR261C	K12397
+4161-YGR262C	K08851
+4162-YGR263C
+4163-YGR264C	K01874
+4164-YGR265W
+4165-YGR266W
+4166-YGR267C	K01495
+4167-YGR268C
+4168-YGR269W
+4169-YGR270W_NumOfGenes_2
+4170-YGR271C-A
+4171-YGR271W	K18664
+4172-YGR273C
+4173-YGR274C	K03125
+4174-YGR275W
+4175-YGR276C	K14570
+4176-YGR277C	K02201
+4177-YGR278W	K13100
+4178-YGR279C
+4179-YGR280C	K11135
+4180-YGR281W
+4181-YGR282C_NumOfGenes_2	K01210
+4182-YGR283C_NumOfGenes_2	K09142
+4183-YGR284C_NumOfGenes_2	K20369
+4184-YGR285C_NumOfGenes_2	K09522
+4185-YGR286C_NumOfGenes_2	K01012
+4186-YGR287C_NumOfGenes_2	K01182
+4187-YGR288W
+4188-YGR289C	K08141
+4189-YGR290W
+4190-YGR291C_NumOfGenes_2
+4191-YGR292W_NumOfGenes_2	K01182
+4192-YGR293C_NumOfGenes_2
+4193-YHL001W	K02875
+4194-YHL002W_NumOfGenes_2	K04705
+4195-YHL003C	K04709
+4196-YHL004W	K02967
+4197-YHL005C
+4198-YHL006C
+4199-YHL006W-A
+4200-YHL007C	K04409
+4201-YHL008C
+4202-YHL009C	K09043
+4203-YHL010C	K10632
+4204-YHL011C	K00948
+4205-YHL012W	K00963
+4206-YHL013C	K18342
+4207-YHL014C	K19788
+4208-YHL015W_NumOfGenes_2	K02969
+4209-YHL015W-A
+4210-YHL016C_NumOfGenes_2	K20989
+4211-YHL017W_NumOfGenes_2
+4212-YHL018W_NumOfGenes_2	K01724
+4213-YHL019C_NumOfGenes_3
+4214-YHL020C_NumOfGenes_2	K21642
+4215-YHL021C_NumOfGenes_2
+4216-YHL022C_NumOfGenes_2	K10878
+4217-YHL023C_NumOfGenes_2	K20406
+4218-YHL024W_NumOfGenes_2
+4219-YHL025W	K11773
+4220-YHL026C
+4221-YHL027W
+4222-YHL028W
+4223-YHL029C
+4224-YHL030W	K11886
+4225-YHL031C_NumOfGenes_3	K08495
+4226-YHL032C_NumOfGenes_2	K00864
+4227-YHL033C_NumOfGenes_3	K02936
+4228-YHL034C_NumOfGenes_2
+4229-YHL035C
+4230-YHL036W
+4231-YHL037C
+4232-YHL038C	K17661
+4233-YHL039W
+4234-YHL040C	K08197
+4235-YHL041W
+4236-YHL042W
+4237-YHL043W
+4238-YHL044W
+4239-YHL045W
+4240-YHL046W-A
+4241-YHL047C_NumOfGenes_2	K08197
+4242-YHL048C-A
+4243-YHL048W
+4244-YHR001W	K22285
+4245-YHR001W-A	K00420
+4246-YHR002W	K15084
+4247-YHR003C	K22132
+4248-YHR004C	K17617
+4249-YHR005C	K19860
+4250-YHR005C-A_NumOfGenes_2	K17778
+4251-YHR006W
+4252-YHR007C	K05917
+4253-YHR007C-A
+4254-YHR008C	K04564
+4255-YHR009C
+4256-YHR010W	K02901
+4257-YHR011W	K01875
+4258-YHR012W
+4259-YHR013C	K20791
+4260-YHR014W
+4261-YHR015W
+4262-YHR016C	K20523
+4263-YHR017W
+4264-YHR018C	K01755
+4265-YHR019C	K01893
+4266-YHR020W	K01881
+4267-YHR021C
+4268-YHR021W-A
+4269-YHR022C	K06883
+4270-YHR022C-A
+4271-YHR023W	K10352
+4272-YHR024C	K01412
+4273-YHR025W	K00872
+4274-YHR026W	K03661
+4275-YHR027C	K03028
+4276-YHR028C	K01282
+4277-YHR028W-A
+4278-YHR029C
+4279-YHR030C	K04464
+4280-YHR031C	K15255
+4281-YHR032C-A_NumOfGenes_2
+4282-YHR032W	K03327
+4283-YHR033W	K00931
+4284-YHR034C
+4285-YHR035W
+4286-YHR036W
+4287-YHR037W	K00294
+4288-YHR038W	K02838
+4289-YHR039C
+4290-YHR039C-A	K02152
+4291-YHR040W
+4292-YHR041C
+4293-YHR042W	K00327
+4294-YHR043C	K01111
+4295-YHR044C	K01111
+4296-YHR045W
+4297-YHR046C	K01092
+4298-YHR047C
+4299-YHR048W
+4300-YHR049C-A
+4301-YHR049W
+4302-YHR050W	K12346
+4303-YHR050W-A
+4304-YHR051W	K02264
+4305-YHR052W	K14783
+4306-YHR055C_NumOfGenes_4
+4307-YHR056C_NumOfGenes_3	K11758
+4308-YHR057C	K01802
+4309-YHR058C	K15128
+4310-YHR059W
+4311-YHR060W
+4312-YHR061C
+4313-YHR062C	K03539
+4314-YHR063C	K00077
+4315-YHR064C_NumOfGenes_2
+4316-YHR065C	K14777
+4317-YHR066W	K14859
+4318-YHR067W	K22541
+4319-YHR068W	K00809
+4320-YHR069C	K03679
+4321-YHR070C-A
+4322-YHR070W_NumOfGenes_2	K15429
+4323-YHR071C-A
+4324-YHR071W	K21197
+4325-YHR072W	K01852
+4326-YHR072W-A	K11130
+4327-YHR073W_NumOfGenes_3	K20463
+4328-YHR074W	K01950
+4329-YHR075C	K13617
+4330-YHR076W	K17508
+4331-YHR077C
+4332-YHR078W	K22193
+4333-YHR079C	K08852
+4334-YHR079C-A
+4335-YHR080C
+4336-YHR081W	K12592
+4337-YHR082C	K08286
+4338-YHR083W	K17715
+4339-YHR084W	K11215
+4340-YHR085W	K14827
+4341-YHR086W
+4342-YHR086W-A
+4343-YHR087W
+4344-YHR088W	K14846
+4345-YHR089C	K11128
+4346-YHR090C	K11396
+4347-YHR091C	K01887
+4348-YHR092C_NumOfGenes_2	K08139
+4349-YHR093W
+4350-YHR094C	K08139
+4351-YHR095W
+4352-YHR096C_NumOfGenes_2	K08139
+4353-YHR097C_NumOfGenes_2
+4354-YHR098C	K14007
+4355-YHR099W	K08874
+4356-YHR100C	K01094
+4357-YHR101C
+4358-YHR102W	K08286
+4359-YHR103W
+4360-YHR104W	K17743
+4361-YHR105W
+4362-YHR106W	K00384
+4363-YHR107C	K16948
+4364-YHR108W	K12404
+4365-YHR109W	K18804
+4366-YHR110W	K20346
+4367-YHR111W	K11996
+4368-YHR112C
+4369-YHR113W	K01267
+4370-YHR114W	K20121
+4371-YHR115C
+4372-YHR116W	K18185
+4373-YHR117W
+4374-YHR118C	K02608
+4375-YHR119W	K11422
+4376-YHR120W
+4377-YHR121W
+4378-YHR122W
+4379-YHR123W
+4380-YHR124W	K12769
+4381-YHR125W
+4382-YHR126C
+4383-YHR127W
+4384-YHR128W	K00761
+4385-YHR129C	K16575
+4386-YHR130C
+4387-YHR131C
+4388-YHR131W-A
+4389-YHR132C	K08783
+4390-YHR132W-A
+4391-YHR133C
+4392-YHR134W	K22685
+4393-YHR135C	K02218
+4394-YHR136C
+4395-YHR137W_NumOfGenes_2	K05821
+4396-YHR138C
+4397-YHR139C
+4398-YHR139C-A
+4399-YHR140W
+4400-YHR141C	K02929
+4401-YHR142W
+4402-YHR143W
+4403-YHR143W-A	K03009
+4404-YHR144C	K01493
+4405-YHR146W
+4406-YHR147C	K02933
+4407-YHR148W	K14560
+4408-YHR149C
+4409-YHR150W
+4410-YHR151C
+4411-YHR152W	K12576
+4412-YHR153C
+4413-YHR154W
+4414-YHR155W
+4415-YHR156C	K13099
+4416-YHR157W
+4417-YHR158C
+4418-YHR159W
+4419-YHR160C
+4420-YHR161C	K20044
+4421-YHR162W	K22139
+4422-YHR163W	K01057
+4423-YHR164C	K10742
+4424-YHR165C_NumOfGenes_2	K12856
+4425-YHR166C	K03355
+4426-YHR167W	K18713
+4427-YHR168W
+4428-YHR169W	K14778
+4429-YHR170W	K07562
+4430-YHR171W	K08337
+4431-YHR172W	K16569
+4432-YHR173C
+4433-YHR174W	K01689
+4434-YHR175W	K14686
+4435-YHR175W-A
+4436-YHR176W
+4437-YHR177W	K21631
+4438-YHR178W
+4439-YHR179W	K00354
+4440-YHR180W
+4441-YHR180W-A_NumOfGenes_2
+4442-YHR181W
+4443-YHR182W
+4444-YHR183W_NumOfGenes_3	K00033
+4445-YHR184W_NumOfGenes_2	K12783
+4446-YHR185C_NumOfGenes_2
+4447-YHR186C	K07204
+4448-YHR187W	K11376
+4449-YHR188C	K05292
+4450-YHR189W	K01056
+4451-YHR190W	K00801
+4452-YHR191C	K11270
+4453-YHR192W
+4454-YHR193C	K03626
+4455-YHR194W_NumOfGenes_2	K17979
+4456-YHR195W	K22264
+4457-YHR196W	K14551
+4458-YHR197W	K14828
+4459-YHR198C
+4460-YHR199C
+4461-YHR199C-A
+4462-YHR200W	K03029
+4463-YHR201C	K01514
+4464-YHR202W
+4465-YHR204W
+4466-YHR205W	K19800
+4467-YHR206W	K15859
+4468-YHR207C	K07117
+4469-YHR208W	K00826
+4470-YHR209W
+4471-YHR210C
+4472-YHR211W_NumOfGenes_3
+4473-YHR213W_NumOfGenes_5
+4474-YHR213W-A
+4475-YHR213W-B_NumOfGenes_2
+4476-YHR214C-D_NumOfGenes_2
+4477-YHR215W_NumOfGenes_2	K01078
+4478-YHR216W_NumOfGenes_6	K00088
+4479-YHR217C
+4480-YIL001W	K06867
+4481-YIL002C	K20279
+4482-YIL002W-A
+4483-YIL003W
+4484-YIL004C
+4485-YIL005W	K13996
+4486-YIL006W	K15115
+4487-YIL007C	K06693
+4488-YIL008W	K12161
+4489-YIL009C-A_NumOfGenes_2	K11133
+4490-YIL009W	K01897
+4491-YIL010W	K03564
+4492-YIL011W
+4493-YIL012W
+4494-YIL013C
+4495-YIL014C-A
+4496-YIL014W	K10969
+4497-YIL015W	K01383
+4498-YIL016W	K14017
+4499-YIL017C
+4500-YIL018W_NumOfGenes_2
+4501-YIL019W
+4502-YIL020C	K01814
+4503-YIL020C-A
+4504-YIL021W_NumOfGenes_2	K03011
+4505-YIL022W	K17804
+4506-YIL023C	K14713
+4507-YIL024C
+4508-YIL025C
+4509-YIL026C	K06671
+4510-YIL027C
+4511-YIL028W
+4512-YIL029C
+4513-YIL029W-A
+4514-YIL030C	K10661
+4515-YIL030W-A
+4516-YIL031W	K08596
+4517-YIL032C
+4518-YIL033C	K04739
+4519-YIL034C	K10365
+4520-YIL035C	K03097
+4521-YIL036W
+4522-YIL037C
+4523-YIL038C	K12580
+4524-YIL039W
+4525-YIL040W
+4526-YIL041W
+4527-YIL042C
+4528-YIL043C	K00326
+4529-YIL044C	K12486
+4530-YIL045W
+4531-YIL046W	K10259
+4532-YIL047C_NumOfGenes_2
+4533-YIL048W	K01530
+4534-YIL049W	K12345
+4535-YIL050W
+4536-YIL051C
+4537-YIL052C
+4538-YIL053W	K06116
+4539-YIL054W
+4540-YIL055C
+4541-YIL056W
+4542-YIL057C
+4543-YIL058W
+4544-YIL061C	K11093
+4545-YIL062C	K05754
+4546-YIL063C	K15304
+4547-YIL064W
+4548-YIL065C	K17969
+4549-YIL066C	K10807
+4550-YIL067C_NumOfGenes_2
+4551-YIL068C_NumOfGenes_2	K06110
+4552-YIL069C
+4553-YIL070C	K15414
+4554-YIL071C_NumOfGenes_2
+4555-YIL072W	K12778
+4556-YIL073C
+4557-YIL074C	K00058
+4558-YIL075C	K03032
+4559-YIL076W	K17268
+4560-YIL077C
+4561-YIL078W	K01868
+4562-YIL079C	K12597
+4563-YIL083C	K01922
+4564-YIL084C
+4565-YIL085C	K03854
+4566-YIL086C
+4567-YIL087C
+4568-YIL088C
+4569-YIL089W
+4570-YIL090W
+4571-YIL091C	K14774
+4572-YIL092W
+4573-YIL093C	K17402
+4574-YIL094C	K05824
+4575-YIL095W	K08853
+4576-YIL096C	K19307
+4577-YIL097W	K18624
+4578-YIL098C	K18191
+4579-YIL099W	K01178
+4580-YIL100W_NumOfGenes_2
+4581-YIL101C
+4582-YIL102C
+4583-YIL102C-A	K09658
+4584-YIL103W	K07561
+4585-YIL104C	K14764
+4586-YIL105C_NumOfGenes_2
+4587-YIL106W
+4588-YIL107C	K00900
+4589-YIL108W
+4590-YIL109C	K14007
+4591-YIL110W	K18803
+4592-YIL111W
+4593-YIL112W	K06867
+4594-YIL113W	K19812
+4595-YIL114C
+4596-YIL115C_NumOfGenes_2	K18715
+4597-YIL116W	K00817
+4598-YIL117C
+4599-YIL118W	K07975
+4600-YIL119C_NumOfGenes_2
+4601-YIL120W
+4602-YIL121W
+4603-YIL122W
+4604-YIL123W	K01238
+4605-YIL124W	K06123
+4606-YIL125W	K00164
+4607-YIL126W	K11786
+4608-YIL127C
+4609-YIL128W	K15075
+4610-YIL129C
+4611-YIL130W
+4612-YIL131C
+4613-YIL132C
+4614-YIL133C
+4615-YIL134C-A
+4616-YIL134W	K15115
+4617-YIL135C
+4618-YIL136W
+4619-YIL137C
+4620-YIL138C	K17945
+4621-YIL139C	K03508
+4622-YIL140W	K18637
+4623-YIL141W
+4624-YIL142C-A
+4625-YIL142W	K09494
+4626-YIL143C	K10843
+4627-YIL144W	K11547
+4628-YIL145C	K01918
+4629-YIL146C	K17984
+4630-YIL147C	K11231
+4631-YIL148W
+4632-YIL149C	K09291
+4633-YIL150C	K10736
+4634-YIL151C
+4635-YIL153W_NumOfGenes_3	K17605
+4636-YIL154C_NumOfGenes_2
+4637-YIL155C_NumOfGenes_2	K00111
+4638-YIL156W_NumOfGenes_2	K11871
+4639-YIL156W-A
+4640-YIL156W-B_NumOfGenes_2
+4641-YIL157C_NumOfGenes_2	K18173
+4642-YIL158W_NumOfGenes_2
+4643-YIL159W	K17971
+4644-YIL160C	K07513
+4645-YIL161W
+4646-YIL162W	K01193
+4647-YIL163C
+4648-YIL164C
+4649-YIL165C
+4650-YIL166C
+4651-YIL167W	K17989
+4652-YIL169C_NumOfGenes_2
+4653-YIL171W
+4654-YIL172C_NumOfGenes_6	K01182
+4655-YIR001C	K14396
+4656-YIR002C	K14635
+4657-YIR003W
+4658-YIR004W
+4659-YIR005W	K13107
+4660-YIR006C	K20047
+4661-YIR007W
+4662-YIR008C	K02684
+4663-YIR009W
+4664-YIR010W	K11560
+4665-YIR011C	K11888
+4666-YIR012W	K14818
+4667-YIR013C
+4668-YIR014W
+4669-YIR015W	K03540
+4670-YIR016W
+4671-YIR017C_NumOfGenes_2
+4672-YIR018C-A
+4673-YIR018W	K09043
+4674-YIR019C_NumOfGenes_5	K19851
+4675-YIR020C_NumOfGenes_2
+4676-YIR020W-A
+4677-YIR021W_NumOfGenes_2	K17657
+4678-YIR021W-A
+4679-YIR022W	K13280
+4680-YIR023W_NumOfGenes_2
+4681-YIR024C
+4682-YIR025W	K12781
+4683-YIR026C	K14819
+4684-YIR027C	K01466
+4685-YIR028W	K03457
+4686-YIR029W	K01477
+4687-YIR030C
+4688-YIR030W-A
+4689-YIR031C	K01638
+4690-YIR032C	K01483
+4691-YIR033W	K06867
+4692-YIR034C	K00290
+4693-YIR035C
+4694-YIR036C	K16216
+4695-YIR036W-A
+4696-YIR037W	K00432
+4697-YIR038C	K00799
+4698-YIR039C
+4699-YIR042C
+4700-YIR043C
+4701-YJL001W
+4702-YJL002C	K12666
+4703-YJL003W	K18182
+4704-YJL004C	K20318
+4705-YJL005W	K01768
+4706-YJL006C	K15564
+4707-YJL007C
+4708-YJL008C	K09500
+4709-YJL009W
+4710-YJL010C	K14790
+4711-YJL011C
+4712-YJL012C
+4713-YJL013C	K06680
+4714-YJL014W	K09495
+4715-YJL015C
+4716-YJL016W
+4717-YJL019W
+4718-YJL020C_NumOfGenes_2	K20521
+4719-YJL023C_NumOfGenes_3
+4720-YJL024C
+4721-YJL025W	K15219
+4722-YJL026W_NumOfGenes_2	K10808
+4723-YJL027C
+4724-YJL028W
+4725-YJL029C	K20299
+4726-YJL030W	K02537
+4727-YJL031C_NumOfGenes_2	K14050
+4728-YJL033W	K14776
+4729-YJL034W	K09490
+4730-YJL035C	K15441
+4731-YJL036W	K17919
+4732-YJL037W
+4733-YJL038C
+4734-YJL039C	K14310
+4735-YJL041W
+4736-YJL042W
+4737-YJL043W
+4738-YJL044C	K18469
+4739-YJL045W	K00234
+4740-YJL046W	K03800
+4741-YJL047C
+4742-YJL047C-A
+4743-YJL048C
+4744-YJL049W	K15053
+4745-YJL050W	K12598
+4746-YJL051W
+4747-YJL052C-A
+4748-YJL052W	K00134
+4749-YJL053W	K18466
+4750-YJL054W	K17792
+4751-YJL055W
+4752-YJL056C
+4753-YJL057C	K08286
+4754-YJL058C
+4755-YJL059W	K12389
+4756-YJL060W	K14264
+4757-YJL061W	K18719
+4758-YJL062W	K05310
+4759-YJL062W-A	K18176
+4760-YJL063C
+4761-YJL065C_NumOfGenes_2	K03506
+4762-YJL066C_NumOfGenes_2
+4763-YJL068C	K01070
+4764-YJL069C	K14553
+4765-YJL070C
+4766-YJL071W	K00618
+4767-YJL072C	K10733
+4768-YJL073W	K09523
+4769-YJL074C	K06669
+4770-YJL076W_NumOfGenes_2	K06687
+4771-YJL077W-A_NumOfGenes_2
+4772-YJL077W-B
+4773-YJL078C
+4774-YJL079C
+4775-YJL080C
+4776-YJL081C	K11400
+4777-YJL082W
+4778-YJL083W
+4779-YJL084C	K20061
+4780-YJL085W	K07195
+4781-YJL086C
+4782-YJL087C	K14679
+4783-YJL088W	K00611
+4784-YJL089W
+4785-YJL090C	K03507
+4786-YJL091C	K05283
+4787-YJL092W	K03657
+4788-YJL093C	K05389
+4789-YJL094C
+4790-YJL095W	K11229
+4791-YJL096W
+4792-YJL097W	K10703
+4793-YJL098W	K15458
+4794-YJL099W	K19880
+4795-YJL100W	K13711
+4796-YJL101C	K11204
+4797-YJL102W	K02355
+4798-YJL103C
+4799-YJL104W	K17805
+4800-YJL105W	K07117
+4801-YJL106W	K12765
+4802-YJL107C
+4803-YJL108C
+4804-YJL109C	K14550
+4805-YJL110C	K09184
+4806-YJL111W	K09499
+4807-YJL112W	K17970
+4808-YJL115W	K10753
+4809-YJL116C
+4810-YJL117W
+4811-YJL118W_NumOfGenes_2
+4812-YJL120W
+4813-YJL121C	K01783
+4814-YJL122W	K14814
+4815-YJL123C
+4816-YJL124C	K12620
+4817-YJL125C	K07442
+4818-YJL126W
+4819-YJL127C
+4820-YJL127C-B
+4821-YJL127W-A
+4822-YJL128C	K11227
+4823-YJL129C
+4824-YJL130C	K11541
+4825-YJL131C
+4826-YJL132W	K01127
+4827-YJL133C-A
+4828-YJL133W	K15113
+4829-YJL134W	K04716
+4830-YJL135W
+4831-YJL136C
+4832-YJL136W-A
+4833-YJL137C	K00750
+4834-YJL139C	K03854
+4835-YJL140W	K03012
+4836-YJL141C	K18670
+4837-YJL142C
+4838-YJL143W	K17795
+4839-YJL144W
+4840-YJL145W	K19996
+4841-YJL146W
+4842-YJL147C
+4843-YJL148W	K03003
+4844-YJL149W
+4845-YJL150W
+4846-YJL151C
+4847-YJL152W
+4848-YJL153C	K01858
+4849-YJL154C	K18468
+4850-YJL155C	K19029
+4851-YJL156C
+4852-YJL156W-A
+4853-YJL157C	K06652
+4854-YJL158C
+4855-YJL159W_NumOfGenes_2
+4856-YJL160C
+4857-YJL161W
+4858-YJL162C
+4859-YJL163C
+4860-YJL164C	K04345
+4861-YJL165C	K08286
+4862-YJL166W	K00418
+4863-YJL167W	K00787
+4864-YJL168C	K11423
+4865-YJL169W
+4866-YJL170C
+4867-YJL171C
+4868-YJL172W	K01293
+4869-YJL173C
+4870-YJL174W
+4871-YJL176C_NumOfGenes_2	K11772
+4872-YJL177W	K02880
+4873-YJL178C	K21141
+4874-YJL179W	K09548
+4875-YJL180C	K07556
+4876-YJL181W
+4877-YJL182C
+4878-YJL183W	K05532
+4879-YJL184W	K15903
+4880-YJL185C	K22258
+4881-YJL186W	K05536
+4882-YJL187C	K03114
+4883-YJL189W_NumOfGenes_2
+4884-YJL190C	K02957
+4885-YJL191W	K02955
+4886-YJL192C
+4887-YJL193W	K15283
+4888-YJL194W_NumOfGenes_2	K02213
+4889-YJL196C	K10245
+4890-YJL197W_NumOfGenes_2	K11835
+4891-YJL198W	K14430
+4892-YJL199C
+4893-YJL200C	K17450
+4894-YJL201W
+4895-YJL202C
+4896-YJL203W
+4897-YJL204C	K15071
+4898-YJL205C
+4899-YJL206C
+4900-YJL207C
+4901-YJL208C	K01173
+4902-YJL209W	K17660
+4903-YJL210W	K06664
+4904-YJL211C
+4905-YJL212C
+4906-YJL213W_NumOfGenes_2
+4907-YJL214W_NumOfGenes_3	K08139
+4908-YJL215C_NumOfGenes_2
+4909-YJL216C	K01182
+4910-YJL217W	K09702
+4911-YJL218W_NumOfGenes_2
+4912-YJL222W_NumOfGenes_5
+4913-YJL222W-B_NumOfGenes_2
+4914-YJR001W	K15015
+4915-YJR002W	K14559
+4916-YJR003C
+4917-YJR004C	K19898
+4918-YJR005C-A
+4919-YJR005W
+4920-YJR006W	K02328
+4921-YJR007W	K03237
+4922-YJR008W	K06990
+4923-YJR010C-A	K12946
+4924-YJR010W	K00958
+4925-YJR011C
+4926-YJR012C
+4927-YJR013W	K05284
+4928-YJR014W
+4929-YJR015W
+4930-YJR016C	K01687
+4931-YJR017C	K09578
+4932-YJR018W
+4933-YJR019C_NumOfGenes_2	K01068
+4934-YJR021C
+4935-YJR022W_NumOfGenes_2	K12627
+4936-YJR024C	K08964
+4937-YJR025C	K00452
+4938-YJR030C
+4939-YJR031C	K18443
+4940-YJR032W	K01802
+4941-YJR033C
+4942-YJR034W	K18178
+4943-YJR035W	K10841
+4944-YJR036C_NumOfGenes_2	K12232
+4945-YJR038C
+4946-YJR039W
+4947-YJR040W	K05012
+4948-YJR041C	K14862
+4949-YJR042W	K14304
+4950-YJR043C	K03504
+4951-YJR044C
+4952-YJR045C	K04043
+4953-YJR046W	K12414
+4954-YJR047C	K03263
+4955-YJR048W	K08738
+4956-YJR049C	K00858
+4957-YJR050W	K12870
+4958-YJR051W	K18561
+4959-YJR052W	K15082
+4960-YJR053W	K02181
+4961-YJR054W
+4962-YJR055W
+4963-YJR056C
+4964-YJR057W	K00943
+4965-YJR058C	K11827
+4966-YJR059W	K08286
+4967-YJR060W	K22484
+4968-YJR061W
+4969-YJR062C	K14663
+4970-YJR063W_NumOfGenes_2	K03000
+4971-YJR064W	K09497
+4972-YJR065C_NumOfGenes_2	K18584
+4973-YJR066W	K07203
+4974-YJR067C
+4975-YJR068W	K10755
+4976-YJR069C	K01519
+4977-YJR070C	K06072
+4978-YJR071W
+4979-YJR072C	K06883
+4980-YJR073C	K00551
+4981-YJR074W
+4982-YJR075W	K05534
+4983-YJR076C	K16945
+4984-YJR077C	K15102
+4985-YJR078W	K00463
+4986-YJR079W_NumOfGenes_2
+4987-YJR082C	K11344
+4988-YJR083C
+4989-YJR084W
+4990-YJR085C
+4991-YJR086W	K07973
+4992-YJR087W
+4993-YJR088C
+4994-YJR089W
+4995-YJR090C	K03360
+4996-YJR091C	K17974
+4997-YJR092W
+4998-YJR093C	K14405
+4999-YJR094C	K12764
+5000-YJR094W-A
+5001-YJR095W	K15100
+5002-YJR096W
+5003-YJR097W	K17867
+5004-YJR098C
+5005-YJR099W	K05609
+5006-YJR100C
+5007-YJR101W	K04564
+5008-YJR102C	K12189
+5009-YJR103W	K01937
+5010-YJR104C	K04565
+5011-YJR105W	K00856
+5012-YJR106W
+5013-YJR107W
+5014-YJR108W
+5015-YJR109C	K01955
+5016-YJR110W	K18083
+5017-YJR111C
+5018-YJR112W	K11562
+5019-YJR112W-A
+5020-YJR113C_NumOfGenes_2	K02992
+5021-YJR115W
+5022-YJR116W
+5023-YJR117W	K06013
+5024-YJR118C
+5025-YJR119C	K11446
+5026-YJR120W
+5027-YJR121W	K02133
+5028-YJR122W	K22073
+5029-YJR123W	K02989
+5030-YJR124C
+5031-YJR125C	K12471
+5032-YJR126C
+5033-YJR127C
+5034-YJR128W
+5035-YJR129C	K22696
+5036-YJR130C	K01739
+5037-YJR131W	K01230
+5038-YJR132W	K20223
+5039-YJR133W	K07101
+5040-YJR134C
+5041-YJR135C
+5042-YJR135W-A	K17780
+5043-YJR136C
+5044-YJR137C	K00381
+5045-YJR138W	K20404
+5046-YJR139C	K00003
+5047-YJR140C_NumOfGenes_2
+5048-YJR141W	K20803
+5049-YJR142W
+5050-YJR143C	K00728
+5051-YJR144W
+5052-YJR145C_NumOfGenes_2
+5053-YJR146W
+5054-YJR147W
+5055-YJR148W	K00826
+5056-YJR149W	K00459
+5057-YJR150C
+5058-YJR151C_NumOfGenes_2
+5059-YJR151W-A
+5060-YJR152W	K08192
+5061-YJR153W_NumOfGenes_2	K01184
+5062-YJR154W_NumOfGenes_2
+5063-YJR155W_NumOfGenes_2
+5064-YJR157W
+5065-YJR158W_NumOfGenes_2	K08139
+5066-YJR159W_NumOfGenes_2	K00008
+5067-YKL001C	K00860
+5068-YKL002W
+5069-YKL003C	K02990
+5070-YKL004W	K22723
+5071-YKL005C
+5072-YKL006C-A	K08505
+5073-YKL006W	K02875
+5074-YKL007W	K10364
+5075-YKL008C_NumOfGenes_2	K04709
+5076-YKL009W	K14815
+5077-YKL010C	K10590
+5078-YKL011C	K17676
+5079-YKL012W	K12821
+5080-YKL013C	K05755
+5081-YKL014C	K14861
+5082-YKL015W	K09248
+5083-YKL016C	K02138
+5084-YKL017C	K19783
+5085-YKL018C-A
+5086-YKL018W	K14962
+5087-YKL019W	K05955
+5088-YKL020C	K06867
+5089-YKL021C	K14830
+5090-YKL022C	K03353
+5091-YKL023C-A
+5092-YKL023W
+5093-YKL024C	K13800
+5094-YKL025C	K12572
+5095-YKL026C	K00432
+5096-YKL027W	K22132
+5097-YKL028W	K03136
+5098-YKL029C	K00027
+5099-YKL030W
+5100-YKL031W
+5101-YKL032C
+5102-YKL033W	K20403
+5103-YKL033W-A	K17623
+5104-YKL034W
+5105-YKL035W	K00963
+5106-YKL036C
+5107-YKL037W
+5108-YKL038W	K21641
+5109-YKL039W
+5110-YKL040C	K22074
+5111-YKL041W	K12193
+5112-YKL042W
+5113-YKL043W
+5114-YKL044W
+5115-YKL045W	K02685
+5116-YKL046C	K08257
+5117-YKL047W
+5118-YKL048C	K16314
+5119-YKL049C
+5120-YKL050C
+5121-YKL051W
+5122-YKL052C	K11566
+5123-YKL053C-A	K17968
+5124-YKL053W
+5125-YKL054C
+5126-YKL055C	K00059
+5127-YKL056C
+5128-YKL057C	K14303
+5129-YKL058W	K03123
+5130-YKL059C	K15541
+5131-YKL060C	K01624
+5132-YKL061W	K22238
+5133-YKL062W	K09468
+5134-YKL063C
+5135-YKL064W	K16073
+5136-YKL065C
+5137-YKL065W-A
+5138-YKL066W
+5139-YKL067W	K00940
+5140-YKL068W	K14297
+5141-YKL068W-A
+5142-YKL069W_NumOfGenes_2	K08968
+5143-YKL070W	K07734
+5144-YKL071W_NumOfGenes_2
+5145-YKL072W
+5146-YKL073W	K09486
+5147-YKL074C	K12837
+5148-YKL075C
+5149-YKL076C
+5150-YKL077W
+5151-YKL078W	K14781
+5152-YKL079W	K10396
+5153-YKL080W	K02148
+5154-YKL081W
+5155-YKL082C_NumOfGenes_2
+5156-YKL084W
+5157-YKL085W	K00026
+5158-YKL086W	K12260
+5159-YKL087C	K01764
+5160-YKL088W	K01598
+5161-YKL089W	K11497
+5162-YKL090W
+5163-YKL091C
+5164-YKL092C
+5165-YKL093W
+5166-YKL094W	K01054
+5167-YKL095W
+5168-YKL096C-B
+5169-YKL096W
+5170-YKL096W-A
+5171-YKL097C
+5172-YKL098W
+5173-YKL099C	K14769
+5174-YKL100C_NumOfGenes_2
+5175-YKL101W	K02515
+5176-YKL102C
+5177-YKL103C	K01268
+5178-YKL104C	K00820
+5179-YKL105C
+5180-YKL106C-A
+5181-YKL106W	K14455
+5182-YKL107W
+5183-YKL108W	K10729
+5184-YKL109W
+5185-YKL110C	K15456
+5186-YKL112W_NumOfGenes_2	K09249
+5187-YKL113C	K04799
+5188-YKL114C	K10771
+5189-YKL115C
+5190-YKL116C	K08286
+5191-YKL117W_NumOfGenes_2
+5192-YKL118W
+5193-YKL119C
+5194-YKL120W	K15117
+5195-YKL121W
+5196-YKL122C
+5197-YKL124W_NumOfGenes_2
+5198-YKL125W	K15216
+5199-YKL126W	K13303
+5200-YKL127W	K01835
+5201-YKL128C
+5202-YKL129C	K10356
+5203-YKL130C	K18736
+5204-YKL131W
+5205-YKL132C	K20457
+5206-YKL133C
+5207-YKL134C	K01410
+5208-YKL135C_NumOfGenes_2
+5209-YKL137W	K18171
+5210-YKL138C
+5211-YKL138C-A	K11571
+5212-YKL139W	K00916
+5213-YKL140W	K01052
+5214-YKL141W	K00236
+5215-YKL142W
+5216-YKL143W	K14798
+5217-YKL144C	K03022
+5218-YKL145W_NumOfGenes_2	K03061
+5219-YKL146W	K14209
+5220-YKL147C
+5221-YKL148C	K00234
+5222-YKL149C	K18328
+5223-YKL150W	K00326
+5224-YKL151C	K17757
+5225-YKL152C_NumOfGenes_2	K01834
+5226-YKL154W	K12272
+5227-YKL155C
+5228-YKL156W_NumOfGenes_2	K02978
+5229-YKL157W
+5230-YKL159C
+5231-YKL160W
+5232-YKL161C	K19847
+5233-YKL162C
+5234-YKL162C-A
+5235-YKL163W
+5236-YKL164C
+5237-YKL165C	K05285
+5238-YKL165C-A
+5239-YKL166C	K04345
+5240-YKL167C	K17440
+5241-YKL168C	K08286
+5242-YKL170W_NumOfGenes_2
+5243-YKL171W	K08286
+5244-YKL172W	K14823
+5245-YKL173W	K12853
+5246-YKL174C
+5247-YKL175W	K07238
+5248-YKL176C
+5249-YKL178C_NumOfGenes_2	K04627
+5250-YKL179C	K09313
+5251-YKL180W	K02880
+5252-YKL181W	K00948
+5253-YKL182W	K00668
+5254-YKL183C-A
+5255-YKL183W
+5256-YKL184W	K01581
+5257-YKL185W	K18658
+5258-YKL186C	K14543
+5259-YKL187C
+5260-YKL188C	K15628
+5261-YKL189W	K08272
+5262-YKL190W
+5263-YKL191W	K17866
+5264-YKL192C	K03955
+5265-YKL193C	K17550
+5266-YKL194C	K01868
+5267-YKL195W	K17782
+5268-YKL196C	K08516
+5269-YKL197C	K13338
+5270-YKL198C	K08286
+5271-YKL201C_NumOfGenes_2
+5272-YKL203C	K07203
+5273-YKL204W	K15908
+5274-YKL205W	K14288
+5275-YKL206C	K11880
+5276-YKL207W
+5277-YKL208W
+5278-YKL209C	K05658
+5279-YKL210W	K03178
+5280-YKL211C	K01656
+5281-YKL212W	K21797
+5282-YKL213C	K14018
+5283-YKL214C
+5284-YKL215C	K01469
+5285-YKL216W	K00226
+5286-YKL217W	K08178
+5287-YKL218C	K22589
+5288-YKL219W_NumOfGenes_2
+5289-YKL220C
+5290-YKL221W_NumOfGenes_2
+5291-YKL222C
+5292-YKL223W_NumOfGenes_4
+5293-YKL225W
+5294-YKR001C	K17065
+5295-YKR002W	K14376
+5296-YKR003W	K22285
+5297-YKR004C
+5298-YKR005C
+5299-YKR006C
+5300-YKR007W
+5301-YKR008W	K11759
+5302-YKR009C	K14729
+5303-YKR010C_NumOfGenes_2
+5304-YKR011C_NumOfGenes_2
+5305-YKR012C
+5306-YKR013W_NumOfGenes_2
+5307-YKR014C_NumOfGenes_2	K07889
+5308-YKR015C_NumOfGenes_2
+5309-YKR016W_NumOfGenes_2	K17785
+5310-YKR017C_NumOfGenes_2	K11968
+5311-YKR018C_NumOfGenes_2
+5312-YKR019C_NumOfGenes_2
+5313-YKR020W_NumOfGenes_2	K20297
+5314-YKR021W_NumOfGenes_2	K20061
+5315-YKR022C_NumOfGenes_2
+5316-YKR023W_NumOfGenes_2
+5317-YKR024C_NumOfGenes_2	K14806
+5318-YKR025W_NumOfGenes_2	K14721
+5319-YKR026C_NumOfGenes_2	K03239
+5320-YKR027W_NumOfGenes_2	K19880
+5321-YKR028W_NumOfGenes_2	K15458
+5322-YKR029C_NumOfGenes_2	K07117
+5323-YKR030W_NumOfGenes_2
+5324-YKR031C_NumOfGenes_2	K01115
+5325-YKR032W
+5326-YKR034W_NumOfGenes_3	K09184
+5327-YKR035W-A_NumOfGenes_3	K12197
+5328-YKR036C_NumOfGenes_3	K17970
+5329-YKR037C_NumOfGenes_2	K11573
+5330-YKR038C_NumOfGenes_2	K01409
+5331-YKR039W_NumOfGenes_2	K16261
+5332-YKR040C
+5333-YKR041W
+5334-YKR042W	K01238
+5335-YKR043C	K22315
+5336-YKR044W
+5337-YKR045C
+5338-YKR046C
+5339-YKR047W
+5340-YKR048C	K11279
+5341-YKR049C
+5342-YKR050W
+5343-YKR051W
+5344-YKR052C	K15113
+5345-YKR053C	K04717
+5346-YKR054C	K10413
+5347-YKR055W	K07975
+5348-YKR056W	K15331
+5349-YKR057W
+5350-YKR058W	K00750
+5351-YKR059W_NumOfGenes_2	K03257
+5352-YKR060W_NumOfGenes_2	K14775
+5353-YKR061W_NumOfGenes_2	K03854
+5354-YKR062W_NumOfGenes_2	K03137
+5355-YKR063C_NumOfGenes_2	K16912
+5356-YKR064W
+5357-YKR065C	K17806
+5358-YKR066C	K00428
+5359-YKR067W	K13507
+5360-YKR068C	K20302
+5361-YKR069W	K00589
+5362-YKR070W
+5363-YKR071C	K22746
+5364-YKR072C
+5365-YKR073C
+5366-YKR074W
+5367-YKR075C_NumOfGenes_2
+5368-YKR076W	K07393
+5369-YKR077W	K21629
+5370-YKR078W
+5371-YKR079C	K00784
+5372-YKR080W	K00295
+5373-YKR081C	K14847
+5374-YKR082W	K14300
+5375-YKR083C	K11567
+5376-YKR084C	K14416
+5377-YKR085C
+5378-YKR086W	K12815
+5379-YKR087C
+5380-YKR088C
+5381-YKR089C	K14674
+5382-YKR090W
+5383-YKR091W
+5384-YKR092C
+5385-YKR093W	K03305
+5386-YKR094C
+5387-YKR095W	K09291
+5388-YKR095W-A	K15902
+5389-YKR096W
+5390-YKR097W	K01610
+5391-YKR098C	K11871
+5392-YKR099W	K09423
+5393-YKR100C
+5394-YKR101W	K11120
+5395-YKR102W
+5396-YKR103W
+5397-YKR104W
+5398-YKR105C_NumOfGenes_2
+5399-YKR106W_NumOfGenes_2
+5400-YLL001W	K17065
+5401-YLL002W	K11309
+5402-YLL003W
+5403-YLL004W	K02605
+5404-YLL005C	K21989
+5405-YLL006W	K17764
+5406-YLL006W-A
+5407-YLL007C
+5408-YLL008W	K13181
+5409-YLL009C	K02260
+5410-YLL010C	K15731
+5411-YLL011W	K11806
+5412-YLL012W
+5413-YLL013C	K17944
+5414-YLL014W
+5415-YLL015W
+5416-YLL016W
+5417-YLL017W_NumOfGenes_2
+5418-YLL018C	K22503
+5419-YLL018C-A	K18183
+5420-YLL019C_NumOfGenes_2	K08287
+5421-YLL020C
+5422-YLL021W	K19846
+5423-YLL022C	K11372
+5424-YLL023C	K20724
+5425-YLL025W
+5426-YLL026W	K03695
+5427-YLL027W	K22063
+5428-YLL028W	K08157
+5429-YLL029W	K01262
+5430-YLL030C
+5431-YLL031C	K05288
+5432-YLL032C
+5433-YLL033W
+5434-YLL034C	K14571
+5435-YLL035W	K06947
+5436-YLL036C	K10599
+5437-YLL037W
+5438-YLL038C
+5439-YLL039C	K08770
+5440-YLL040C	K19525
+5441-YLL041C	K00235
+5442-YLL042C	K08338
+5443-YLL043W	K03441
+5444-YLL046C_NumOfGenes_2
+5445-YLL048C
+5446-YLL049W	K18600
+5447-YLL050C
+5448-YLL051C
+5449-YLL052C	K09885
+5450-YLL053C	K09885
+5451-YLL054C
+5452-YLL055W
+5453-YLL056C
+5454-YLL057C	K19245
+5455-YLL058W	K01739
+5456-YLL059C
+5457-YLL060C
+5458-YLL061W	K16261
+5459-YLL062C	K00547
+5460-YLL063C
+5461-YLL066W-B
+5462-YLR001C_NumOfGenes_2
+5463-YLR002C_NumOfGenes_2	K14834
+5464-YLR003C_NumOfGenes_2	K14784
+5465-YLR004C_NumOfGenes_2
+5466-YLR005W_NumOfGenes_2	K03142
+5467-YLR006C_NumOfGenes_2	K11233
+5468-YLR007W_NumOfGenes_2
+5469-YLR008C_NumOfGenes_2	K09539
+5470-YLR009W_NumOfGenes_2	K02896
+5471-YLR010C_NumOfGenes_2	K11116
+5472-YLR011W_NumOfGenes_2
+5473-YLR012C_NumOfGenes_2
+5474-YLR013W_NumOfGenes_2
+5475-YLR014C_NumOfGenes_2
+5476-YLR015W_NumOfGenes_2	K14967
+5477-YLR016C_NumOfGenes_2	K13108
+5478-YLR017W_NumOfGenes_2	K00772
+5479-YLR018C_NumOfGenes_2	K18724
+5480-YLR019W_NumOfGenes_2	K15731
+5481-YLR020C_NumOfGenes_2
+5482-YLR021W_NumOfGenes_2	K11881
+5483-YLR022C_NumOfGenes_2	K14574
+5484-YLR023C	K07297
+5485-YLR024C
+5486-YLR025W	K12194
+5487-YLR026C	K08490
+5488-YLR027C	K14454
+5489-YLR028C	K00602
+5490-YLR029C	K02877
+5491-YLR030W
+5492-YLR031W
+5493-YLR032W	K15505
+5494-YLR033W	K11766
+5495-YLR034C	K12346
+5496-YLR035C
+5497-YLR036C_NumOfGenes_2
+5498-YLR037C
+5499-YLR038C	K02267
+5500-YLR039C	K20476
+5501-YLR040C
+5502-YLR041W
+5503-YLR042C
+5504-YLR043C	K03671
+5505-YLR044C	K01568
+5506-YLR045C	K16803
+5507-YLR046C
+5508-YLR047C
+5509-YLR048W	K02998
+5510-YLR049C
+5511-YLR050C
+5512-YLR051C
+5513-YLR052W	K11677
+5514-YLR053C
+5515-YLR054C
+5516-YLR055C	K11360
+5517-YLR056W	K00227
+5518-YLR057W	K01230
+5519-YLR058C	K00600
+5520-YLR059C	K13288
+5521-YLR060W	K01890
+5522-YLR061W_NumOfGenes_2
+5523-YLR063W	K19308
+5524-YLR064W	K20724
+5525-YLR065C
+5526-YLR066W	K12948
+5527-YLR067C	K17669
+5528-YLR068W
+5529-YLR069C	K02355
+5530-YLR070C	K05351
+5531-YLR071C	K15156
+5532-YLR072W
+5533-YLR073C
+5534-YLR074C_NumOfGenes_2	K14821
+5535-YLR075W_NumOfGenes_3	K02866
+5536-YLR077W_NumOfGenes_2
+5537-YLR078C_NumOfGenes_2
+5538-YLR079W	K03085
+5539-YLR080W	K10080
+5540-YLR081W	K08139
+5541-YLR082C_NumOfGenes_2
+5542-YLR083C	K17086
+5543-YLR084C
+5544-YLR085C	K11662
+5545-YLR086W	K06675
+5546-YLR087C
+5547-YLR088W	K05289
+5548-YLR089C	K00814
+5549-YLR090W
+5550-YLR091W
+5551-YLR092W	K14708
+5552-YLR093C	K08564
+5553-YLR094C
+5554-YLR095C
+5555-YLR096W	K19852
+5556-YLR097C	K10295
+5557-YLR098C
+5558-YLR099C	K13699
+5559-YLR099W-A
+5560-YLR100W	K09827
+5561-YLR101C
+5562-YLR102C	K03356
+5563-YLR103C	K06628
+5564-YLR104W
+5565-YLR105C	K15322
+5566-YLR106C	K14572
+5567-YLR107W
+5568-YLR108C
+5569-YLR109W	K14171
+5570-YLR110C
+5571-YLR111W
+5572-YLR112W
+5573-YLR113W	K04441
+5574-YLR114C
+5575-YLR115W	K14402
+5576-YLR116W	K13095
+5577-YLR117C	K12869
+5578-YLR118C	K06999
+5579-YLR119W
+5580-YLR120C	K06009
+5581-YLR120W-A
+5582-YLR121C
+5583-YLR122C_NumOfGenes_2
+5584-YLR124W_NumOfGenes_2
+5585-YLR125W_NumOfGenes_2
+5586-YLR126C
+5587-YLR127C	K03349
+5588-YLR128W
+5589-YLR129W	K14556
+5590-YLR130C	K14709
+5591-YLR131C	K09238
+5592-YLR132C
+5593-YLR133W	K00866
+5594-YLR134W	K01568
+5595-YLR135W	K15079
+5596-YLR136C
+5597-YLR137W
+5598-YLR138W	K03316
+5599-YLR139C
+5600-YLR140W
+5601-YLR141W	K15217
+5602-YLR142W	K00318
+5603-YLR143W	K06927
+5604-YLR144C	K01180
+5605-YLR145W	K14532
+5606-YLR146C	K00802
+5607-YLR146W-A
+5608-YLR147C	K11088
+5609-YLR148W	K20181
+5610-YLR149C
+5611-YLR149C-A
+5612-YLR150W
+5613-YLR151C
+5614-YLR152C	K07088
+5615-YLR153C	K01895
+5616-YLR154C
+5617-YLR154C-H_NumOfGenes_4
+5618-YLR154W-F
+5619-YLR157C_NumOfGenes_4	K01424
+5620-YLR161W_NumOfGenes_5
+5621-YLR162W
+5622-YLR162W-A
+5623-YLR163C_NumOfGenes_2	K17732
+5624-YLR164W	K00237
+5625-YLR165C	K15265
+5626-YLR166C	K19984
+5627-YLR167W	K02977
+5628-YLR168C
+5629-YLR169W
+5630-YLR170C_NumOfGenes_2	K12394
+5631-YLR172C	K00586
+5632-YLR173W
+5633-YLR174W	K00031
+5634-YLR175W	K11131
+5635-YLR176C	K09175
+5636-YLR177W
+5637-YLR178C	K06910
+5638-YLR179C	K06910
+5639-YLR180W	K00789
+5640-YLR181C	K12199
+5641-YLR182W	K06648
+5642-YLR183C
+5643-YLR184W
+5644-YLR185W
+5645-YLR186W	K14568
+5646-YLR187W	K12609
+5647-YLR188W	K02021
+5648-YLR189C	K05841
+5649-YLR190W	K17976
+5650-YLR191W	K13344
+5651-YLR192C	K03245
+5652-YLR193C
+5653-YLR194C
+5654-YLR195C	K00671
+5655-YLR196W	K14791
+5656-YLR197W_NumOfGenes_2	K14564
+5657-YLR199C
+5658-YLR200W	K04798
+5659-YLR201C	K18587
+5660-YLR202C
+5661-YLR203C	K17656
+5662-YLR204W
+5663-YLR205C
+5664-YLR206W	K12471
+5665-YLR207W	K14023
+5666-YLR208W	K14004
+5667-YLR209C	K03783
+5668-YLR210W	K06659
+5669-YLR211C
+5670-YLR212C	K10389
+5671-YLR213C
+5672-YLR214W
+5673-YLR215C
+5674-YLR216C_NumOfGenes_2	K05864
+5675-YLR218C	K18177
+5676-YLR219W
+5677-YLR220W	K22736
+5678-YLR221C	K14854
+5679-YLR222C	K14555
+5680-YLR222C-A
+5681-YLR223C	K21627
+5682-YLR224W
+5683-YLR225C
+5684-YLR226W	K15563
+5685-YLR227C
+5686-YLR228C
+5687-YLR229C	K04393
+5688-YLR230W
+5689-YLR231C_NumOfGenes_2	K01556
+5690-YLR233C	K11132
+5691-YLR234W	K03165
+5692-YLR235C
+5693-YLR236C
+5694-YLR237W	K03457
+5695-YLR238W
+5696-YLR239C	K03801
+5697-YLR240W	K00914
+5698-YLR241W	K21989
+5699-YLR242C	K21848
+5700-YLR243W	K06883
+5701-YLR244C	K01265
+5702-YLR245C	K01489
+5703-YLR246W	K16675
+5704-YLR247C	K15710
+5705-YLR248W	K08286
+5706-YLR249W	K03235
+5707-YLR250W
+5708-YLR251W	K13348
+5709-YLR252W
+5710-YLR253W	K08869
+5711-YLR254C
+5712-YLR255C
+5713-YLR256W	K09247
+5714-YLR257W
+5715-YLR258W	K00693
+5716-YLR259C	K04077
+5717-YLR260W	K04718
+5718-YLR261C_NumOfGenes_2
+5719-YLR262C-A
+5720-YLR263W	K12777
+5721-YLR264C-A
+5722-YLR264W	K02979
+5723-YLR265C	K10983
+5724-YLR266C
+5725-YLR267W
+5726-YLR268W	K08517
+5727-YLR269C
+5728-YLR270W	K12584
+5729-YLR271W
+5730-YLR272C	K06677
+5731-YLR273C_NumOfGenes_2
+5732-YLR274W_NumOfGenes_2	K02209
+5733-YLR275W_NumOfGenes_2	K11096
+5734-YLR276C_NumOfGenes_2	K14810
+5735-YLR277C	K14403
+5736-YLR278C
+5737-YLR279W
+5738-YLR281C_NumOfGenes_2
+5739-YLR282C
+5740-YLR283W
+5741-YLR284C	K13239
+5742-YLR285C-A
+5743-YLR285W	K17878
+5744-YLR286C_NumOfGenes_2	K01183
+5745-YLR287C
+5746-YLR287C-A
+5747-YLR288C	K02544
+5748-YLR289W	K21594
+5749-YLR290C
+5750-YLR291C	K03754
+5751-YLR292C	K12274
+5752-YLR293C	K07936
+5753-YLR294C
+5754-YLR295C	K02141
+5755-YLR296W
+5756-YLR297W
+5757-YLR298C	K11095
+5758-YLR299W_NumOfGenes_2	K00681
+5759-YLR300W	K01210
+5760-YLR301W
+5761-YLR302C
+5762-YLR303W	K17069
+5763-YLR304C	K01681
+5764-YLR305C	K00888
+5765-YLR306W
+5766-YLR307C-A
+5767-YLR307W	K01452
+5768-YLR308W	K01452
+5769-YLR309C
+5770-YLR310C	K03099
+5771-YLR311C
+5772-YLR312C
+5773-YLR312W-A	K17437
+5774-YLR313C
+5775-YLR314C	K16944
+5776-YLR315W
+5777-YLR316C_NumOfGenes_2	K15442
+5778-YLR318W	K11126
+5779-YLR319C
+5780-YLR320W
+5781-YLR321C_NumOfGenes_2	K11770
+5782-YLR323C	K13127
+5783-YLR324W
+5784-YLR325C	K02923
+5785-YLR326W
+5786-YLR327C
+5787-YLR328W	K06210
+5788-YLR329W
+5789-YLR330W	K19877
+5790-YLR332W_NumOfGenes_2	K11245
+5791-YLR333C	K02975
+5792-YLR334C
+5793-YLR335W	K18722
+5794-YLR336C	K17583
+5795-YLR337C_NumOfGenes_2	K19475
+5796-YLR340W_NumOfGenes_2	K02941
+5797-YLR341W
+5798-YLR342W	K00706
+5799-YLR342W-A
+5800-YLR343W
+5801-YLR344W	K02898
+5802-YLR345W	K19030
+5803-YLR346C
+5804-YLR347C_NumOfGenes_2	K14293
+5805-YLR348C	K13577
+5806-YLR349W
+5807-YLR350W
+5808-YLR351C	K13566
+5809-YLR352W
+5810-YLR353W
+5811-YLR354C	K00616
+5812-YLR355C	K00053
+5813-YLR356W	K19717
+5814-YLR358C_NumOfGenes_2
+5815-YLR359W	K01756
+5816-YLR360W
+5817-YLR361C
+5818-YLR361C-A
+5819-YLR362W	K11228
+5820-YLR363C
+5821-YLR363W-A
+5822-YLR364W
+5823-YLR365W
+5824-YLR366W_NumOfGenes_2
+5825-YLR367W
+5826-YLR368W_NumOfGenes_3	K15070
+5827-YLR370C_NumOfGenes_2	K05756
+5828-YLR371W_NumOfGenes_2	K19842
+5829-YLR372W_NumOfGenes_2	K10246
+5830-YLR373C_NumOfGenes_2
+5831-YLR374C
+5832-YLR375W_NumOfGenes_2
+5833-YLR376C_NumOfGenes_2
+5834-YLR377C_NumOfGenes_2	K03841
+5835-YLR378C_NumOfGenes_2	K10956
+5836-YLR379W
+5837-YLR380W_NumOfGenes_2
+5838-YLR381W_NumOfGenes_2	K11501
+5839-YLR382C_NumOfGenes_2	K01869
+5840-YLR383W_NumOfGenes_2
+5841-YLR384C_NumOfGenes_2	K11373
+5842-YLR385C_NumOfGenes_2	K11683
+5843-YLR386W_NumOfGenes_2	K15305
+5844-YLR387C_NumOfGenes_2	K14816
+5845-YLR388W_NumOfGenes_2	K02980
+5846-YLR389C_NumOfGenes_2	K01408
+5847-YLR390W_NumOfGenes_2
+5848-YLR390W-A_NumOfGenes_2
+5849-YLR392C_NumOfGenes_2
+5850-YLR393W_NumOfGenes_2	K18192
+5851-YLR394W_NumOfGenes_2
+5852-YLR395C_NumOfGenes_2	K02272
+5853-YLR396C_NumOfGenes_2	K20182
+5854-YLR397C_NumOfGenes_2	K14575
+5855-YLR398C_NumOfGenes_2	K12599
+5856-YLR399C_NumOfGenes_3	K11684
+5857-YLR400W
+5858-YLR401C_NumOfGenes_2	K05544
+5859-YLR402W
+5860-YLR403W_NumOfGenes_2	K19487
+5861-YLR404W_NumOfGenes_2
+5862-YLR405W_NumOfGenes_2	K05545
+5863-YLR406C_NumOfGenes_2
+5864-YLR406C-A
+5865-YLR407W_NumOfGenes_2
+5866-YLR408C_NumOfGenes_2	K22239
+5867-YLR409C_NumOfGenes_2	K14554
+5868-YLR410W_NumOfGenes_2
+5869-YLR411W_NumOfGenes_2	K14686
+5870-YLR412C-A
+5871-YLR412W_NumOfGenes_2
+5872-YLR413W_NumOfGenes_2
+5873-YLR414C_NumOfGenes_2
+5874-YLR415C_NumOfGenes_3
+5875-YLR417W_NumOfGenes_2	K12190
+5876-YLR418C_NumOfGenes_2	K15175
+5877-YLR419W_NumOfGenes_2
+5878-YLR420W_NumOfGenes_2	K01465
+5879-YLR421C_NumOfGenes_2	K06691
+5880-YLR422W	K05727
+5881-YLR423C	K08329
+5882-YLR424W	K13103
+5883-YLR425W	K19843
+5884-YLR426W
+5885-YLR427W
+5886-YLR428C
+5887-YLR429W	K13886
+5888-YLR430W	K10706
+5889-YLR431C	K17909
+5890-YLR432W	K00088
+5891-YLR433C	K04348
+5892-YLR434C
+5893-YLR435W	K14800
+5894-YLR436C
+5895-YLR437C
+5896-YLR438C-A	K12622
+5897-YLR438W_NumOfGenes_2	K00819
+5898-YLR439W	K17428
+5899-YLR440C	K20475
+5900-YLR441C	K02984
+5901-YLR442C	K11122
+5902-YLR443W_NumOfGenes_2
+5903-YLR445W
+5904-YLR446W_NumOfGenes_2	K00844
+5905-YLR447C_NumOfGenes_2	K02146
+5906-YLR448W_NumOfGenes_2	K02934
+5907-YLR449W_NumOfGenes_2	K14826
+5908-YLR450W	K00021
+5909-YLR451W	K09242
+5910-YLR452C	K19838
+5911-YLR453C	K11119
+5912-YLR454W
+5913-YLR455W
+5914-YLR456W
+5915-YLR457C_NumOfGenes_2
+5916-YLR459W	K05293
+5917-YLR460C_NumOfGenes_2
+5918-YLR466C-B
+5919-YLR467W_NumOfGenes_63
+5920-YML001W	K07897
+5921-YML002W
+5922-YML003W
+5923-YML004C	K01759
+5924-YML005W	K07055
+5925-YML006C
+5926-YML007C-A
+5927-YML007W	K09043
+5928-YML008C	K00559
+5929-YML009C
+5930-YML009C-A
+5931-YML010W_NumOfGenes_2	K15172
+5932-YML011C
+5933-YML012W	K20352
+5934-YML013W_NumOfGenes_2	K14013
+5935-YML014W	K15444
+5936-YML015C	K03135
+5937-YML016C	K06269
+5938-YML017W
+5939-YML018C	K15289
+5940-YML019W	K12669
+5941-YML020W
+5942-YML021C	K03648
+5943-YML022W	K00759
+5944-YML023C
+5945-YML024W
+5946-YML025C	K02926
+5947-YML026C
+5948-YML027W	K12411
+5949-YML028W	K03386
+5950-YML029W	K14024
+5951-YML030W
+5952-YML031C-A
+5953-YML031W	K14315
+5954-YML032C	K10873
+5955-YML034W_NumOfGenes_2
+5956-YML035C	K01490
+5957-YML036W	K15901
+5958-YML037C
+5959-YML038C	K15280
+5960-YML041C	K11663
+5961-YML042W	K00624
+5962-YML043C	K15222
+5963-YML046W	K13217
+5964-YML047C
+5965-YML047W-A
+5966-YML048W
+5967-YML049C	K12830
+5968-YML050W
+5969-YML051W
+5970-YML052W
+5971-YML053C
+5972-YML054C	K00101
+5973-YML054C-A
+5974-YML055W	K12947
+5975-YML056C
+5976-YML057C-A
+5977-YML057W	K04348
+5978-YML058W
+5979-YML058W-A
+5980-YML059C	K14676
+5981-YML060W	K03660
+5982-YML061C	K15255
+5983-YML062C	K18714
+5984-YML063W	K02984
+5985-YML064C	K06682
+5986-YML065W	K02603
+5987-YML066C
+5988-YML067C	K20366
+5989-YML068W	K11971
+5990-YML069W	K09272
+5991-YML070W	K00863
+5992-YML071C	K20295
+5993-YML072C
+5994-YML073C
+5995-YML074C	K14826
+5996-YML075C	K00021
+5997-YML076C
+5998-YML077W	K20300
+5999-YML078W	K01802
+6000-YML079W	K09705
+6001-YML080W	K05542
+6002-YML081C-A	K02142
+6003-YML081W
+6004-YML082W	K01739
+6005-YML083C
+6006-YML084W
+6007-YML085C
+6008-YML086C	K00107
+6009-YML087C
+6010-YML088W	K15073
+6011-YML089C
+6012-YML090W
+6013-YML091C	K14533
+6014-YML092C	K02726
+6015-YML093W	K14567
+6016-YML094W_NumOfGenes_2
+6017-YML095C	K10849
+6018-YML096W
+6019-YML097C	K20131
+6020-YML098W	K03127
+6021-YML099C	K09246
+6022-YML099W-A
+6023-YML100W	K22337
+6024-YML100W-A
+6025-YML101C
+6026-YML102W_NumOfGenes_2	K10751
+6027-YML103C	K14311
+6028-YML104C	K17887
+6029-YML105C	K03105
+6030-YML106W	K00762
+6031-YML107C
+6032-YML108W
+6033-YML109W
+6034-YML110C	K06127
+6035-YML111W
+6036-YML112W	K15565
+6037-YML113W
+6038-YML114C	K14649
+6039-YML115C	K05530
+6040-YML116W	K08165
+6041-YML116W-A
+6042-YML117W
+6043-YML118W
+6044-YML119W
+6045-YML120C	K17871
+6046-YML121W	K16185
+6047-YML122C
+6048-YML123C	K08176
+6049-YML124C
+6050-YML125C	K00326
+6051-YML126C	K01641
+6052-YML127W	K11763
+6053-YML128C
+6054-YML129C	K18181
+6055-YML130C
+6056-YML131W	K07119
+6057-YMR001C	K06660
+6058-YMR001C-A
+6059-YMR002W
+6060-YMR003W
+6061-YMR004W	K17922
+6062-YMR005W
+6063-YMR006C	K13333
+6064-YMR007W
+6065-YMR008C	K13333
+6066-YMR009W	K08967
+6067-YMR010W
+6068-YMR011W	K08139
+6069-YMR012W	K03255
+6070-YMR013C_NumOfGenes_2	K00902
+6071-YMR013W-A
+6072-YMR014W
+6073-YMR015C	K09831
+6074-YMR016C	K12763
+6075-YMR017W
+6076-YMR018W
+6077-YMR019W
+6078-YMR020W	K13367
+6079-YMR021C
+6080-YMR022W	K04555
+6081-YMR023C	K03650
+6082-YMR024W
+6083-YMR025W
+6084-YMR026C	K13345
+6085-YMR027W
+6086-YMR028W	K17606
+6087-YMR029C
+6088-YMR030W
+6089-YMR030W-A
+6090-YMR031C
+6091-YMR031W-A
+6092-YMR032W
+6093-YMR033W
+6094-YMR034C	K14347
+6095-YMR035W	K09648
+6096-YMR036C	K02555
+6097-YMR037C	K09468
+6098-YMR038C_NumOfGenes_2	K04569
+6099-YMR039C
+6100-YMR040W
+6101-YMR041C	K00062
+6102-YMR042W	K19808
+6103-YMR043W	K12412
+6104-YMR044W
+6105-YMR047C	K14297
+6106-YMR048W	K10998
+6107-YMR049C	K14824
+6108-YMR052C-A
+6109-YMR052W
+6110-YMR053C
+6111-YMR054W	K02154
+6112-YMR055C	K02179
+6113-YMR056C	K05863
+6114-YMR057C
+6115-YMR058W	K19791
+6116-YMR059W	K15325
+6117-YMR060C	K17714
+6118-YMR061W	K14408
+6119-YMR062C	K00620
+6120-YMR063W
+6121-YMR064W	K17671
+6122-YMR065W
+6123-YMR066W	K17674
+6124-YMR067C
+6125-YMR068W	K06867
+6126-YMR069W	K20794
+6127-YMR070W
+6128-YMR071C
+6129-YMR072W	K11830
+6130-YMR073C
+6131-YMR074C	K06875
+6132-YMR075W_NumOfGenes_2
+6133-YMR076C	K11267
+6134-YMR077C	K12195
+6135-YMR078C	K11269
+6136-YMR079W
+6137-YMR080C	K14326
+6138-YMR081C
+6139-YMR082C
+6140-YMR083W	K13953
+6141-YMR084W	K00820
+6142-YMR085W
+6143-YMR086C-A
+6144-YMR086W
+6145-YMR087W
+6146-YMR088C
+6147-YMR089C	K08956
+6148-YMR090W
+6149-YMR091C	K11761
+6150-YMR092C
+6151-YMR093W	K14549
+6152-YMR094W	K11576
+6153-YMR095C	K08681
+6154-YMR096W	K06215
+6155-YMR097C	K19828
+6156-YMR098C
+6157-YMR099C	K01792
+6158-YMR100W
+6159-YMR101C	K11778
+6160-YMR102C	K20241
+6161-YMR103C
+6162-YMR104C	K13303
+6163-YMR105C	K01835
+6164-YMR105W-A
+6165-YMR106C	K10885
+6166-YMR107W
+6167-YMR108W	K01652
+6168-YMR109W	K10356
+6169-YMR110C	K00128
+6170-YMR111C
+6171-YMR112C	K15132
+6172-YMR113W	K20457
+6173-YMR114C
+6174-YMR115W
+6175-YMR116C	K14753
+6176-YMR117C	K11557
+6177-YMR118C	K00236
+6178-YMR119W
+6179-YMR119W-A
+6180-YMR120C	K00602
+6181-YMR121C	K02877
+6182-YMR122C
+6183-YMR122W-A
+6184-YMR123W
+6185-YMR124W
+6186-YMR125W
+6187-YMR126C
+6188-YMR127C	K11401
+6189-YMR128W	K14780
+6190-YMR129W	K18725
+6191-YMR130W	K07025
+6192-YMR131C	K14848
+6193-YMR132C
+6194-YMR133W
+6195-YMR134W
+6196-YMR135C
+6197-YMR135W-A
+6198-YMR136W
+6199-YMR137C	K15340
+6200-YMR138W	K07943
+6201-YMR139W	K12766
+6202-YMR140W
+6203-YMR141C
+6204-YMR142C_NumOfGenes_2	K02873
+6205-YMR143W
+6206-YMR144W
+6207-YMR145C	K17871
+6208-YMR146C	K03246
+6209-YMR147W
+6210-YMR148W
+6211-YMR149W	K12667
+6212-YMR150C	K09647
+6213-YMR151W
+6214-YMR152W
+6215-YMR153W_NumOfGenes_2	K14313
+6216-YMR154C
+6217-YMR155W
+6218-YMR156C	K08075
+6219-YMR157C
+6220-YMR158C-A
+6221-YMR158W
+6222-YMR159C_NumOfGenes_2	K08340
+6223-YMR160W
+6224-YMR161W	K09518
+6225-YMR162C	K01530
+6226-YMR163C
+6227-YMR164C	K19816
+6228-YMR165C	K15728
+6229-YMR166C
+6230-YMR167W	K08734
+6231-YMR168C	K11575
+6232-YMR169C	K00129
+6233-YMR170C	K00129
+6234-YMR171C
+6235-YMR172W_NumOfGenes_2	K19815
+6236-YMR173W_NumOfGenes_3
+6237-YMR174C_NumOfGenes_2
+6238-YMR175W_NumOfGenes_2
+6239-YMR175W-A_NumOfGenes_2
+6240-YMR176W
+6241-YMR177W
+6242-YMR178W
+6243-YMR179W
+6244-YMR180C	K01098
+6245-YMR181C
+6246-YMR182C
+6247-YMR182W-A
+6248-YMR183C_NumOfGenes_2	K08486
+6249-YMR184W_NumOfGenes_2
+6250-YMR185W_NumOfGenes_2
+6251-YMR186W_NumOfGenes_2	K04079
+6252-YMR187C
+6253-YMR188C	K02961
+6254-YMR189W	K00281
+6255-YMR190C	K10901
+6256-YMR191W
+6257-YMR192W
+6258-YMR193W	K02902
+6259-YMR194C-A
+6260-YMR194C-B
+6261-YMR194W_NumOfGenes_2
+6262-YMR195W
+6263-YMR196W
+6264-YMR197C	K08493
+6265-YMR198W
+6266-YMR199W	K12760
+6267-YMR200W
+6268-YMR201C	K10847
+6269-YMR202W	K09829
+6270-YMR203W	K11518
+6271-YMR204C
+6272-YMR205C	K00850
+6273-YMR206W
+6274-YMR207C	K11262
+6275-YMR208W	K00869
+6276-YMR209C
+6277-YMR210W	K07019
+6278-YMR211W
+6279-YMR212C	K21842
+6280-YMR213W	K12860
+6281-YMR214W	K14002
+6282-YMR215W
+6283-YMR216C	K08832
+6284-YMR217W	K01951
+6285-YMR218C	K20307
+6286-YMR219W
+6287-YMR220W	K00938
+6288-YMR221C
+6289-YMR222C
+6290-YMR223W	K11366
+6291-YMR224C	K10865
+6292-YMR225C	K17434
+6293-YMR226C	K16066
+6294-YMR227C	K03132
+6295-YMR228W	K15267
+6296-YMR229C	K14792
+6297-YMR230W
+6298-YMR230W-A
+6299-YMR231W	K20179
+6300-YMR232W
+6301-YMR233W	K15223
+6302-YMR234W	K03469
+6303-YMR235C	K14319
+6304-YMR236W	K03133
+6305-YMR237W	K19881
+6306-YMR238W	K08257
+6307-YMR239C	K03685
+6308-YMR240C	K12829
+6309-YMR241W
+6310-YMR242C	K02882
+6311-YMR242W-A
+6312-YMR243C	K14688
+6313-YMR244C-A_NumOfGenes_2	K18179
+6314-YMR244W
+6315-YMR246W	K01897
+6316-YMR247C	K22377
+6317-YMR247W-A
+6318-YMR250W	K01580
+6319-YMR251W
+6320-YMR251W-A
+6321-YMR252C
+6322-YMR253C
+6323-YMR254C
+6324-YMR255W	K18731
+6325-YMR256C	K02269
+6326-YMR257C	K17667
+6327-YMR258C
+6328-YMR259C
+6329-YMR260C	K03236
+6330-YMR261C	K22337
+6331-YMR262W
+6332-YMR263W	K19202
+6333-YMR264W	K14022
+6334-YMR265C
+6335-YMR266W	K21989
+6336-YMR267W	K01507
+6337-YMR268C
+6338-YMR269W	K14796
+6339-YMR270C	K15220
+6340-YMR271C	K00762
+6341-YMR272C_NumOfGenes_2	K19703
+6342-YMR272W-B
+6343-YMR273C
+6344-YMR274C	K08658
+6345-YMR275C
+6346-YMR276W	K04523
+6347-YMR277W	K15732
+6348-YMR278W	K01835
+6349-YMR279C	K08165
+6350-YMR280C	K09240
+6351-YMR281W	K03434
+6352-YMR282C	K17672
+6353-YMR283C	K15463
+6354-YMR284W	K10884
+6355-YMR285C	K14812
+6356-YMR286W
+6357-YMR287C	K19782
+6358-YMR288W	K12828
+6359-YMR289W	K02619
+6360-YMR290C	K13179
+6361-YMR290W-A
+6362-YMR291W	K08286
+6363-YMR292W
+6364-YMR293C	K02433
+6365-YMR294W	K18599
+6366-YMR295C_NumOfGenes_2
+6367-YMR296C	K00654
+6368-YMR297W	K13289
+6369-YMR298W
+6370-YMR299C
+6371-YMR300C	K00764
+6372-YMR301C	K05663
+6373-YMR302C
+6374-YMR303C	K13953
+6375-YMR304C-A
+6376-YMR304W	K11838
+6377-YMR305C
+6378-YMR306W_NumOfGenes_2	K00706
+6379-YMR307W_NumOfGenes_2
+6380-YMR308C	K20222
+6381-YMR309C	K03252
+6382-YMR310C	K09142
+6383-YMR311C	K16833
+6384-YMR312W	K11377
+6385-YMR313C	K14675
+6386-YMR314W	K02725
+6387-YMR315W
+6388-YMR315W-A
+6389-YMR316C-A
+6390-YMR316W
+6391-YMR317W_NumOfGenes_3
+6392-YMR318C	K00002
+6393-YMR319C	K19792
+6394-YMR320W
+6395-YMR324C
+6396-YMR326C_NumOfGenes_2
+6397-YNL001W	K06965
+6398-YNL002C	K02937
+6399-YNL003C	K15111
+6400-YNL004W
+6401-YNL005C
+6402-YNL006W	K08266
+6403-YNL007C	K09510
+6404-YNL008C
+6405-YNL009W	K00031
+6406-YNL010W
+6407-YNL011C
+6408-YNL012W	K13357
+6409-YNL014W_NumOfGenes_2	K03235
+6410-YNL015W
+6411-YNL016W	K13201
+6412-YNL017C
+6413-YNL018C_NumOfGenes_2
+6414-YNL020C	K08853
+6415-YNL021W	K11407
+6416-YNL022C	K15264
+6417-YNL023C	K12236
+6418-YNL024C	K21804
+6419-YNL024C-A
+6420-YNL025C	K15161
+6421-YNL026W	K07277
+6422-YNL027W	K21543
+6423-YNL028W
+6424-YNL029C	K03854
+6425-YNL031C	K11253
+6426-YNL032W	K18045
+6427-YNL033W_NumOfGenes_2
+6428-YNL035C
+6429-YNL036W	K01673
+6430-YNL037C	K00030
+6431-YNL038W	K03858
+6432-YNL039W	K15198
+6433-YNL040W	K07050
+6434-YNL041C	K20293
+6435-YNL042W
+6436-YNL042W-B
+6437-YNL044W_NumOfGenes_2
+6438-YNL045W	K01254
+6439-YNL046W
+6440-YNL047C
+6441-YNL048W	K03844
+6442-YNL049C	K14007
+6443-YNL050C
+6444-YNL051W
+6445-YNL052W	K02263
+6446-YNL053W	K11240
+6447-YNL054W
+6448-YNL055C	K15040
+6449-YNL056W	K18044
+6450-YNL058C_NumOfGenes_2
+6451-YNL059C	K11672
+6452-YNL061W	K14835
+6453-YNL062C	K03256
+6454-YNL063W
+6455-YNL064C	K09503
+6456-YNL065W
+6457-YNL066W	K01238
+6458-YNL067W	K02940
+6459-YNL067W-A
+6460-YNL067W-B
+6461-YNL068C
+6462-YNL069C
+6463-YNL070W	K17771
+6464-YNL071W	K00627
+6465-YNL072W	K10743
+6466-YNL073W	K04567
+6467-YNL074C
+6468-YNL075W	K14561
+6469-YNL076W
+6470-YNL077W
+6471-YNL078W
+6472-YNL079C	K17945
+6473-YNL080C
+6474-YNL081C	K02952
+6475-YNL082W	K10858
+6476-YNL083W	K14684
+6477-YNL084C	K20048
+6478-YNL085W
+6479-YNL086W	K22241
+6480-YNL087W
+6481-YNL088W	K03164
+6482-YNL090W_NumOfGenes_2	K07975
+6483-YNL091W
+6484-YNL092W	K19787
+6485-YNL093W	K07976
+6486-YNL094W
+6487-YNL095C	K07088
+6488-YNL096C	K02993
+6489-YNL097C_NumOfGenes_2
+6490-YNL097C-B
+6491-YNL098C	K07827
+6492-YNL099C	K18043
+6493-YNL100W	K17789
+6494-YNL101W	K14209
+6495-YNL102W	K02320
+6496-YNL103W
+6497-YNL103W-A
+6498-YNL104C	K01649
+6499-YNL106C_NumOfGenes_2	K20279
+6500-YNL107W	K11341
+6501-YNL108C_NumOfGenes_2	K15206
+6502-YNL110C	K14838
+6503-YNL111C
+6504-YNL112W	K12823
+6505-YNL113W_NumOfGenes_2	K03020
+6506-YNL115C
+6507-YNL116W
+6508-YNL117W	K01638
+6509-YNL118C	K12613
+6510-YNL119W_NumOfGenes_2	K14169
+6511-YNL121C	K17768
+6512-YNL122C
+6513-YNL123W	K22686
+6514-YNL124W	K14763
+6515-YNL125C
+6516-YNL126W	K16570
+6517-YNL127W
+6518-YNL128W
+6519-YNL129W	K10524
+6520-YNL130C
+6521-YNL130C-A
+6522-YNL131W	K17769
+6523-YNL132W	K14521
+6524-YNL133C
+6525-YNL134C
+6526-YNL135C	K09568
+6527-YNL136W	K11399
+6528-YNL137C
+6529-YNL138W	K17261
+6530-YNL138W-A
+6531-YNL139C_NumOfGenes_2	K12879
+6532-YNL141W	K01488
+6533-YNL142W	K03320
+6534-YNL143C
+6535-YNL144C_NumOfGenes_2
+6536-YNL145W	K11235
+6537-YNL146C-A
+6538-YNL146W
+6539-YNL147W	K12626
+6540-YNL148C	K17262
+6541-YNL149C
+6542-YNL150W
+6543-YNL151C	K03024
+6544-YNL152W
+6545-YNL153C	K09550
+6546-YNL154C	K02218
+6547-YNL155W	K07059
+6548-YNL156C
+6549-YNL157W
+6550-YNL158W
+6551-YNL159C
+6552-YNL160W
+6553-YNL161W	K08286
+6554-YNL162W
+6555-YNL162W-A
+6556-YNL163C	K14536
+6557-YNL164C
+6558-YNL165W
+6559-YNL166C
+6560-YNL167C	K09051
+6561-YNL168C
+6562-YNL169C	K01613
+6563-YNL170W
+6564-YNL171C
+6565-YNL172W	K03348
+6566-YNL173C
+6567-YNL175C_NumOfGenes_2
+6568-YNL176C_NumOfGenes_2
+6569-YNL177C_NumOfGenes_2
+6570-YNL178W_NumOfGenes_2	K02985
+6571-YNL179C
+6572-YNL180C_NumOfGenes_2	K07975
+6573-YNL181W
+6574-YNL182C	K14829
+6575-YNL183C
+6576-YNL184C
+6577-YNL185C	K02867
+6578-YNL186W	K11873
+6579-YNL187W
+6580-YNL188W
+6581-YNL189W
+6582-YNL190W
+6583-YNL191W	K18802
+6584-YNL192W	K00698
+6585-YNL193W
+6586-YNL194C
+6587-YNL195C
+6588-YNL196C
+6589-YNL197C
+6590-YNL198C
+6591-YNL199C_NumOfGenes_2	K21671
+6592-YNL200C_NumOfGenes_2	K17759
+6593-YNL201C_NumOfGenes_2	K17491
+6594-YNL202W_NumOfGenes_3	K13237
+6595-YNL204C_NumOfGenes_2
+6596-YNL205C
+6597-YNL206C_NumOfGenes_2
+6598-YNL207W_NumOfGenes_2	K07179
+6599-YNL208W
+6600-YNL210W
+6601-YNL211C
+6602-YNL212W
+6603-YNL213C
+6604-YNL214W
+6605-YNL215W	K11676
+6606-YNL216W	K09426
+6607-YNL217W
+6608-YNL218W	K07478
+6609-YNL219C	K03846
+6610-YNL220W	K01939
+6611-YNL221C	K01164
+6612-YNL222W	K15544
+6613-YNL223W	K08342
+6614-YNL224C
+6615-YNL225C
+6616-YNL226W
+6617-YNL227C_NumOfGenes_2	K09506
+6618-YNL229C	K00799
+6619-YNL230C	K15077
+6620-YNL231C
+6621-YNL232W	K07573
+6622-YNL233W	K18638
+6623-YNL234W
+6624-YNL235C
+6625-YNL236W	K15160
+6626-YNL237W
+6627-YNL238W	K01341
+6628-YNL239W	K01372
+6629-YNL240C
+6630-YNL241C	K00036
+6631-YNL242W	K17906
+6632-YNL243W	K20040
+6633-YNL244C	K03113
+6634-YNL245C
+6635-YNL246W
+6636-YNL247W	K01883
+6637-YNL248C	K03005
+6638-YNL249C
+6639-YNL250W	K10866
+6640-YNL251C_NumOfGenes_2	K15560
+6641-YNL252C_NumOfGenes_2	K17427
+6642-YNL253W_NumOfGenes_2	K12880
+6643-YNL254C
+6644-YNL255C_NumOfGenes_2	K09250
+6645-YNL256W_NumOfGenes_2	K13939
+6646-YNL257C
+6647-YNL258C_NumOfGenes_2	K11578
+6648-YNL259C_NumOfGenes_3	K07213
+6649-YNL261W_NumOfGenes_2	K02607
+6650-YNL262W_NumOfGenes_2	K02324
+6651-YNL263C	K20362
+6652-YNL264C
+6653-YNL265C_NumOfGenes_2	K19476
+6654-YNL267W	K19801
+6655-YNL268W_NumOfGenes_2	K16261
+6656-YNL269W
+6657-YNL270C_NumOfGenes_2	K16261
+6658-YNL271C	K11238
+6659-YNL272C	K19940
+6660-YNL273W	K10997
+6661-YNL274C	K00015
+6662-YNL275W
+6663-YNL277W_NumOfGenes_2	K00641
+6664-YNL277W-A
+6665-YNL278W	K12609
+6666-YNL279W
+6667-YNL280C	K00222
+6668-YNL281W
+6669-YNL282W	K14522
+6670-YNL283C	K11244
+6671-YNL284C	K02876
+6672-YNL285W
+6673-YNL286W	K13093
+6674-YNL287W	K17267
+6675-YNL288W	K12606
+6676-YNL289W	K06656
+6677-YNL290W	K10756
+6678-YNL291C	K08284
+6679-YNL292W	K03177
+6680-YNL293W	K19953
+6681-YNL294C
+6682-YNL295W
+6683-YNL297C_NumOfGenes_2
+6684-YNL298W	K19833
+6685-YNL299W	K12596
+6686-YNL300W
+6687-YNL301C	K02883
+6688-YNL302C
+6689-YNL303W
+6690-YNL304W	K17977
+6691-YNL305C	K06890
+6692-YNL306W	K02948
+6693-YNL307C	K22009
+6694-YNL308C	K14786
+6695-YNL309W
+6696-YNL310C	K17808
+6697-YNL311C
+6698-YNL312W	K10739
+6699-YNL313C
+6700-YNL314W
+6701-YNL315C	K07555
+6702-YNL316C	K04518
+6703-YNL317W	K15542
+6704-YNL318C_NumOfGenes_2
+6705-YNL320W	K06889
+6706-YNL321W	K07300
+6707-YNL322C
+6708-YNL323W
+6709-YNL325C_NumOfGenes_2
+6710-YNL326C	K20028
+6711-YNL327W
+6712-YNL328C
+6713-YNL329C	K13339
+6714-YNL330C	K06067
+6715-YNL331C_NumOfGenes_2
+6716-YNL334C_NumOfGenes_2	K08681
+6717-YNL336W_NumOfGenes_11
+6718-YNL338W
+6719-YNR001C	K01647
+6720-YNR001W-A
+6721-YNR002C	K07034
+6722-YNR003C_NumOfGenes_2	K03025
+6723-YNR004W
+6724-YNR006W_NumOfGenes_2	K12182
+6725-YNR007C	K08343
+6726-YNR008W	K00679
+6727-YNR009W
+6728-YNR010W	K15150
+6729-YNR011C	K12814
+6730-YNR012W	K00876
+6731-YNR013C	K14430
+6732-YNR014W
+6733-YNR015W	K05543
+6734-YNR016C	K11262
+6735-YNR017W	K17794
+6736-YNR018W
+6737-YNR019W	K00637
+6738-YNR020C	K18156
+6739-YNR021W
+6740-YNR022C
+6741-YNR023W	K11775
+6742-YNR024W	K12594
+6743-YNR025C
+6744-YNR026C	K14003
+6745-YNR027W	K00868
+6746-YNR028W	K01802
+6747-YNR029C
+6748-YNR030W	K03847
+6749-YNR031C	K11230
+6750-YNR032C-A	K13113
+6751-YNR032W	K17615
+6752-YNR033W	K13950
+6753-YNR034W	K01057
+6754-YNR034W-A
+6755-YNR035C	K05758
+6756-YNR036C	K02950
+6757-YNR037C	K02965
+6758-YNR038W	K14807
+6759-YNR039C
+6760-YNR040W
+6761-YNR041C_NumOfGenes_2	K06125
+6762-YNR043W	K01597
+6763-YNR044W
+6764-YNR045W	K17670
+6765-YNR046W	K15448
+6766-YNR047W	K08286
+6767-YNR048W
+6768-YNR049C	K19992
+6769-YNR050C	K00293
+6770-YNR051C	K19718
+6771-YNR052C	K12581
+6772-YNR053C	K14537
+6773-YNR054C	K14785
+6774-YNR055C
+6775-YNR056C	K19565
+6776-YNR057C	K01935
+6777-YNR058W	K00833
+6778-YNR059W
+6779-YNR060W
+6780-YNR061C
+6781-YNR062C
+6782-YNR063W
+6783-YNR064C
+6784-YNR065C
+6785-YNR066C
+6786-YNR067C_NumOfGenes_2	K01180
+6787-YNR068C_NumOfGenes_2
+6788-YNR069C_NumOfGenes_2
+6789-YNR070W_NumOfGenes_2
+6790-YNR071C
+6791-YNR072W_NumOfGenes_4	K08139
+6792-YNR073C_NumOfGenes_3	K00045
+6793-YNR074C
+6794-YNR075C-A_NumOfGenes_4
+6795-YNR075W
+6796-YNR077C_NumOfGenes_2
+6797-YOL001W	K06654
+6798-YOL002C	K07297
+6799-YOL003C	K18932
+6800-YOL004W	K11644
+6801-YOL005C	K03008
+6802-YOL006C	K03163
+6803-YOL007C
+6804-YOL008W	K18588
+6805-YOL009C	K17765
+6806-YOL010W	K11108
+6807-YOL011W	K13333
+6808-YOL012C	K11251
+6809-YOL013C	K10601
+6810-YOL013W-A
+6811-YOL013W-B
+6812-YOL014W
+6813-YOL015W
+6814-YOL016C	K08794
+6815-YOL017W
+6816-YOL018C	K08489
+6817-YOL019W
+6818-YOL019W-A
+6819-YOL020W	K16261
+6820-YOL021C	K12585
+6821-YOL022C	K14801
+6822-YOL023W	K02519
+6823-YOL024W
+6824-YOL025W
+6825-YOL026C
+6826-YOL027C	K17800
+6827-YOL028C	K09043
+6828-YOL029C
+6829-YOL030W
+6830-YOL031C	K14001
+6831-YOL032W
+6832-YOL033W	K01885
+6833-YOL034W
+6834-YOL036W_NumOfGenes_3
+6835-YOL038C-A
+6836-YOL038W	K02731
+6837-YOL039W	K02943
+6838-YOL040C	K02958
+6839-YOL041C	K14837
+6840-YOL042W
+6841-YOL043C	K10773
+6842-YOL044W	K22260
+6843-YOL045W_NumOfGenes_2	K08286
+6844-YOL047C
+6845-YOL048C
+6846-YOL049W	K21456
+6847-YOL051W_NumOfGenes_2	K15158
+6848-YOL052C	K01611
+6849-YOL052C-A
+6850-YOL053W
+6851-YOL054W
+6852-YOL055C	K00877
+6853-YOL056W	K01834
+6854-YOL057W	K01277
+6855-YOL058W	K01940
+6856-YOL059W	K00006
+6857-YOL060C	K16302
+6858-YOL061W	K00948
+6859-YOL062C	K11826
+6860-YOL063C
+6861-YOL064C	K01082
+6862-YOL065C	K01106
+6863-YOL066C	K14655
+6864-YOL067C
+6865-YOL068C	K11121
+6866-YOL069W	K11548
+6867-YOL070C
+6868-YOL071W	K18168
+6869-YOL072W
+6870-YOL073C
+6871-YOL075C
+6872-YOL076W	K17973
+6873-YOL077C	K14820
+6874-YOL077W-A	K02143
+6875-YOL078W
+6876-YOL080C_NumOfGenes_2	K18327
+6877-YOL081W
+6878-YOL082W_NumOfGenes_2	K21997
+6879-YOL083W_NumOfGenes_2	K21997
+6880-YOL084W	K21989
+6881-YOL085C
+6882-YOL085W-A
+6883-YOL086C	K13953
+6884-YOL086W-A
+6885-YOL087C
+6886-YOL088C
+6887-YOL089C
+6888-YOL090W	K08735
+6889-YOL091W
+6890-YOL092W
+6891-YOL093W	K15445
+6892-YOL094C	K10755
+6893-YOL095C	K19781
+6894-YOL096C	K00591
+6895-YOL097C	K01867
+6896-YOL097W-A
+6897-YOL098C
+6898-YOL100W_NumOfGenes_2	K06276
+6899-YOL101C	K07297
+6900-YOL102C	K10669
+6901-YOL103W	K08150
+6902-YOL104C
+6903-YOL105C	K11244
+6904-YOL106W
+6905-YOL107W
+6906-YOL108C	K09102
+6907-YOL109W
+6908-YOL110W
+6909-YOL111C
+6910-YOL112W	K19953
+6911-YOL113W	K19833
+6912-YOL114C	K15033
+6913-YOL115W	K03514
+6914-YOL116W
+6915-YOL117W
+6916-YOL118C
+6917-YOL119C
+6918-YOL120C	K02883
+6919-YOL121C	K02966
+6920-YOL122C	K12346
+6921-YOL123W	K14411
+6922-YOL124C	K15430
+6923-YOL125W	K15446
+6924-YOL126C	K00026
+6925-YOL127W	K02893
+6926-YOL128C	K08286
+6927-YOL129W
+6928-YOL130W	K16073
+6929-YOL131W
+6930-YOL132W_NumOfGenes_2
+6931-YOL133W_NumOfGenes_2	K03868
+6932-YOL134C
+6933-YOL135C_NumOfGenes_2	K15148
+6934-YOL136C	K00900
+6935-YOL137W
+6936-YOL138C	K20408
+6937-YOL139C_NumOfGenes_2	K03259
+6938-YOL140W	K00818
+6939-YOL141W	K15451
+6940-YOL142W	K03681
+6941-YOL143C	K00794
+6942-YOL144W	K14836
+6943-YOL145C	K15176
+6944-YOL146W	K10734
+6945-YOL147C
+6946-YOL148C	K11361
+6947-YOL149W	K12612
+6948-YOL151W_NumOfGenes_2	K17741
+6949-YOL152W
+6950-YOL153C	K01293
+6951-YOL154W
+6952-YOL155C_NumOfGenes_3
+6953-YOL155W-A
+6954-YOL156W_NumOfGenes_4	K08139
+6955-YOL158C	K08197
+6956-YOL159C_NumOfGenes_2
+6957-YOL159C-A
+6958-YOL160W
+6959-YOL162W
+6960-YOL163W
+6961-YOL164W
+6962-YOL164W-A
+6963-YOL166C
+6964-YOL166W-A
+6965-YOR001W	K12591
+6966-YOR002W	K03848
+6967-YOR003W	K01336
+6968-YOR004W	K14773
+6969-YOR005C	K10777
+6970-YOR006C	K09140
+6971-YOR007C	K16365
+6972-YOR008C	K11244
+6973-YOR008C-A
+6974-YOR008W-B
+6975-YOR009W_NumOfGenes_2
+6976-YOR010C
+6977-YOR011W
+6978-YOR011W-A
+6979-YOR012W
+6980-YOR013W
+6981-YOR014W	K11584
+6982-YOR015W
+6983-YOR016C	K14825
+6984-YOR017W
+6985-YOR018W	K20062
+6986-YOR019W
+6987-YOR020C	K04078
+6988-YOR020W-A
+6989-YOR021C
+6990-YOR022C
+6991-YOR023C	K11370
+6992-YOR024W
+6993-YOR025W	K11121
+6994-YOR026W	K02180
+6995-YOR027W	K09553
+6996-YOR028C	K09043
+6997-YOR029W
+6998-YOR030W
+6999-YOR031W
+7000-YOR032C
+7001-YOR032W-A
+7002-YOR033C	K10746
+7003-YOR034C	K20032
+7004-YOR034C-A
+7005-YOR035C	K21991
+7006-YOR036W
+7007-YOR037W
+7008-YOR038C	K11293
+7009-YOR039W	K03115
+7010-YOR040W	K01069
+7011-YOR042W_NumOfGenes_2
+7012-YOR043W
+7013-YOR044W
+7014-YOR045W	K17772
+7015-YOR046C	K18655
+7016-YOR047C
+7017-YOR048C	K12619
+7018-YOR049C
+7019-YOR050C
+7020-YOR051C
+7021-YOR052C	K07059
+7022-YOR054C_NumOfGenes_3
+7023-YOR056C	K11883
+7024-YOR057W	K12795
+7025-YOR058C	K16732
+7026-YOR059C
+7027-YOR060C
+7028-YOR061W	K03097
+7029-YOR062C
+7030-YOR063W	K02925
+7031-YOR064C	K11379
+7032-YOR065W	K00413
+7033-YOR066W	K21628
+7034-YOR067C	K03849
+7035-YOR068C_NumOfGenes_2
+7036-YOR070C	K20360
+7037-YOR071C
+7038-YOR072W
+7039-YOR072W-A
+7040-YOR072W-B
+7041-YOR073W	K11582
+7042-YOR074C_NumOfGenes_2	K00560
+7043-YOR075W	K08492
+7044-YOR076C	K12595
+7045-YOR077W	K13102
+7046-YOR078W	K14770
+7047-YOR079C	K14715
+7048-YOR080W	K15068
+7049-YOR081C
+7050-YOR082C
+7051-YOR083W	K12413
+7052-YOR084W
+7053-YOR085W	K12669
+7054-YOR086C
+7055-YOR087W
+7056-YOR089C	K07889
+7057-YOR090C	K01102
+7058-YOR091W
+7059-YOR092W	K07088
+7060-YOR093C
+7061-YOR094W	K07941
+7062-YOR095C	K01807
+7063-YOR096W_NumOfGenes_2
+7064-YOR097C
+7065-YOR098C	K18721
+7066-YOR099W	K10967
+7067-YOR100C	K15109
+7068-YOR101W_NumOfGenes_2	K07827
+7069-YOR103C_NumOfGenes_2	K12668
+7070-YOR105W_NumOfGenes_2
+7071-YOR106W	K21155
+7072-YOR107W
+7073-YOR108W_NumOfGenes_2	K01649
+7074-YOR109W	K20279
+7075-YOR110W	K15206
+7076-YOR111W	K06287
+7077-YOR112W	K08876
+7078-YOR113W
+7079-YOR114W
+7080-YOR115C	K20304
+7081-YOR116C	K03018
+7082-YOR117W	K03065
+7083-YOR118W
+7084-YOR119C	K07178
+7085-YOR120W_NumOfGenes_2	K18097
+7086-YOR122C
+7087-YOR123C	K15177
+7088-YOR124C	K11849
+7089-YOR125C	K06134
+7090-YOR126C
+7091-YOR127W	K19839
+7092-YOR128C	K11808
+7093-YOR129C
+7094-YOR130C	K15114
+7095-YOR131C
+7096-YOR132W
+7097-YOR134W
+7098-YOR135C
+7099-YOR136W	K00030
+7100-YOR137C
+7101-YOR138C
+7102-YOR140W_NumOfGenes_2
+7103-YOR141C	K11673
+7104-YOR142W	K01899
+7105-YOR143C	K00949
+7106-YOR144C	K11134
+7107-YOR145C_NumOfGenes_2	K11884
+7108-YOR147W	K17980
+7109-YOR148C
+7110-YOR149C	K08098
+7111-YOR150W	K02871
+7112-YOR151C	K03010
+7113-YOR152C
+7114-YOR153W	K08711
+7115-YOR154W
+7116-YOR155C	K18550
+7117-YOR156C
+7118-YOR157C	K02739
+7119-YOR158W
+7120-YOR159C	K11097
+7121-YOR160W	K15436
+7122-YOR161C_NumOfGenes_3
+7123-YOR161C-C
+7124-YOR162C
+7125-YOR163W	K07766
+7126-YOR164C
+7127-YOR165W	K22698
+7128-YOR166C
+7129-YOR167C	K02979
+7130-YOR168W_NumOfGenes_2	K01886
+7131-YOR170W
+7132-YOR171C	K04718
+7133-YOR172W
+7134-YOR173W
+7135-YOR174W	K15146
+7136-YOR175C	K13519
+7137-YOR176W	K01772
+7138-YOR177C
+7139-YOR178C
+7140-YOR179C	K14403
+7141-YOR180C	K22587
+7142-YOR181W	K05747
+7143-YOR182C	K02983
+7144-YOR183W
+7145-YOR184W	K00831
+7146-YOR185C	K07936
+7147-YOR186W_NumOfGenes_2
+7148-YOR187W	K02358
+7149-YOR188W
+7150-YOR189W	K11678
+7151-YOR190W	K01210
+7152-YOR191W
+7153-YOR192C
+7154-YOR193W
+7155-YOR194C	K03122
+7156-YOR195W	K12575
+7157-YOR196C	K03644
+7158-YOR197W	K22684
+7159-YOR198C
+7160-YOR199W
+7161-YOR201C_NumOfGenes_2	K15507
+7162-YOR202W	K01693
+7163-YOR203W
+7164-YOR204W	K11594
+7165-YOR205C	K19829
+7166-YOR206W	K14833
+7167-YOR207C	K03021
+7168-YOR208W	K19806
+7169-YOR209C	K00763
+7170-YOR210W	K03007
+7171-YOR211C	K22140
+7172-YOR212W	K04536
+7173-YOR213C	K11403
+7174-YOR214C
+7175-YOR215C	K09117
+7176-YOR216C
+7177-YOR217W_NumOfGenes_2	K10754
+7178-YOR219C	K08787
+7179-YOR220W
+7180-YOR221C	K00645
+7181-YOR222W	K15110
+7182-YOR223W
+7183-YOR224C	K03016
+7184-YOR225W
+7185-YOR226C	K22068
+7186-YOR227W
+7187-YOR228C
+7188-YOR229W
+7189-YOR230W
+7190-YOR231W_NumOfGenes_2	K08294
+7191-YOR232W	K03687
+7192-YOR233W	K08286
+7193-YOR234C
+7194-YOR235W
+7195-YOR236W	K00287
+7196-YOR237W	K20465
+7197-YOR238W
+7198-YOR239W	K17053
+7199-YOR241W	K01930
+7200-YOR242C
+7201-YOR243C	K06176
+7202-YOR244W	K11304
+7203-YOR245C	K14457
+7204-YOR246C
+7205-YOR247W_NumOfGenes_2
+7206-YOR249C	K03352
+7207-YOR250C	K14399
+7208-YOR251C	K01011
+7209-YOR252W	K14860
+7210-YOR253W	K20793
+7211-YOR254C	K09540
+7212-YOR255W
+7213-YOR256C
+7214-YOR257W	K16466
+7215-YOR258W	K10863
+7216-YOR259C	K03064
+7217-YOR260W	K03241
+7218-YOR261C	K03038
+7219-YOR262W	K06883
+7220-YOR263C
+7221-YOR264W
+7222-YOR265W	K17292
+7223-YOR266W	K17799
+7224-YOR267C
+7225-YOR268C
+7226-YOR269W	K16794
+7227-YOR270C	K02154
+7228-YOR271C
+7229-YOR272W	K14863
+7230-YOR273C
+7231-YOR274W	K00791
+7232-YOR275C	K12200
+7233-YOR276W_NumOfGenes_2	K03261
+7234-YOR278W	K01719
+7235-YOR279C
+7236-YOR280C
+7237-YOR281C
+7238-YOR282W
+7239-YOR283W
+7240-YOR284W
+7241-YOR285W
+7242-YOR286W
+7243-YOR287C	K14795
+7244-YOR288C	K09584
+7245-YOR289W
+7246-YOR290C	K11786
+7247-YOR291W	K14951
+7248-YOR292C
+7249-YOR293C-A
+7250-YOR293W
+7251-YOR294W	K14852
+7252-YOR295W	K15223
+7253-YOR296W
+7254-YOR297C	K17791
+7255-YOR298C-A	K03627
+7256-YOR298W
+7257-YOR299W	K19881
+7258-YOR300W
+7259-YOR301W
+7260-YOR302W
+7261-YOR303W	K01956
+7262-YOR304C-A
+7263-YOR304W	K11654
+7264-YOR305W
+7265-YOR306C
+7266-YOR307C	K15283
+7267-YOR308C	K11984
+7268-YOR309C
+7269-YOR310C	K14565
+7270-YOR311C	K16368
+7271-YOR312C	K02882
+7272-YOR313C	K12772
+7273-YOR314W
+7274-YOR314W-A
+7275-YOR315W
+7276-YOR316C	K14688
+7277-YOR316C-A
+7278-YOR317W	K01897
+7279-YOR318C
+7280-YOR319W	K12831
+7281-YOR320C
+7282-YOR321W	K00728
+7283-YOR322C	K20059
+7284-YOR323C	K00147
+7285-YOR324C_NumOfGenes_2
+7286-YOR326W	K10357
+7287-YOR327C	K08513
+7288-YOR328W
+7289-YOR329C
+7290-YOR329W-A
+7291-YOR330C	K02332
+7292-YOR332W_NumOfGenes_2	K02150
+7293-YOR334W_NumOfGenes_2	K16075
+7294-YOR335C_NumOfGenes_2	K01872
+7295-YOR336W	K11718
+7296-YOR337W
+7297-YOR338W
+7298-YOR339C	K06688
+7299-YOR340C	K03004
+7300-YOR341W	K02999
+7301-YOR342C
+7302-YOR343C
+7303-YOR344C	K09074
+7304-YOR346W_NumOfGenes_2	K03515
+7305-YOR347C	K00873
+7306-YOR348C	K16261
+7307-YOR349W	K21767
+7308-YOR350C
+7309-YOR351C	K12776
+7310-YOR352W
+7311-YOR353C
+7312-YOR354C
+7313-YOR355W
+7314-YOR356W	K00311
+7315-YOR357C	K17918
+7316-YOR358W
+7317-YOR359W
+7318-YOR360C	K01120
+7319-YOR361C	K03253
+7320-YOR362C	K02727
+7321-YOR363C
+7322-YOR365C_NumOfGenes_3
+7323-YOR367W	K20526
+7324-YOR368W	K02830
+7325-YOR369C	K02951
+7326-YOR370C
+7327-YOR371C
+7328-YOR372C
+7329-YOR373W	K20237
+7330-YOR374W	K00128
+7331-YOR375C	K00262
+7332-YOR376W
+7333-YOR376W-A
+7334-YOR377W	K00664
+7335-YOR378W_NumOfGenes_2
+7336-YOR380W
+7337-YOR381W
+7338-YOR381W-A
+7339-YOR382W
+7340-YOR383C_NumOfGenes_2
+7341-YOR384W
+7342-YOR385W_NumOfGenes_2
+7343-YOR386W_NumOfGenes_2	K01669
+7344-YOR387C_NumOfGenes_4
+7345-YOR388C_NumOfGenes_3	K00122
+7346-YOR389W_NumOfGenes_4
+7347-YOR392W
+7348-YOR394C-A
+7349-YOR394W_NumOfGenes_7
+7350-YPL001W	K11303
+7351-YPL002C	K12188
+7352-YPL003W	K04532
+7353-YPL004C
+7354-YPL005W	K18155
+7355-YPL006W	K12385
+7356-YPL007C	K15207
+7357-YPL008W	K11273
+7358-YPL009C
+7359-YPL010W	K20472
+7360-YPL011C	K14650
+7361-YPL012W	K14794
+7362-YPL013C	K02959
+7363-YPL014W
+7364-YPL015C	K11121
+7365-YPL016W	K11771
+7366-YPL017C	K00382
+7367-YPL018W	K11554
+7368-YPL019C
+7369-YPL020C	K08592
+7370-YPL021W
+7371-YPL022W	K10848
+7372-YPL023C	K00297
+7373-YPL024W	K15364
+7374-YPL025C
+7375-YPL026C
+7376-YPL027W
+7377-YPL028W	K00626
+7378-YPL029W	K17675
+7379-YPL030W	K15447
+7380-YPL031C	K06655
+7381-YPL032C
+7382-YPL033C
+7383-YPL034W
+7384-YPL035C
+7385-YPL036W	K01535
+7386-YPL037C	K01527
+7387-YPL038W
+7388-YPL038W-A
+7389-YPL039W
+7390-YPL040C	K01870
+7391-YPL041C
+7392-YPL042C	K02208
+7393-YPL043W_NumOfGenes_2	K14573
+7394-YPL045W	K20180
+7395-YPL046C	K03872
+7396-YPL047W	K11363
+7397-YPL048W	K03233
+7398-YPL049C	K11241
+7399-YPL050C	K05529
+7400-YPL051W	K07952
+7401-YPL052W
+7402-YPL053C	K05537
+7403-YPL054W
+7404-YPL055C
+7405-YPL056C
+7406-YPL057C	K22721
+7407-YPL058C
+7408-YPL059W	K07390
+7409-YPL060W	K16075
+7410-YPL061W	K00128
+7411-YPL062W
+7412-YPL063W	K17496
+7413-YPL064C	K01802
+7414-YPL065W	K12184
+7415-YPL066W
+7416-YPL067C
+7417-YPL068C
+7418-YPL069C	K00804
+7419-YPL070W
+7420-YPL071C
+7421-YPL072W_NumOfGenes_2	K11874
+7422-YPL074W
+7423-YPL075W
+7424-YPL076W	K03859
+7425-YPL077C
+7426-YPL078C	K02127
+7427-YPL079W
+7428-YPL080C
+7429-YPL081W	K02997
+7430-YPL082C	K15192
+7431-YPL083C	K15326
+7432-YPL084W
+7433-YPL085W	K20353
+7434-YPL086C	K07739
+7435-YPL087W	K04711
+7436-YPL088W
+7437-YPL089C	K09265
+7438-YPL090C
+7439-YPL091W	K00383
+7440-YPL092W
+7441-YPL093W	K06943
+7442-YPL094C	K12275
+7443-YPL095C	K07019
+7444-YPL096C-A	K11002
+7445-YPL096W	K01456
+7446-YPL097W	K01866
+7447-YPL098C
+7448-YPL099C
+7449-YPL100W	K17908
+7450-YPL101W_NumOfGenes_2	K11375
+7451-YPL102C
+7452-YPL103C_NumOfGenes_2
+7453-YPL104W_NumOfGenes_2	K01876
+7454-YPL105C_NumOfGenes_2	K18730
+7455-YPL106C_NumOfGenes_2	K09485
+7456-YPL107W_NumOfGenes_2
+7457-YPL108W_NumOfGenes_2
+7458-YPL109C_NumOfGenes_2	K08869
+7459-YPL110C	K18696
+7460-YPL111W	K01476
+7461-YPL112C
+7462-YPL113C_NumOfGenes_2
+7463-YPL115C	K19840
+7464-YPL116W	K11484
+7465-YPL117C	K01823
+7466-YPL118W
+7467-YPL119C	K11594
+7468-YPL119C-A
+7469-YPL120W	K08334
+7470-YPL121C
+7471-YPL122C	K03144
+7472-YPL123C	K01166
+7473-YPL124W
+7474-YPL125W
+7475-YPL126W	K14552
+7476-YPL127C	K11275
+7477-YPL128C	K22485
+7478-YPL129W	K03140
+7479-YPL130W
+7480-YPL131W	K02932
+7481-YPL132W	K02258
+7482-YPL133C
+7483-YPL134C	K15110
+7484-YPL135W_NumOfGenes_2	K22068
+7485-YPL137C_NumOfGenes_2
+7486-YPL138C	K14960
+7487-YPL139C
+7488-YPL140C	K08294
+7489-YPL141C
+7490-YPL143W_NumOfGenes_2	K02917
+7491-YPL144W	K11882
+7492-YPL145C	K20465
+7493-YPL146C	K14840
+7494-YPL147W	K15628
+7495-YPL148C
+7496-YPL149W	K08339
+7497-YPL150W
+7498-YPL151C	K12862
+7499-YPL152W	K17605
+7500-YPL152W-A
+7501-YPL153C	K02831
+7502-YPL154C	K01381
+7503-YPL155C
+7504-YPL156C
+7505-YPL157W	K14292
+7506-YPL158C
+7507-YPL159C
+7508-YPL160W	K01869
+7509-YPL161C
+7510-YPL162C
+7511-YPL163C
+7512-YPL164C	K08739
+7513-YPL165C	K07117
+7514-YPL166W	K21143
+7515-YPL167C	K02350
+7516-YPL168W
+7517-YPL169C	K14284
+7518-YPL170W	K17278
+7519-YPL171C	K00354
+7520-YPL172C	K02257
+7521-YPL173W	K02895
+7522-YPL174C	K04648
+7523-YPL175W
+7524-YPL176C
+7525-YPL177C
+7526-YPL178W	K12883
+7527-YPL179W	K06269
+7528-YPL180W
+7529-YPL181W
+7530-YPL182C
+7531-YPL183C
+7532-YPL183W-A	K02919
+7533-YPL184C
+7534-YPL185W
+7535-YPL186C
+7536-YPL187W	K11234
+7537-YPL188W	K19386
+7538-YPL189C-A	K18174
+7539-YPL189W
+7540-YPL190C	K15561
+7541-YPL191C	K01309
+7542-YPL192C
+7543-YPL193W	K14853
+7544-YPL194W	K06663
+7545-YPL195W	K12396
+7546-YPL196W
+7547-YPL198W_NumOfGenes_3	K02937
+7548-YPL199C
+7549-YPL200W
+7550-YPL201C
+7551-YPL202C
+7552-YPL203W	K04345
+7553-YPL204W	K14758
+7554-YPL205C
+7555-YPL206C	K18694
+7556-YPL207W	K15449
+7557-YPL208W
+7558-YPL209C	K08850
+7559-YPL210C	K03108
+7560-YPL211W	K07565
+7561-YPL212C	K06173
+7562-YPL213W	K11092
+7563-YPL214C	K14154
+7564-YPL215W	K17662
+7565-YPL216W
+7566-YPL217C	K14569
+7567-YPL218W
+7568-YPL219W
+7569-YPL221W
+7570-YPL222W_NumOfGenes_2
+7571-YPL223C
+7572-YPL224C
+7573-YPL225W
+7574-YPL226W	K03235
+7575-YPL227C	K00729
+7576-YPL228W	K01098
+7577-YPL229W
+7578-YPL230W	K21544
+7579-YPL231W	K00667
+7580-YPL232W	K08486
+7581-YPL233W	K11561
+7582-YPL234C	K02155
+7583-YPL235W	K11338
+7584-YPL236C	K08856
+7585-YPL237W_NumOfGenes_2	K03238
+7586-YPL239W	K06867
+7587-YPL240C	K04079
+7588-YPL241C
+7589-YPL242C	K05767
+7590-YPL243W	K03107
+7591-YPL244C	K15275
+7592-YPL245W	K09384
+7593-YPL246C
+7594-YPL247C	K11805
+7595-YPL248C	K09241
+7596-YPL249C
+7597-YPL249C-A_NumOfGenes_2
+7598-YPL250C
+7599-YPL252C_NumOfGenes_2	K22071
+7600-YPL253C
+7601-YPL254W	K11362
+7602-YPL255W
+7603-YPL256C	K06650
+7604-YPL257W
+7605-YPL258C	K00877
+7606-YPL259C	K12393
+7607-YPL260W
+7608-YPL261C
+7609-YPL262W	K01679
+7610-YPL263C
+7611-YPL264C
+7612-YPL265W	K16261
+7613-YPL266W	K14191
+7614-YPL267W
+7615-YPL268W	K05857
+7616-YPL269W
+7617-YPL270W	K02021
+7618-YPL271W	K02135
+7619-YPL272C
+7620-YPL273W_NumOfGenes_2	K00547
+7621-YPL274W	K16261
+7622-YPL279C_NumOfGenes_2	K06199
+7623-YPL280W_NumOfGenes_3	K22211
+7624-YPL281C_NumOfGenes_3	K01689
+7625-YPR001W	K01647
+7626-YPR002W	K01720
+7627-YPR003C
+7628-YPR004C	K03522
+7629-YPR005C
+7630-YPR006C	K01637
+7631-YPR007C	K12780
+7632-YPR008W
+7633-YPR009W
+7634-YPR010C	K03002
+7635-YPR010C-A
+7636-YPR011C	K14684
+7637-YPR012W
+7638-YPR013C
+7639-YPR014C
+7640-YPR015C
+7641-YPR016C	K03264
+7642-YPR016W-A
+7643-YPR017C	K19952
+7644-YPR018W	K10750
+7645-YPR019W	K02212
+7646-YPR020W	K02140
+7647-YPR021C	K15105
+7648-YPR022C
+7649-YPR023C	K11339
+7650-YPR024W	K08955
+7651-YPR025C	K06634
+7652-YPR026W	K01194
+7653-YPR027C
+7654-YPR028W
+7655-YPR029C	K12391
+7656-YPR030W	K20060
+7657-YPR031W	K11380
+7658-YPR032W	K08518
+7659-YPR033C	K01892
+7660-YPR034W	K11767
+7661-YPR035W	K01915
+7662-YPR036W	K02144
+7663-YPR036W-A
+7664-YPR037C	K17891
+7665-YPR038W
+7666-YPR039W
+7667-YPR040W	K17607
+7668-YPR041W	K03262
+7669-YPR042C
+7670-YPR043W_NumOfGenes_2
+7671-YPR045C
+7672-YPR046W
+7673-YPR047W	K01889
+7674-YPR048W
+7675-YPR049C	K08330
+7676-YPR051W_NumOfGenes_2	K00670
+7677-YPR052C
+7678-YPR053C
+7679-YPR054W	K08293
+7680-YPR055W	K06111
+7681-YPR056W	K03143
+7682-YPR057W
+7683-YPR058W_NumOfGenes_2	K15109
+7684-YPR060C	K01850
+7685-YPR061C
+7686-YPR062W	K01485
+7687-YPR063C
+7688-YPR064W
+7689-YPR065W	K22496
+7690-YPR066W	K10686
+7691-YPR067W	K22072
+7692-YPR068C	K11482
+7693-YPR069C	K00797
+7694-YPR070W	K15145
+7695-YPR071W
+7696-YPR072W	K12580
+7697-YPR073C	K14394
+7698-YPR074C	K00615
+7699-YPR074W-A
+7700-YPR075C_NumOfGenes_2	K19850
+7701-YPR078C_NumOfGenes_2
+7702-YPR079W	K10089
+7703-YPR080W_NumOfGenes_2	K03231
+7704-YPR081C	K01880
+7705-YPR082C	K12859
+7706-YPR083W
+7707-YPR084W
+7708-YPR085C
+7709-YPR086W	K03124
+7710-YPR088C_NumOfGenes_2	K03106
+7711-YPR089W	K06867
+7712-YPR091C
+7713-YPR092W
+7714-YPR093C
+7715-YPR094W	K12834
+7716-YPR095C
+7717-YPR096C
+7718-YPR097W
+7719-YPR098C
+7720-YPR100W_NumOfGenes_2	K17424
+7721-YPR101W
+7722-YPR102C_NumOfGenes_2	K02868
+7723-YPR103W_NumOfGenes_2	K02737
+7724-YPR104C_NumOfGenes_2
+7725-YPR105C	K20291
+7726-YPR106W
+7727-YPR107C	K14404
+7728-YPR108W	K03037
+7729-YPR108W-A
+7730-YPR109W
+7731-YPR110C	K03027
+7732-YPR111W	K06686
+7733-YPR112C	K14787
+7734-YPR113W	K00999
+7735-YPR114W
+7736-YPR115W
+7737-YPR116W
+7738-YPR117W
+7739-YPR118W	K08963
+7740-YPR119W	K02220
+7741-YPR120C	K06651
+7742-YPR121W
+7743-YPR122W	K01422
+7744-YPR124W_NumOfGenes_2
+7745-YPR125W_NumOfGenes_2
+7746-YPR127W	K05275
+7747-YPR128C
+7748-YPR129W_NumOfGenes_2	K18749
+7749-YPR131C	K17972
+7750-YPR132W
+7751-YPR133C	K17498
+7752-YPR133W-A	K17773
+7753-YPR134W
+7754-YPR135W	K11274
+7755-YPR137W_NumOfGenes_2	K14793
+7756-YPR138C_NumOfGenes_2	K03320
+7757-YPR139C_NumOfGenes_2
+7758-YPR140W_NumOfGenes_2	K13511
+7759-YPR141C_NumOfGenes_2	K10405
+7760-YPR142C
+7761-YPR143W
+7762-YPR144C	K14771
+7763-YPR145C-A
+7764-YPR145W	K01953
+7765-YPR146C
+7766-YPR147C
+7767-YPR148C
+7768-YPR149W
+7769-YPR151C_NumOfGenes_2
+7770-YPR152C
+7771-YPR153W
+7772-YPR154W	K20522
+7773-YPR155C	K18158
+7774-YPR157W
+7775-YPR158W
+7776-YPR159C-A
+7777-YPR159W	K21850
+7778-YPR160W_NumOfGenes_3	K00688
+7779-YPR161C	K15562
+7780-YPR162C	K02606
+7781-YPR163C	K03258
+7782-YPR164W
+7783-YPR165W	K04513
+7784-YPR166C	K02954
+7785-YPR167C	K00390
+7786-YPR168W	K15151
+7787-YPR169W
+7788-YPR170C
+7789-YPR170W-B_NumOfGenes_3	K19770
+7790-YPR171W
+7791-YPR172W
+7792-YPR173C	K12196
+7793-YPR174C
+7794-YPR175W	K02325
+7795-YPR176C	K05956
+7796-YPR178W_NumOfGenes_2	K12662
+7797-YPR179C
+7798-YPR180W	K10684
+7799-YPR181C	K14006
+7800-YPR182W	K11098
+7801-YPR183W	K00721
+7802-YPR184W	K01196
+7803-YPR185W	K08331
+7804-YPR186C
+7805-YPR187W
+7806-YPR188C
+7807-YPR189W	K12600
+7808-YPR190C	K03023
+7809-YPR191W	K00415
+7810-YPR192W	K09885
+7811-YPR193C	K18852
+7812-YPR194C
+7813-YPR195C
+7814-YPR196W
+7815-YPR198W_NumOfGenes_2
+7816-YPR199C_NumOfGenes_2	K09043
+7817-YPR200C_NumOfGenes_2	K18064
+7818-YPR201W_NumOfGenes_2	K03325
+7819-Q0010
+7820-Q0017
+7821-Q0045_NumOfGenes_9
+7822-Q0080	K02125
+7823-Q0085	K02126
+7824-Q0092
+7825-Q0105_NumOfGenes_4	K00412
+7826-Q0130_NumOfGenes_2	K02128
+7827-Q0140
+7828-Q0142
+7829-Q0143
+7830-Q0144
+7831-Q0160
+7832-Q0182
+7833-Q0250	K02261
+7834-Q0255
+7835-Q0275	K02262
+7836-Q0297
+7837-R0010W_NumOfGenes_2
+7838-R0020C
+7839-R0030W_NumOfGenes_2
+7840-R0040C_NumOfGenes_2
+7841-RDN25-1_NumOfGenes_5
+7842-RDN18-1
+7843-RDN58-1_NumOfGenes_2
+7844-YMRCTy1-4_NumOfGenes_31_NumOfGenes_68
+7845-YDRWTy2-3_NumOfGenes_13_NumOfGenes_28
+7846-YGRWTy3-1_NumOfGenes_6	K07497
+7847-YHLWTy4-1_NumOfGenes_3_NumOfGenes_6
+7848-YCLWTy5-1_NumOfGenes_4
