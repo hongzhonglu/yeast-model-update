@@ -189,7 +189,9 @@ nonORF_map288$annotation <- getMultipleReactionFormula(ss2$Annotation,ss2$ec,non
 
 
 #level 2 compared with the ec id compared the new ORFs with all the other ORFs
-nonORF_without288 <- filter(nonORF, is.na(nonORF$gene) & is.na(nonORF$type))
+tt <- setdiff(nonORF$panID,panID_with288)
+index3 <- which(nonORF$panID %in% tt == TRUE)
+nonORF_without288 <- nonORF[index3,]
 nonORF_without288$ec <- str_trim(nonORF_without288$ec, side = "both")
 nonORF_without288$source0 <- getMultipleReactionFormula(sce_tcdb$type,sce_tcdb$v1,nonORF_without288$ec)
 nonORF_without288$annotation <- getMultipleReactionFormula(ss2$Annotation,ss2$ec,nonORF_without288$ec)
