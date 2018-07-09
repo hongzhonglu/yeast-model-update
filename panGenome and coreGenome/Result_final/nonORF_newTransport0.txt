@@ -1,0 +1,13 @@
+annotation	ec	panID
+Hexose transporter (Similarity) - Kluyveromyces lactis (Yeast).	2.A.1.1.33	29-EC1118_1O4_6634g
+Lactose permease - Kluyveromyces lactis (Yeast).	2.A.1.1.9	"46-PUT_LAC_TRASP-R.14850-;595-snap_masked-2218-BDE_8"
+Glucose/xylose symporter 1 - Candida intermedia.	2.A.1.1.51	153-augustus_masked-2075-ARN_6
+Drug efflux permease KNQ1 OS=Kluyveromyces lactis PE=4 SV=1	2.A.1.3.71	287-augustus_masked-6649-CPA_4
+Aquaporin-2 OS=Saccharomyces cerevisiae GN=AQY2 PE=2 SV=1	1.A.8.6.2	397-augustus_masked-9894-CPR_4
+Maltose permease MAL6T (Maltose transport protein MAL6T) - Saccharomyces cerevisiae (Baker's yeast).	2.A.1.1.10	"591-snap_masked-217-BFM_3;633-snap_masked-4265-BCN_8;1212-augustus_masked-BCG_8-12612;1494-maker-BEE_6-12017"
+Glucose transporter/sensor OS=Pichia stipitis GN=RGT2 PE=4 SV=1	2.A.1.1.68	720-augustus_masked-CFC_2-43056
+3-HYDROXY-3-METHYLGLUTARYL-COENZYME A REDUCTASE (EC 1.1.1.34) (HMG-COA REDUCTASE) - Homo sapiens (Human).	2.A.6.6.5	1221-augustus_masked-AQA_4-6966
+Aquaporin Aqy1 OS=Saccharomyces cerevisiae PE=3 SV=1	1.A.8.6.1	1310-augustus_masked-BCQ_8-11841
+Glyceraldehyde-3-phosphate dehydrogenase OS=Amoebophilus asiaticus (strain 5a2) GN=Aasi_1069 PE=3 SV=1	3.A.23.6.1	1374-augustus_masked-BEP_4-7596
+ATP-binding cassette sub-family C member 9 OS=Homo sapiens GN=ABCC9 PE=1 SV=2	3.A.1.208.23	1681-snap_masked-APS_4-8484
+Copper resistance-associated P-type ATPase - Candida albicans (Yeast).	3.A.3.5.9	1714-snap_masked-ASB_2-40163
