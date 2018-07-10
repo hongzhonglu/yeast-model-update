@@ -104,23 +104,6 @@ newsInPan$annotation <- getMultipleReactionFormula(ss1$Annotation,ss1$ID,newsInP
 write.table(newsInPan,"new transport rxn from TCDB.txt", sep = "\t", row.names = FALSE)
 
 
-#change gene-transport into GPR format
-outGPR <- function(rxnID,gene,formula){
-  #input:
-  #rxnID <- newsInPan$ec
-  #gene <- newsInPan$panID
-  #formula <- newsInPan$annotation
-  #output:
-  #result, dataframe to summarize the gene-protein-reaction relation 
-  geneAnnotation <- data.frame(gene0=gene,rxn0=rxnID,formula0=formula,stringsAsFactors = FALSE)
-  result <- data.frame(reactionID = unique(rxn), stringsAsFactors = FALSE)
-  #using getMultipleReactionFormula
-  result$gene <- getMultipleReactionFormula(geneAnnotation$gene0, geneAnnotation$rxn0, result$reaction)
-  result$formula <- getMultipleReactionFormula(geneAnnotation$formula0, geneAnnotation$rxn0, result$reaction)
-  return(result)
-  }
-
-newTransporot <-outGPR(newsInPan$ec,newsInPan$panID,newsInPan$annotation)
 
 
 
@@ -164,7 +147,6 @@ common <- intersect(s288Genome_pi100$panID,sce_tcdb$v2)
 #level 1: if the gene is not ortholog. a best hit will be choosed based on higest bitscore
 #if the hit belong to the existed reaction. It can merged based on reactions
 #if the hit belong to the new reaction. It can be regarded as the new GPRs.
-
 panID_with_ortholog <- read_excel("panID_with_ortholog.xlsx")
 nonORF <- panGenome0[1:736,]
 nonORF$gene <- getMultipleReactionFormula(uniprt_tcdb2$gene_name,uniprt_tcdb2$Entry,nonORF$proteinID)
@@ -178,19 +160,13 @@ panID_ortholog <- unique(nonORF_ortholog$panID)
 
 
 #level 1
-#these gene could mapping onto s288c based on blast analysis
-#new question, based on cut-off: pidenty >= 45, bitscore >=100. One panID could be mapped onto several different
-#geneid from s288c, so how to choose the best hit??
-#maybe in this step, we could choose just one geneID as the hit for each nonORF based on the bitscore values. It can be found if the panID could be
-#mapped onto several genes of s288c itself, then these genes could have the similar function.
-
+#for this panID of not ortholog, we can choose the best hit based on bitscore
+#design a code to choose the best hit based on bitscore for each panID
 panID_notOrtholog <- setdiff(nonORF$panID, panID_ortholog)
 index2 <- which(nonORF$panID %in% panID_notOrtholog ==TRUE)
 nonORF_notOrtholog <- nonORF[index2,]
 
-#for this panID of not ortholog, we can choose the best hit based on bitscore
-#design a code to choose the best hit based on bitscore for each panID
-
+#this function is used to choose the best hit for each gene based on the bitscore
 getBestHit <- function (gene, blastList){
 #gene1 <- '148-augustus_masked-1999-AID_2'
 #blastList <- nonORF_notOrtholog
@@ -202,11 +178,12 @@ return(target)
 
 
 for (i in seq(length(nonORF_notOrtholog$panID))){
-  nonORF_notOrtholog$best_hit[i] <- getBestHit(nonORF_notOrtholog$panID[i],blastList1)
+  nonORF_notOrtholog$best_hit[i] <- getBestHit(nonORF_notOrtholog$panID[i],nonORF_notOrtholog)
 
 }
 
 
+#whether the best hit is belong to s288c genome
 nonORF_notOrtholog$best_hit_s288c <- getMultipleReactionFormula(uniprt_tcdb2$gene_name,uniprt_tcdb2$Entry,nonORF_notOrtholog$best_hit)
 
 #choose the gene with the best hit from s288c
@@ -222,10 +199,14 @@ nonORF_else <- select(nonORF_notOrtholog_with_hit_else,panID, best_hit)
 
 
 
+#level 2 compared with the ec id 
+#compared the new ORFs with all the other ORFs
+#these gene can be merged if they have the similar ec number with the s288c genome
+#if not, then the new gene-protein-rxn could be found for these panIDs
 
-#level 2 compared with the ec id compared the new ORFs with all the other ORFs
 nonORF_else$annotation <- getMultipleReactionFormula(ss2$Annotation,ss2$proteinID,nonORF_else$best_hit)
 nonORF_else$ec <- getMultipleReactionFormula(ss2$ec,ss2$proteinID,nonORF_else$best_hit)
+
 
 #find the gene from s288c based on ec number
 nonORF_else$gene_288c_fromEC <- getMultipleReactionFormula(sce_tcdb$v2,sce_tcdb$v1,nonORF_else$ec)
