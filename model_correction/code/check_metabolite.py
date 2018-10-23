@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 # set the directory
 os.getcwd()
-os.chdir('/Users/luho/PycharmProjects/python learning/venv/project1_modelling/check_compartment/code')
+os.chdir('/Users/luho/PycharmProjects/model/model_correction/code')
 
 met_fulllist = pd.read_table('../data/metabolite_manual_curation_full_list.tsv')
 met_fulllist = met_fulllist.iloc[0:1059]
