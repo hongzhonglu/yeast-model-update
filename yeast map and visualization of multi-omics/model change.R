@@ -293,13 +293,16 @@ DefineCurrencyMet <- function(rxn_split_refine0, subsystem0,numberGEM, numberSub
   rxn_system0 <- rxn_system0[!duplicated(rxn_system0$Abbreviation),]
   metabolite_withoutCompartment <- rxn_split_refine0
   metabolite_withoutCompartment$name_simple <- str_replace_all(metabolite_withoutCompartment$v3, "\\[.*?\\]", "")
-  metabolite_withoutCompartment$subsystem <- getSingleReactionFormula(rxn_system0$Subsystem_new, rxn_system0$Abbreviation, metabolite_withoutCompartment$v2)
+  metabolite_withoutCompartment$subsystem <- getSingleReactionFormula(rxn_system0$subsystem, rxn_system0$Abbreviation, metabolite_withoutCompartment$v2)
   
   ## define the general currency in whole model
   analysis_metabolites <- metabolite_withoutCompartment %>%
     count(name_simple) %>% ## calculate the number of each metabolite
     arrange(., desc(n)) ## order the metabolites based on the number
   currency_metabolites_general <- analysis_metabolites$name_simple[1:numberGEM] ## find the currency metabolites
+  
+  cat('statistical analysis of metabolites in model')
+  print(analysis_metabolites)
   
   # choose one subsystem
   # subsystem0 <- "pyruvate metabolism \\( sce00620 \\)"
@@ -310,9 +313,12 @@ DefineCurrencyMet <- function(rxn_split_refine0, subsystem0,numberGEM, numberSub
   metabote_analysis_subsystem <- metabolite_subsystem %>%
     count(name_simple) %>%
     arrange(., desc(n))
+  cat('statistical analysis of metabolites in subsystem')
+  print(metabote_analysis_subsystem)
   currency_metabolites_from_subsystem <- metabote_analysis_subsystem$name_simple[1:numberSubsystem]
   # combine the general currency and specific currency
   currency_metabolites <- unique(c(currency_metabolites_general, currency_metabolites_from_subsystem))
+  cat('Choose currency metabolite for map of subsystem \n')
   print(currency_metabolites)
   return(currency_metabolites[!is.na(currency_metabolites)])
 }

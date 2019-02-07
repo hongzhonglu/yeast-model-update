@@ -6,7 +6,14 @@ source('transition for cellDesigner.R')
 #prepare the reaction format
 rxn <- read_excel("data/iML1515.xls",  sheet = "Reaction List")
 metabolite <- read_excel("data/iML1515.xls",  sheet = "Metabolite List")
+#analysis subsystem
+analysis_subsystem <- rxn %>%
+  count(Subsystem) %>%
+  arrange(., desc(n)) 
 
+
+
+#pre-process the metabolite and rxn
 metabolite <- select(metabolite, Abbreviation,`Charged formula`, Charge)
 metabolite$KEGGID <- NA
 colnames(metabolite) <- c('Metabolite description', 'Metabolite formula', 'Charge', 'KEGGID')
@@ -50,13 +57,15 @@ rxn_split_refine$v2 <- paste('r_',rxn_split_refine$v2, sep = "")
 
 
 # choose the subsytem
-subsystem1 <-  "Glycolysis/Gluconeogenesis"
+subsystem1 <-  "Cofactor and Prosthetic Group Biosynthesis"
 
 # Define the currency metabolite in each subsystem
 currency_metabolites <- DefineCurrencyMet(rxn_split_refine, 
                                           subsystem0=subsystem1,
                                           numberGEM=14,
-                                          numberSubsystem=1)
+                                          numberSubsystem=20)
+
+
 
 # remove the reactions with only one metabolite
 # if we do not remove the currency metabolite in the model then this step is mainly removed exchange reaction
@@ -99,3 +108,14 @@ produceInputForCellDesigner(met_annotation,
                             rxn_core_carbon_cellD0,
                             x_size=1200, 
                             y_size=2000)
+
+
+
+
+
+#note
+# solve the currency metabolites calculation in subsystem level
+# but find more h+ from "Oxidative Phosphorylation"
+# 0.5, 1.5 as the metabolite
+# h as the base reactant or product
+# but for larger subsytem "Nucleotide Salvage Pathway"(150 rxn), it is still difficult to display it.
