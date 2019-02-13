@@ -7,15 +7,20 @@ rxn <- read_excel("data/yeastGEM_latest version.xls", sheet = "Reaction List")
 metabolite <-  read_excel("data/yeastGEM_latest version.xls", sheet = "Metabolite List")
 rxn_split_refine <- splitRxnToMetabolite.Yeast(rxn, metabolite)
 
+# analysis subsystem
+analysis_subsystem <- rxn %>%
+  count(Subsystem_new) %>%
+  arrange(., desc(n)) 
 
 # choose the subsytem
-subsystem1 <- "glycolysis / gluconeogenesis \\( sce00010 \\)"
+#subsystem1 <- "glycolysis / gluconeogenesis \\( sce00010 \\)"
+subsystem1 <- "purine metabolism \\( sce00230 \\)"
 
 # Define the currency metabolite in each subsystem
 currency_metabolites <- DefineCurrencyMet(rxn_split_refine, 
                                           subsystem0=subsystem1,
                                           numberGEM=14,
-                                          numberSubsystem=1)
+                                          numberSubsystem=10)
 
 # remove the reactions with only one metabolite
 # if we do not remove the currency metabolite in the model then this step is mainly removed exchange reaction
@@ -61,3 +66,5 @@ produceInputForCellDesigner(met_annotation,
                             x_size=1200, 
                             y_size=2000)
 
+# note 
+# we could find in r_0035, h+[c] as the base product, should be corrected!!!

@@ -57,13 +57,13 @@ rxn_split_refine$v2 <- paste('r_',rxn_split_refine$v2, sep = "")
 
 
 # choose the subsytem
-subsystem1 <-  "Cofactor and Prosthetic Group Biosynthesis"
+subsystem1 <-  "Alternate Carbon Metabolism"
 
 # Define the currency metabolite in each subsystem
 currency_metabolites <- DefineCurrencyMet(rxn_split_refine, 
                                           subsystem0=subsystem1,
                                           numberGEM=14,
-                                          numberSubsystem=20)
+                                          numberSubsystem=15)
 
 
 
@@ -115,7 +115,7 @@ produceInputForCellDesigner(met_annotation,
 
 #note
 # solve the currency metabolites calculation in subsystem level
-# but find more h+ from "Oxidative Phosphorylation"
-# 0.5, 1.5 as the metabolite
-# h as the base reactant or product
+# but find more h+ from "Oxidative Phosphorylation", solved!
+# 0.5, 1.5 as the metabolite, solved!
+# h as the base reactant or product, 'r_TRDR'
 # but for larger subsytem "Nucleotide Salvage Pathway"(150 rxn), it is still difficult to display it.

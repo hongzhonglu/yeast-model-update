@@ -127,7 +127,7 @@ splitRxnToMetabolite.Ecoli <- function(reationFrame, sep0){
   rxn_met <- rxn_met %>% separate(.,reaction, into = c('ID','compostion'), sep = "@")
   rxn_met$MetID <- str_trim(rxn_met$MetID, side = "both")
   for (i in seq_along(rxn_met$ID)){
-    if(!str_detect(rxn_met$MetID[i], "^[:digit:] ")){
+    if(!str_detect(rxn_met$MetID[i], "^\\d+\\.*\\d* ")){
       rxn_met$MetID[i] <- paste(1, rxn_met$MetID[i], " ")
     }
   }
